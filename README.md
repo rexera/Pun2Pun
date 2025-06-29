@@ -40,6 +40,55 @@ data/visual/
 
 ## 🏗️ Dataset Statistics
 
+For textual data, we collected Chinese and English homophonic and homographic puns from multiple sources, with quality assurance and annotations: 
+
+```bibtex
+@misc{ChineseHumorSentiment,
+  author       = {Liu, Huanyong},
+  title        = {ChineseHumorSentiment: Chinese humor sentiment mining including corpus build and NLP methods},
+  year         = {2018},
+  url          = {https://github.com/liuhuanyong/ChineseHumorSentiment},
+  note         = {GitHub repository},
+  howpublished = {\url{https://github.com/liuhuanyong/ChineseHumorSentiment}}
+}
+@inproceedings{joke_master,
+    title = "Are {U} a Joke Master? Pun Generation via Multi-Stage Curriculum Learning towards a Humor {LLM}",
+    author = "Chen, Yang  and
+      Yang, Chong  and
+      Hu, Tu  and
+      Chen, Xinhao  and
+      Lan, Man  and
+      Cai, Li  and
+      Zhuang, Xinlin  and
+      Lin, Xuan  and
+      Lu, Xin  and
+      Zhou, Aimin",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Findings of the Association for Computational Linguistics ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand and virtual meeting",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-acl.51",
+    pages = "878--890",
+}
+@inproceedings{simpson2019predicting,
+   author    = {Edwin Simpson and Do Dinh, Erik-L{\^{a}}n and
+                Tristan Miller and Iryna Gurevych},
+   title     = {Predicting Humorousness and Metaphor Novelty with
+                {Gaussian} Process Preference Learning},
+   booktitle = {Proceedings of the 57th Annual Meeting of the
+                Association for Computational Linguistics (ACL 2019)},
+   month     = jul,
+   year      = {2019},
+   pages     = {5716--5728},
+}
+```
+
+For visual data, since no relevant datasets exist, we manually curated a diverse collection of examples from both Chinese and English public social media sources, consisting of images paired with pun-based captions embedded in them.
+
 | Category | Language | Modality | Homophonic | Homographic |
 |----------|----------|----------|------------|-------------|
 | Textual | Chinese | Text | 1,154 | 1,490 |
