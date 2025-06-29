@@ -1,0 +1,4034 @@
+[
+    {
+        "index": 1,
+        "text": "What has eyes but cannot see? </3 A potato.",
+        "task2": "eyes可以理解为“眼睛”，或者“像眼睛的东西”",
+        "task3": "土豆上有像眼睛一样的东西，但是它不能通过它的“眼睛”看东西。",
+        "task4": "土豆上可能会有黑色的泥点或者芽，像眼睛一样的东西；可能用于吐槽土豆不干净或者发芽了。",
+        "tag": "graphic"
+    },
+    {
+        "index": 2,
+        "text": "-What kind of shorts do clouds wear? -Thunderwear.",
+        "task2": "thunderwear 由underwear引申来",
+        "task3": "云穿什么样的短裤？云的内衣。",
+        "task4": "云朵穿的短裤上有雷电的标志，因而是THUNDERWEAR，用于防雷击；可能用于搞笑梗图。",
+        "tag": "phonic"
+    },
+    {
+        "index": 3,
+        "text": "-What is your favorite month? -july. -Why July? -I didn't lie.",
+        "task2": "Why did you lie与why july谐音",
+        "task3": "两人对话，连读July和did you lie读音很像。",
+        "task4": "英文对话中经常会出现连读的情况，Why july? 和 Why do you lie? 发音很像；可能用于讲冷笑话。",
+        "tag": "phonic"
+    },
+    {
+        "index": 4,
+        "text": "You're shrimply the best.",
+        "task2": "shrimply和simply谐音",
+        "task3": "shrimply图片是一只虾",
+        "task4": "一只可爱的虾；可能用于夸赞别人。",
+        "tag": "phonic"
+    },
+    {
+        "index": 5,
+        "text": "-Why did the banana go to the doctor? -It wasn't peeling well.",
+        "task2": "peeling和feeling谐音",
+        "task3": "香蕉去看病，因为它皮没剥好/感觉不好。",
+        "task4": "两根香蕉，一根剥得很好，另一根则伤痕累累；可能用于幽默的表达自己感觉不太好。",
+        "tag": "phonic"
+    },
+    {
+        "index": 6,
+        "text": "I really like taking there trpa. They help remind me that I'm in control of my life. A remote island.",
+        "task2": "remote control遥控",
+        "task3": "遥控器在偏远的岛上，不能被控制，因此觉得自由。",
+        "task4": "两个遥控器躺在遥远的岛上，很自在；可能用于表达自由。",
+        "tag": "graphic"
+    },
+    {
+        "index": 7,
+        "text": "Want to hear a joke about paper? Nevermind, it's tearable.",
+        "task2": "tearable和terrible谐音",
+        "task3": "关于论文的笑话，它可以忍受/很糟糕 。",
+        "task4": "一个人说的一段话；可能用于吐槽学生论文的荒谬 。",
+        "tag": "phonic"
+    },
+    {
+        "index": 8,
+        "text": "You hang around, I'll go on ahead.",
+        "task2": "hang around闲逛；徘徊；字面可理解为悬挂 go ahead前进；字面可理解为在头上。",
+        "task3": "帽子说，你无所事事（悬挂着），我积极进取（在头上）。",
+        "task4": "一个帽子和一个领结在谈论双方的功能；可能用于幽默的表达各自的分工。",
+        "tag": "graphic"
+    },
+    {
+        "index": 9,
+        "text": "-What do you call a cow with no less? -Ground beef.",
+        "task2": "ground beef 碎牛肉/在地上的牛",
+        "task3": "如何称呼没有腿的牛？睡牛。（睡在地上的牛；碎牛肉）",
+        "task4": "一只没有腿的牛在草地上被称为GROUND BEEF；可能用于幽默的表达牛肉的吃法。",
+        "tag": "graphic"
+    },
+    {
+        "index": 10,
+        "text": "Don't listen to him. He's lion.",
+        "task2": "lion和lie谐音",
+        "task3": "别相信他，他是说谎者/狮子。",
+        "task4": "一只凶狠的LION，谐音说谎者；可能用于吐槽一个人不诚实。",
+        "tag": "phonic"
+    },
+    {
+        "index": 11,
+        "text": "-What do you call a pig that does karate? -Pork chop.",
+        "task2": "pork chop可译为猪排或猪做掌劈动作。",
+        "task3": "如何称呼打空手道的猪？猪排。（猪拍）",
+        "task4": "一只可爱的小猪穿着跆拳道衣服在劈掌，也可称作猪排；可能用于讲冷笑话。",
+        "tag": "graphic"
+    },
+    {
+        "index": 12,
+        "text": "I know it's cheesy but I feel grate.",
+        "task2": "grate和great谐音",
+        "task3": "我知道这很虚伪，但我感觉很好；我要融化了。",
+        "task4": "一个擦丝器具，上面的孔看起来像是在虚伪的笑；可能用于幽默的表达无奈。",
+        "tag": "phonic"
+    },
+    {
+        "index": 13,
+        "text": "Astronut.",
+        "task2": "astronut由astronaut引申",
+        "task3": "宇航员，宇航花生。",
+        "task4": "一个花生带着宇航员头套被称为ASTRONUT；可能用于谐音冷笑话。",
+        "tag": "graphic"
+    },
+    {
+        "index": 14,
+        "text": "-What do you call an owl that does magic tricks? -Hoodini.",
+        "task2": "hoodini和hooting谐音",
+        "task3": "如何称呼变魔术的猫头鹰？罩上布/猫头鹰叫",
+        "task4": "一只猫头鹰在变逃脱魔术，Harry Houdini是一位非常著名的魔术师，以逃脱表演闻名于世；可能用于冷笑话",
+        "tag": "phonic"
+    },
+    {
+        "index": 15,
+        "text": "-How do you organize a space party? -You planet.",
+        "task2": "planet和plan it谐音",
+        "task3": "你怎么组织太空派对？你的星球；按你的计划。",
+        "task4": "一堆星球聚在一起开太空派对；可能用于幽默的表达一个人有计划。",
+        "tag": "phonic"
+    },
+    {
+        "index": 16,
+        "text": "-Which U.S. state has the smallest soft drinks? -Minisoda.",
+        "task2": "minisoda和minisode谐音",
+        "task3": "美国最小的软饮料是什么？迷你苏打；迷你剧情",
+        "task4": "一只手上放着很多饮料迷你模型，其发音与迷你剧情相似；可能用于幽默的形容迷你剧情。",
+        "tag": "phonic"
+    },
+    {
+        "index": 17,
+        "text": "-What do you call an everyday potato? -A commentator.",
+        "task2": "potato”有土豆的意思，也可以指“脑袋空空如也的人”。",
+        "task3": "你把一个成天说个不停（像个日常的“土豆脑袋”）的人叫什么？叫评论员.",
+        "task4": "一个土豆戴着耳机在解说；可能用于幽默的吐槽一个人。",
+        "tag": "graphic"
+    },
+    {
+        "index": 18,
+        "text": "Bored game. Monotony.",
+        "task2": "board和bored谐音",
+        "task3": "棋盘游戏/无聊的游戏",
+        "task4": "一个人面无表情地拿着一个无聊的游戏，其与棋盘游戏谐音；可能用于吐槽下棋无聊。",
+        "tag": "phonic"
+    },
+    {
+        "index": 19,
+        "text": "Animals puns. Quack me up!",
+        "task2": "quack和crack谐音",
+        "task3": "crack me up让某人发笑，quack me up可以理解为用鸭子叫的方式把我弄醒。",
+        "task4": "一只鸭子在张开嘴叫喊；可能用于表达某件事把自己逗笑了。",
+        "tag": "phonic"
+    },
+    {
+        "index": 20,
+        "text": "There's no point anymore.",
+        "task2": "there's no point可以理解为没有意义，point也可以翻译为尖端。",
+        "task3": "铅笔的尖断了，因此no point/没有任何意义了。",
+        "task4": "铅笔的尖断了；可能用于冷笑话素材。",
+        "tag": "graphic"
+    },
+    {
+        "index": 21,
+        "text": "I'm owl by myself.",
+        "task2": "owl与own谐音",
+        "task3": "owl和own谐音，配图猫头鹰owl，我拥（鹰）有我自己。",
+        "task4": "一只呆呆的猫头鹰；可能用于幽默的表达一个人的独立。",
+        "tag": "phonic"
+    },
+    {
+        "index": 22,
+        "text": "Go shawty. It's sherbert day.",
+        "task2": "sherbert day和your birthday谐音",
+        "task3": "小子，今天是你的生日/今天是吃果汁牛奶冻的日子。",
+        "task4": "两个桃子；可能用于幽默的表达祝一个人生日快乐。",
+        "tag": "phonic"
+    },
+    {
+        "index": 23,
+        "text": "-What do you call a bear with no teeth? -A gummy bear.",
+        "task2": "gummy有没有牙齿的和粘性的两个意思。",
+        "task3": "你怎么称呼一个没有牙齿的熊？无耻（齿）",
+        "task4": "一个小熊软糖，没有牙齿；可能用于表达一个人的无耻。",
+        "tag": "graphic"
+    },
+    {
+        "index": 24,
+        "text": "That's emusing.",
+        "task2": "amazing emusing谐音",
+        "task3": "这很鸸鹋，这很妙",
+        "task4": "一只鸸鹋，其英文与妙谐音；可能用于幽默的表达赞扬。",
+        "tag": "phonic"
+    },
+    {
+        "index": 25,
+        "text": "-How do you put baby alien to sleep? -On rocket.",
+        "task2": "rock it和rocket谐音",
+        "task3": "怎么哄外星宝宝睡觉？摇摇篮；用火箭发射。",
+        "task4": "一个火箭飞船在把一个外星人宝宝送上天；可能用于幽默的表达哄小孩子睡觉的方式。",
+        "tag": "phonic"
+    },
+    {
+        "index": 26,
+        "text": "I'll fight you with my bear hands! -Oh, dear.",
+        "task2": "deer dear谐音",
+        "task3": "我将用熊掌与你决斗。哦，小鹿；亲爱的。",
+        "task4": "一只鹿拿着熊掌与熊决斗；可能用于嘲笑其自不量力。",
+        "tag": "phonic"
+    },
+    {
+        "index": 27,
+        "text": "-What do you call a thieving alligator? -Acrookodile.",
+        "task2": "crookodile crocodile谐音",
+        "task3": "crook有骗子的意思。如何称呼偷窃的鳄鱼?甲（假）鱼。",
+        "task4": "一只鳄鱼装扮成小偷的样子；可能用于冷笑话素材。",
+        "tag": "phonic"
+    },
+    {
+        "index": 28,
+        "text": "I keep all my dad jokes in a dad-a-base.",
+        "task2": "dad-a-base database谐音",
+        "task3": "我把所有老爸式笑话放在老爸数据库里了。",
+        "task4": "一只红色的包上写着DAD-A-BASE；可能用于幽默的表达数据库。",
+        "tag": "phonic"
+    },
+    {
+        "index": 29,
+        "text": "ERECTION IN PROGRESS.",
+        "task2": "erection建造；勃起",
+        "task3": "施工/勃起中，不准使用！",
+        "task4": "标志上一个人生殖器官处画了叉号；可能用于低俗的笑话。",
+        "tag": "graphic"
+    },
+    {
+        "index": 30,
+        "text": "I ordered a vault and a speaker online. They arrived safe and sound.",
+        "task2": "safe and sound安然无恙，有保险有声音。",
+        "task3": "我网购了一个保险柜和一个扬声器，它们安全抵达。safe和sound分别指保险箱和扬声器。",
+        "task4": "一个保险柜和扬声器；可能用作冷笑话素材。",
+        "tag": "graphic"
+    },
+    {
+        "index": 31,
+        "text": "-Dad. I need your help I got a flat tire. -Can't your husband help you? -I called him but he's really busy. -OK, do you have a spare one? -I called him too but he didn't answer.",
+        "task2": "spare one备胎，可指人也可以指轮胎。",
+        "task3": "-爸爸，我需要你的帮助。我车胎漏气了。-你老公不能帮你吗？-我给他打了电话，但是他真的很忙。-好吧，你有备胎吗？-我给他打了电话，但他没接。",
+        "task4": "一个人和爸爸的对话中揭露了备胎；可能用于幽默的表达在感情中存在备胎。",
+        "tag": "graphic"
+    },
+    {
+        "index": 32,
+        "text": "If a bear is chasing you. Does that mean you are running with a bare behind?",
+        "task2": "bear bare谐音",
+        "task3": "如果有熊在追你，是不是意味着熊在你后面；你在光屁股跑？",
+        "task4": "一只熊捂着自己的眼睛，表示没眼看；可能用于幽默的谐音梗。",
+        "tag": "phonic"
+    },
+    {
+        "index": 33,
+        "text": "Looks like another reigny day. The king of puns.",
+        "task2": "reign rainy谐音",
+        "task3": "似乎是一个雨天/适合出征的天。",
+        "task4": "一个国王看着外面的天气快要下雨，觉得是一个可出征的天气；可能用于吐槽国王的误判 。",
+        "tag": "phonic"
+    },
+    {
+        "index": 34,
+        "text": "Catholic, (noun): a person addicted to cats.",
+        "task2": "catholic和 cat holic",
+        "task3": "cat holic（喜欢猫的人）/catholic 天主教徒",
+        "task4": "一只看起来很有威严的猫；可能用于幽默地表达天主教徒也是小猫的粉丝。",
+        "tag": "graphic"
+    },
+    {
+        "index": 35,
+        "text": "-The boss said he is going to fire whoever has the worst posture! -Do you know who it will be? -I have a hunch.",
+        "task2": "hunch(预感/驼背)",
+        "task3": "“老板说他要炒了姿势最差的人！”“天哪，你知道是谁吗？”“我有种不详预感”。巧妙运用 hunch(预感/驼背) 进行双关",
+        "task4": "一个身体形态不太好员工与老板的对话；可能用于自嘲。",
+        "tag": "graphic"
+    },
+    {
+        "index": 36,
+        "text": "Greetings from planet IKEA. We come n pieces.",
+        "task2": "peace/pieces谐音",
+        "task3": "来自宜家星球的亲切问候，我们为和平而来！你看我们都碎成这样了，还有侵略你们的可能吗？巧妙运用 come in peace/pieces(为和平而来/来时是零件形式) 的谐音，以诙谐的方式说明了宜家家具都是以零件形式发出的特点，而且不包安装",
+        "task4": "一个外星飞船带来了一堆外星人零件；宜家产品运输的就是零件，不包安装；可能用于宣传宜家。",
+        "tag": "phonic"
+    },
+    {
+        "index": 37,
+        "text": "Ex box for sale.",
+        "task2": "x box和exbox谐音",
+        "task3": "我们有个Xbox正在促销！还是我们有个曾经装Xbox的盒子？巧妙运用 ex box(曾经是盒子，谐音xbox)",
+        "task4": "一个盒子上的一部分纸板；可能用作冷笑话素材。",
+        "tag": "phonic"
+    },
+    {
+        "index": 38,
+        "text": "Reading a book about a detctive that solves crimes purely by chance. Sheerluck holmes.",
+        "task2": "sheer luck和Sherlock谐音",
+        "task3": "读一本讲述了侦探”完全靠运气“解决犯罪的小说：械落客·福尔摩斯（sheer luck：sheer有”纯粹的“的意思，luck是运气）",
+        "task4": "一个侦探装扮的人在读一本小说，写道侦探破案全靠偶然；可能用于嘲讽。",
+        "tag": "phonic"
+    },
+    {
+        "index": 39,
+        "text": "Culture wars. PRO BIOTICS ANTI BIOTICS",
+        "task2": "culture文化/培养皿",
+        "task3": "antibiotics抗生素，anti是反的词缀，身上的瓶子Rx是处方药，probiotics益生菌pro是支持的词缀所以穿着酸奶的衣服，culture war既可以是“文化”大战也可以是“培养菌”大战",
+        "task4": "一个人穿着酸奶的衣服，一个人穿着处方药的衣服在斗争，酸奶中的益生菌和药相抗；可能用于幽默的展示两者之间的关系。",
+        "tag": "graphic"
+    },
+    {
+        "index": 40,
+        "text": "selfish.",
+        "task2": "selfish selfie谐音",
+        "task3": "selfish（自私）／selfie fish（自拍的鱼）",
+        "task4": "一只鱼举着自拍杆自拍；可能用于谐音梗冷笑话素材。",
+        "tag": "phonic"
+    },
+    {
+        "index": 41,
+        "text": "-Why do the French eat snails? -We don't like fast food.",
+        "task2": "fast行进速度快/制作速度快",
+        "task3": "法国人吃蜗牛，因为他们不吃快餐",
+        "task4": "法国的特色菜品焗蜗牛，蜗牛又是慢的象征；可能用于幽默的表达法国习俗。",
+        "tag": "graphic"
+    },
+    {
+        "index": 42,
+        "text": "-Repeat after me... -After me. -Is he serious? -No, his name is Steve.",
+        "task2": "repeat after me跟我读；重复after me. serious严肃的；人名",
+        "task3": "repeat after me指“跟我读”，但repeat本身就有“重复”的意思，于是男方复读。司仪表示疑惑，但Is he serious 又可以被当做提问任务姓名来理解，所以女方回答了男方的名字。",
+        "task4": "在婚礼现场，一对新人误解司仪的意思导致流程出现差错；可能用于热场子。",
+        "tag": "graphic"
+    },
+    {
+        "index": 43,
+        "text": "DRAW BRIDGE AHEAD.",
+        "task2": "draw bridge吊桥/画下来桥",
+        "task3": "前方吊桥。draw bridge指的是吊桥，而draw和bridge并不同行，被拆开理解。",
+        "task4": "一个人拿着笔再画前面的吊桥；可能用于吐槽警示牌不够严谨。",
+        "tag": "graphic"
+    },
+    {
+        "index": 44,
+        "text": "I'm a social vegan, I avoid meet!",
+        "task2": "meat meet谐音",
+        "task3": "我是个社交素人，我不吃社牛肉。",
+        "task4": "一个人坐在窗边安静的看书，符合社交恐惧症的特征；可能用于幽默的表达社恐和社牛的区别。",
+        "tag": "phonic"
+    },
+    {
+        "index": 45,
+        "text": "-Daddy, where do bad lights go? -To prism.",
+        "task2": "prison prism谐音",
+        "task3": "爸爸，不好的光去哪里了？他们只能棱镜受戮。Prison 监狱读音和prism 棱镜相近。",
+        "task4": "两个太阳在交流，而棱镜可以折射太阳光；可能用于幽默的教授物理知识。",
+        "tag": "phonic"
+    },
+    {
+        "index": 46,
+        "text": "Ifarted, she left... Gone with the wind!",
+        "task2": "gone with wind随风而去；《飘》/《乱世佳人》",
+        "task3": "我放了个屁，她（可以指女朋友，也可以指屁）随风而去了。gone with the wind 是《飘》  所以配图是《乱世佳人》",
+        "task4": "电影《乱世佳人》是根据《飘》这本书改编的；可能用于对电影起到宣传作用。",
+        "tag": "graphic"
+    },
+    {
+        "index": 47,
+        "text": "文明撸猫 civilization masturabates cats.",
+        "task2": "撸的双关",
+        "task3": "文明“撸”猫",
+        "task4": "MASTURBATES与“撸”的动作相似；可能用于低俗、不礼貌的笑话。",
+        "tag": "graphic"
+    },
+    {
+        "index": 48,
+        "text": "Somebody keeps sending me flowers with the heads cut off! Sounds like you're being stalked.",
+        "task2": "stalk叶茎；跟踪",
+        "task3": "有人一直在给我送没有头的花，然后回答道看起来你一直被跟踪，但是stalked同时有茎的意思，没有头的花那就只有茎",
+        "task4": "两个人在对话，谈论相关送花事宜，并由此延伸到被追踪；可能用于冷笑话。",
+        "tag": "graphic"
+    },
+    {
+        "index": 49,
+        "text": "-I was able to successfully weigh a rainbow. -Good work. Captain. -Turns out it was pretty light.",
+        "task2": "light：光/轻的",
+        "task3": "你说你成功给一个彩虹称重了？啊对，挺轻的，毕竟是光（light：光/轻的）",
+        "task4": "两个人在交流为彩虹称重的事；可能用于形容一件事的荒谬。",
+        "tag": "graphic"
+    },
+    {
+        "index": 50,
+        "text": "-Commas are important people. -Commas aren't people.",
+        "task2": "people大家；人",
+        "task3": "逗号很重要，大家。但逗号不是人啊（没有逗号变成了：逗号是 很重要的人）",
+        "task4": "一则帖子下的评论图；可能用于吐槽。",
+        "tag": "graphic"
+    },
+    {
+        "index": 51,
+        "text": "Simba was walking too slow so I told him to Mufasa.",
+        "task2": "Mufasa和move faster谐音",
+        "task3": "Mufasa：国王（斯瓦希里语）/move fast",
+        "task4": "一只成年的狮子和一只小狮子，小狮子走得比较慢；可能用于幽默的提醒一个人走得慢。",
+        "tag": "phonic"
+    },
+    {
+        "index": 52,
+        "text": "Rare, Medium Rare, Medium, Medium Well, Well Done, Congratulation",
+        "task2": "well done：干得好/全熟",
+        "task3": "牛排熟度=鼓励程度",
+        "task4": "牛排熟度等同于鼓励程度；可能用于幽默的表达对一个人的赞扬。",
+        "tag": "graphic"
+    },
+    {
+        "index": 53,
+        "text": "-IT'S THE TURKEYS VS. THE DUCKS. BRACE YOURSELF, jIMMY-WE'RE GONNA SEE A LOT OF FOWL PLAY! HA HA HA HA! -I HAVE THIS GUY.",
+        "task2": "brace做好准备；牙箍",
+        "task3": "猫想吃鸡，狗说箍好你的牙/做好准备",
+        "task4": "一只猫和一只狗在解说鸡和鸭子的棒球比赛；可能用于冷笑话梗图。",
+        "tag": "graphic"
+    },
+    {
+        "index": 54,
+        "text": "Bubble tea company needs a better translator. I'm bubble tea.  Suck my balls.",
+        "task2": "ball珍珠；睾丸",
+        "task3": "suck my ball吸食珍珠/睾丸",
+        "task4": "一张奶茶店对自己珍珠奶茶的宣传图，写着可吸食珍珠，与睾丸谐义；可能用于宣传。",
+        "tag": "graphic"
+    },
+    {
+        "index": 55,
+        "text": "-Name? -Henry. -Age? -E-N-R-Y.",
+        "task2": "H和age谐音",
+        "task3": "病人以为要拼写自己的名字，H-E-N-R-Y",
+        "task4": "医生和病人在核对信息，英文中age和H发音相近；可能用于谐音梗冷笑话。",
+        "tag": "graphic"
+    },
+    {
+        "index": 56,
+        "text": "Hose Hosé",
+        "task2": "hose水管",
+        "task3": "Hose水管，Hosé读音与西班牙语人名José何塞相同，并且我们会说é是e with little hat，所以水管也戴上了小小的帽子",
+        "task4": "一根水管戴上了小帽子，其英文词汇上也多了一点；可能用于幽默的表达单词的形成。",
+        "tag": "graphic"
+    },
+    {
+        "index": 57,
+        "text": "I bought a 12 year old whiskey. His mom was furious.",
+        "task2": "a 12 year old十二岁小孩；十二年的",
+        "task3": "我买了一瓶12年的威士忌，（我给一个12岁的小孩买了威士忌）他妈妈很生气",
+        "task4": "威士忌作为一种酒，有年份储藏的时间长短，另外未成年人禁止饮酒；可能用于幽默的劝诫。",
+        "tag": "graphic"
+    },
+    {
+        "index": 58,
+        "text": "-I can't decide what to order. -How about the duck. -I'll have the lasagna.",
+        "task2": "how about the duck？对男人：点只鸭子 对鸭子：意下如何？",
+        "task3": "服务员向男人推荐鸭子作为菜品/询问鸭子的意见",
+        "task4": "客人与服务员的对话，存在理解误差，将点菜的权利交给了鸭子；可能用于点菜的场景。",
+        "tag": "graphic"
+    },
+    {
+        "index": 59,
+        "text": "Horses on a plane. I hope the plane is stable.",
+        "task2": "stable：稳定的/马厩",
+        "task3": "马上飞机，评论区希望飞机平稳",
+        "task4": "一个飞机里装的都是马，此时的飞机像马厩一样；可能用作冷笑话素材。",
+        "tag": "graphic"
+    },
+    {
+        "index": 60,
+        "text": "I WAS THE KNIGHT NO ONE EXPECTED TO SEE ON THE BATTLEFIELD THAT DAY! SIR PRISE",
+        "task2": "knight和night谐音；sir prise和surprise谐音",
+        "task3": "我是一个没人希望在那天的战场上看到我的武士。",
+        "task4": "一个黑武士拿着盾和剑，骑着马，人们不想在战场上看见他，他对于人们来说是个惊吓；可能用于形容武士的英勇。",
+        "tag": "phonic"
+    },
+    {
+        "index": 61,
+        "text": "Stephen King has a son named Joe. I'm not joking, but he is.",
+        "task2": "Joe King和joking谐音",
+        "task3": "Stephen King 有一个叫Joe的儿子，我没在开玩笑（我不是Joe King），但他是。",
+        "task4": "Joe Burridge发帖子说他没有在开玩笑，他不是Stephen King的儿子，不是Joe King；可能用于冷笑话。",
+        "tag": "phonic"
+    },
+    {
+        "index": 62,
+        "text": "This kid is going places. ANSWER SARGE I DON'T KNOW HOW MUCH LONGER WE CAN HOLD THEM!",
+        "task2": "defend辩护；保护",
+        "task3": "defend此处意为辩护（同法律英语），defend同时又是保护，图中气泡意为“我不知道还能撑多久（在机枪扫射的情况下）”",
+        "task4": "学生在试卷上画了一个小人机枪扫射，在保护answer，错理解了题意；可能用于吐槽学生脑洞大开。",
+        "tag": "graphic"
+    },
+    {
+        "index": 63,
+        "text": "HOW TO SPOT A DOCTORED IMAGE ON THE INTERNET. ORIGINAL DOCTORED",
+        "task2": "doctor医生；篡改",
+        "task3": "如何在网上上传一张被篡改的/被p上医生的照片",
+        "task4": "使用P图技术将一个人的图片放在不同的地方，可能会涉及到篡改事实；可能用于幽默的批判P图技术滥用的危害。",
+        "tag": "graphic"
+    },
+    {
+        "index": 64,
+        "text": "If watermelon exists, why don't Earthmelon, Firemelon, Airmelon? The Elemons",
+        "task2": "watermelon西瓜；水元素",
+        "task3": "如果存在西瓜（水瓜），那么是不是可以有土瓜火瓜空气瓜……瓜等元素论猜想成立",
+        "task4": "图中有不同材质的西瓜；可能用于冷笑话。",
+        "tag": "graphic"
+    },
+    {
+        "index": 65,
+        "text": "When you leave the mall but realise you left your son. Onomah Son",
+        "task2": "Onomah Son 和Oh no my son谐音",
+        "task3": "小孩在商场走丢事件发生时的家长会喊出这两位球员的名字：Oh no my son",
+        "task4": "两位足球运动员的名字连在一起可以幽默的表示把孩子丢了；可能用于谐音梗冷笑话。",
+        "tag": "phonic"
+    },
+    {
+        "index": 66,
+        "text": "-Hey dad. -Yes son? -Did you ever get shot in the army? -No, I got shot in the leddy.",
+        "task2": "army和arm谐音",
+        "task3": "-爸爸，你有在军队里被击中过吗（你胳膊被击中过吗）？-没有",
+        "task4": "一对父子在对话，arm与leg相对；可能用于父子之间的玩笑话。",
+        "tag": "phonic"
+    },
+    {
+        "index": 67,
+        "text": "This might be my last pun of the day. I wanted to go out on a high note and then give it a rest.",
+        "task2": "on a high note“高调”“音调很高”；“have a rest”“休息”“有个休止符”",
+        "task3": "on a high note本来指“高调”，这里指“音调很高”；“have a rest”本来指“休息”，这里指“有个休止符”",
+        "task4": "一段乐谱上有一个休止符；可能用于幽默的表示自己将要休息。",
+        "tag": "graphic"
+    },
+    {
+        "index": 68,
+        "text": "I have a scary joke about math but I'm 2² to say it.",
+        "task2": "²（平方）英文为square，与scared谐音",
+        "task3": "我有个关于数学的笑话，但是我好方不敢讲。",
+        "task4": "一个有关数学的笑话，二的平方与scared谐音；可能用于幽默的表达自己的害怕。",
+        "tag": "phonic"
+    },
+    {
+        "index": 69,
+        "text": "Fish+Duck Finally Fuck",
+        "task2": "FISH+DUCK=FUCK",
+        "task3": "F(ISH)+(D)UCK=FUCK",
+        "task4": "一个科学家将Fish和Duck结合在一起，组成了Fuck；可能用于委婉的骂人。",
+        "tag": "graphic"
+    },
+    {
+        "index": 70,
+        "text": "If you could have sex with a famous celebrity, alive or dead, which would it be? Alive.",
+        "task2": "alive or dead无论他是否在世，选择在世的人/不在世的人。",
+        "task3": "alive or dead本来是表示“你可以选任何名人，无论ta现在是否在世”，但却被理解为了是一种选择",
+        "task4": "推特上的一个帖子与评论，由于理解误差造成滑稽的效果；可能用于冷笑话素材。",
+        "tag": "graphic"
+    },
+    {
+        "index": 71,
+        "text": "OMG I just found out that Albert Einstein was a real person!! All this time I thought he was a theoretical physicist.",
+        "task2": "theoretical physicist“理论物理学家”，theoretical还有“理论存在”的意思",
+        "task3": "theoretical physicist有“理论物理学家”的意思，然而theoretical还有“理论存在”的意思",
+        "task4": "一个人发帖子纠正了她多年以来所认知的以为爱因斯坦是一个理论存在的物理学家，事实是他是一个真正的人；可能用于幽默的表达无知。",
+        "tag": "graphic"
+    },
+    {
+        "index": 72,
+        "text": "Wow!... I can't wait to look as good as you do! Well, you'll have to go through a lot of s#@$ first!",
+        "task2": "go through shit经历痛苦/粪便",
+        "task3": "手纸卷要经历过很多事（屎）才能瘦成纸桶",
+        "task4": "一个手卷纸在跑步机上减肥，事实上它被撕来擦屁股瘦的更快，成为纸筒；可能用于幽默的表达纸的作用。",
+        "tag": "graphic"
+    },
+    {
+        "index": 73,
+        "text": "screenshot",
+        "task2": "screenshot截图 screen屏幕中弹",
+        "task3": "screenshot截图 screen（屏幕）被shot（中弹）了",
+        "task4": "一个手机恰好被子弹射中，表示为screenshot也是截屏的意思；可能用于调侃。",
+        "tag": "graphic"
+    },
+    {
+        "index": 74,
+        "text": "Breakfast Breakslow",
+        "task2": "breakfast早饭/砸的快 breakslow砸的慢",
+        "task3": "breakfast早饭 break fast砸的快 breakslow砸的慢",
+        "task4": "在“我的世界”该游戏中，用斧镐来破石头是一个很慢的过程；可能用于幽默的表达过程缓慢。",
+        "tag": "graphic"
+    },
+    {
+        "index": 75,
+        "text": "IF SOMEONE IS HOTTER THAN YOU THEN YOU ARE COOLER THAN THEM.",
+        "task2": "hotter（性感/热），cooler（冷酷/寒冷）",
+        "task3": "如果有人比你hotter（性感/热），你就比他cooler（冷酷/寒冷)",
+        "task4": "一个人穿着蜘蛛侠的衣服在演讲；可能用于诙谐的冷笑话。",
+        "tag": "graphic"
+    },
+    {
+        "index": 76,
+        "text": "Invisinble Tape",
+        "task2": "invisible透明的；看不见的",
+        "task3": "“透明”胶",
+        "task4": "超市里一个标有透明胶的胶带没有了，像是完全透明了；可能用于冷笑话素材。",
+        "tag": "graphic"
+    },
+    {
+        "index": 77,
+        "text": "Oh no! I'm under a tack!",
+        "task2": "under attack和under a tack谐音",
+        "task3": "under attack（受到攻击）under a tack（在图钉下）",
+        "task4": "一个便签上写小孩子遭受攻击，但可能存在异义；可能用于幽默的表达言语误差。",
+        "tag": "phonic"
+    },
+    {
+        "index": 78,
+        "text": "-Mama, is this safe to eat? -No, it's for storing valuable objects.",
+        "task2": "safe to eat（安全食用/食用保险柜）",
+        "task3": "-妈妈，这个东西能吃吗（能吃保险箱吗)-不能，它是用来装重要东西的",
+        "task4": "一对母女的对话，问一个东西是否能吃，与保险箱意外相关联；可能用于幽默的展示双方理解误差。",
+        "tag": "graphic"
+    },
+    {
+        "index": 79,
+        "text": "HEAL THY BUR GERS Healthy Burgers! Heal Thy Burgers",
+        "task2": "healthy理解为heal thy",
+        "task3": "Thy，古英语中的“Your”。健康的汉堡/治愈汝之汉堡",
+        "task4": "THY是古英语中的 Your，一个小猫装作牧师的样子；可能用于冷笑话素材。",
+        "tag": "graphic"
+    },
+    {
+        "index": 80,
+        "text": "Buy 1 large pizza; get 1 medium free.",
+        "task2": "Medium（中等的/灵媒）",
+        "task3": "“买一个大号披萨，免费赠送一个中号的（披萨）/灵媒。”",
+        "task4": "一个人拿着披萨并扛着一个巫师从店里走出来，medium既有中号的，也有巫师的意思；可能用于店铺宣传。",
+        "tag": "graphic"
+    },
+    {
+        "index": 81,
+        "text": "-I got confused when I saw a guy at the ATM standing on one leg. -He was probablly just checking his balance.",
+        "task2": "Balance（平衡/账户余额）",
+        "task3": "“那人单脚站在ATM机前干吗？”“应该只是在检测自己的平衡/查看账户余额。”",
+        "task4": "两个人就ATM机前的一个人展开对话，balance既有平衡，又有账户余额的意思；可能用于冷笑话。",
+        "tag": "graphic"
+    },
+    {
+        "index": 82,
+        "text": "TEACHER: WHAT ARE YOU LAUGHING ABOUT? ME: NOTHING MY BRAIN: NUNDERWATER",
+        "task2": "nun（修女）+underwater（水下）=nunderwater",
+        "task3": "nun（修女）+underwater（水下）=nunderwater",
+        "task4": "一个修女在水下对着一条鱼做祈祷手势；可能用于谐音冷笑话。",
+        "tag": "graphic"
+    },
+    {
+        "index": 83,
+        "text": "Get the body you' ve always wanted this summer.",
+        "task2": "Body（身材/尸体）",
+        "task3": "夏天到了，来锻炼出自己理想的身材（找到自己想要的尸体）吧",
+        "task4": "两个人在夏天夜晚挖坟墓，get the body既译为得到尸体，也可理解为在夏天得到自己想要的身材；关于盗墓的地狱笑话。",
+        "tag": "graphic"
+    },
+    {
+        "index": 84,
+        "text": "BEST BY MAY 20",
+        "task2": "date（最佳饮用日期/约会）",
+        "task3": "牛奶都有date（约会），而你没有",
+        "task4": "牛奶瓶上一般会有保质期，date既可以理解为保质期，其也有约会的意思；可能用于嘲笑单身的人。",
+        "tag": "graphic"
+    },
+    {
+        "index": 85,
+        "text": "THIS IS THE BEST PICTURE I'VE SEEN TODAY BAR NUN.",
+        "task2": "Bar Nun谐音Bar None",
+        "task3": "Bar Nun谐音Bar None，没有例外，Barnone通常用于句子末尾，best",
+        "task4": "修女很少出现在酒店，她们的日常活动基本都在修道院及其附属场所内；可能用于幽默地形容酒店没有客人的状态。",
+        "tag": "phonic"
+    },
+    {
+        "index": 86,
+        "text": "A möbius strip was sobbing as it walked into a bar .The bartender said ,\"What' s wrong ?\"The möbius strip said, \"Where do I even begin ?\"",
+        "task2": "begin，开始；从头说起",
+        "task3": "莫比乌斯环想敞开心扉，可是该从哪开头",
+        "task4": "莫比乌斯环是一种只有一个面（单侧曲面）和一条边界的拓扑学结构，将一个纸条一端扭转180度后与另一端相连即可得到，它在数学、艺术、建筑等诸多领域都有广泛应用；可能用于调侃“莫比乌斯环”是人类走不出的怪圈。",
+        "tag": "graphic"
+    },
+    {
+        "index": 87,
+        "text": "-How do I set the washing machine? -What are you washing? -A T-shirt. -What does u say on the T-shirt? -Pink Floyd.",
+        "task2": "what does it say on the T-shirt?衣服上写什么？",
+        "task3": "问者问的是衣服上关于洗涤的标签，答者理解为衣服上的图案名字是摇滚歌手",
+        "task4": "Pink Floyd是一支英国著名摇滚乐队，有《The Dark Side of the Moon》等极具影响力的作品；可能用于说明Pink Floyd很火或者用于调侃洗衣服时不关注衣服的材质的人",
+        "tag": "graphic"
+    },
+    {
+        "index": 88,
+        "text": "SPACE... THE UINYL FRONTIER.",
+        "task2": "final和uinyl谐音",
+        "task3": "星际迷航的经典开头Space, the final frontier. Final uinyl读音相近。空间，黑胶的边界",
+        "task4": "“Space: the final frontier” 是《星际迷航》（Star Trek）中的经典台词，用来表达太空是人类探索的最终边界；可能用于推销黑胶唱片。",
+        "tag": "phonic"
+    },
+    {
+        "index": 89,
+        "text": "You can only pick one. Choose wisely. One Wisely",
+        "task2": "pick one or choose Wisely",
+        "task3": "到底pick one还是choose wisely，令人左右为难",
+        "task4": "题目既让人按“One”这个按钮，又让人按“Wisely”这个按钮，形成一种两难境地；可能用于吐槽某些题目因双关而引起误解。",
+        "tag": "graphic"
+    },
+    {
+        "index": 90,
+        "text": "You're a wizard, dad.",
+        "task2": "I’m a what son谐音Emma Watson",
+        "task3": "扮演巫师赫敏的艾玛沃特森，谐音I’m a what son?(你说我是啥？）",
+        "task4": "Emma Watson是一位英国著名女演员，因在《哈利·波特》系列电影中饰演赫敏·格兰杰而广为人知，同时她还是一位积极的女性权益倡导者；可能用于玩Emma Waston名字的梗。",
+        "tag": "phonic"
+    },
+    {
+        "index": 91,
+        "text": "Hot dogs",
+        "task2": "hot dog性感的狗；热狗",
+        "task3": "狗想要在网页上性感（hot)狗狗，但找到热狗",
+        "task4": "狗狗本想找“性感狗狗”的图片，结果搜索结果是“热狗”，狗狗表示很无语；可能用于吐槽“hotdog”的听写，但奈何它太火了。",
+        "tag": "graphic"
+    },
+    {
+        "index": 92,
+        "text": "PEOPLE WRITE CONGRATS BECAUSE THEY CAN'T SPELL CONGRAJLSHINS.",
+        "task2": "Congrajlshins（此为根据读音臆想的拼法，呼应了“不会拼写”的笑点），实为congratulations",
+        "task3": "祝贺只打缩写congrats，因为congratulations都打不对",
+        "task4": "Congrats，祝贺词，是Congratulations的缩写；可能用于吐槽某些单词太长，不易拼写。",
+        "tag": "graphic"
+    },
+    {
+        "index": 93,
+        "text": "PART MAN, PART BOAT, ALL COP. ROWBOATCOP THE FUTURE OF WATER-BASED LAW ENFORCEMENT",
+        "task2": "Raw（桨）+boat（小船）+Cop（警察），谐音RoboCop（机械战警）",
+        "task3": "Raw+boat+Cop，谐音RoboCop（机械战警）",
+        "task4": "RoboCop是指美国科幻动作电影《机械战警》及其系列作品中的主角，一名被犯罪团伙杀害后，由大型企业改造成半人半机械的警察；可能用于调侃“RoboCop”的读音，一次畅想未来的海上执法形式。",
+        "tag": "graphic"
+    },
+    {
+        "index": 94,
+        "text": "Local Police Bust A Nut",
+        "task2": "bust 逮捕 砸碎 nut花生/疯子",
+        "task3": "警察逮捕/砸碎了一个花生/疯子",
+        "task4": "警察一般是抓捕犯人，这里逮捕一个花生很奇怪；可能用于调侃警察努力抓捕却之抓住了一个小人物。",
+        "tag": "graphic"
+    },
+    {
+        "index": 95,
+        "text": "-Diarrhea is hereditary. -How? -It runs in your jeans.",
+        "task2": "jean（牛仔裤）谐音gene（基因）。",
+        "task3": "腹泻是可遗传的。咋遗传？它在你的裤子里跑动/它在你的基因里传承。",
+        "task4": "一般来说，大多数腹泻是不会遗传的；可能用于调侃由于谐音引起的冲突。",
+        "tag": "phonic"
+    },
+    {
+        "index": 96,
+        "text": "-I think I have a crush on Beyoncé. -Whatever floats your boat. -No, thats Buoyancy.",
+        "task2": "float ur boat 引起你的兴趣/满足你的喜好（字面意思是浮起你的船）Beyonce（人名)谐音buoyancy（浮力）",
+        "task3": "float ur boat 引起你的兴趣（字面意思是浮起你的船）Beyonce（人名)谐音buoyancy（浮力）",
+        "task4": "Beyoncé是美国极具影响力的流行乐天后，代表作品有《Single Ladies》《Halo》等；可能用于调侃某些人只从字面意思理解idioms而造成误会/用于玩“Beyoncé”的读音梗",
+        "tag": "graphic"
+    },
+    {
+        "index": 97,
+        "text": "iBrow",
+        "task2": "iBrow谐音eyebrow",
+        "task3": "iBrow＝eyebrow，手机皱眉",
+        "task4": "iPhone是苹果公司（Apple）推出的智能手机，在全球拥有庞大的用户群体；可能用于以一种幽默的方式表达自己对某件事情的不满或困惑情绪。",
+        "tag": "phonic"
+    },
+    {
+        "index": 98,
+        "text": "Doc: The diagnosis is obesity. Patient: Yeah it runs in my family. Doc: No one runs in your family...",
+        "task2": "runs in my family，在我家里有遗传；在我家跑",
+        "task3": "过度肥胖在我家里有遗传（runs in my family）。医生：没人在你家跑",
+        "task4": "run in family在医学上应该表示与遗传相关的意思；可能用于调侃某些人只从字面意思理解idioms而造成误会。",
+        "tag": "graphic"
+    },
+    {
+        "index": 99,
+        "text": "-What's your favorite letter? -The letter G, sir. -And why's that Angus?",
+        "task2": "anus肛门，Angus安格斯（人名），中间隔了个G",
+        "task3": "anus肛门，Angus安格斯（人名），中间隔了个G",
+        "task4": "男孩很感谢字母“G”让自己的名字不是“Anus”；可能用于调侃自己名字的拼写。",
+        "tag": "graphic"
+    },
+    {
+        "index": 100,
+        "text": "Girl: I only date 6 feet guys. Me with 2 feet:",
+        "task2": "feet不只是脚，也是长度单位",
+        "task3": "女孩：我只跟六英尺（六只脚）的人约会。我只有两只脚。",
+        "task4": "女孩说她只跟身高六英尺的人约会；可能用于自嘲单身状态/吐槽过高的择偶标准。",
+        "tag": "graphic"
+    },
+    {
+        "index": 101,
+        "text": "Bored game.",
+        "task2": "Bored谐音board",
+        "task3": "Bored game.无聊的游戏/棋盘游戏",
+        "task4": "这是一个无聊的游戏；用于形容某游戏很无聊",
+        "tag": "phonic"
+    },
+    {
+        "index": 102,
+        "text": "WHEN THE INVITE SYAS DRESS ACCORDINGLY",
+        "task2": "accordingly谐音accordion",
+        "task3": "当邀请说请穿着得体时 Dress accordingly穿着得体 ，而这个人穿了一个和手风琴（accordion）一样的裤子",
+        "task4": "这套“风琴衣”一点也不得体；可能用于吐槽某些品牌推出的造型奇特、不符合大众审美的服装设计。",
+        "tag": "phonic"
+    },
+    {
+        "index": 103,
+        "text": "Carbon dating -You look older than your profile picture. -I've been under a lot of pressure.",
+        "task2": "pressure物理高压；精神高压",
+        "task3": "煤：你看这比预览照片要老啊 钻石：我最近承受了很多压力。碳经过高温高压可以变成钻石",
+        "task4": "Carbon dating（碳 - 14 年代测定法）是一种通过测量有机物质中碳 - 14 同位素的衰变来确定其年龄的科学方法，适用于测定距今约 5 万年以内的含碳物质；钻石是在地球深部高压高温的条件下，碳原子经过长时间的结晶形成的，通常形成于地下 150 - 200 千米深处；可能用于幽默地科普科学知识时/吐槽网络奔现翻车",
+        "tag": "graphic"
+    },
+    {
+        "index": 104,
+        "text": "-Please could you go to the shop and get a carton of milk, if they have avacados get six. -They have avacados.",
+        "task2": "if they have avacados get six.如果有牛油果就买6个/如果有牛油果就买6瓶奶",
+        "task3": "如果有牛油果就买6个/如果有牛油果就买6瓶奶",
+        "task4": "有牛油果就买六瓶牛奶这样的要求很奇怪，但男士还是执行了；可能用于吐槽与某些人沟通困难的情况。",
+        "tag": "graphic"
+    },
+    {
+        "index": 105,
+        "text": "Alexander the great, Alexander the ok, Alexander the meh, Just the alex",
+        "task2": "great极好的；伟大的",
+        "task3": "亚历山大大帝（极致色彩） 亚历山大小帝 亚历山小小帝 亚利小帝（简约线条）",
+        "task4": "“the great”（伟大的）是对亚历山大的尊称，运用了great的多重含义，用于调侃亚历山大大帝",
+        "tag": "graphic"
+    },
+    {
+        "index": 106,
+        "text": "When your phone autocorrects to holy sit.",
+        "task2": "sit谐音shit",
+        "task3": "当你的手机把脏话自动屏蔽成holy s it 神圣坐",
+        "task4": "holy shit是表示惊讶或震惊的粗口；可能用于吐槽手机的自动更正功能很烂",
+        "tag": "phonic"
+    },
+    {
+        "index": 107,
+        "text": "Pedestrian Crossing Ahead",
+        "task2": "ahead谐音a head",
+        "task3": "前方行人走十字路口/在头上",
+        "task4": "“Pedestrian crossing ahead”是一个常见的交通提示语，用于提醒司机减速并注意可能有行人正在或准备过马路，常常搭配斑马线、行人信号灯等设施；可能用于调侃“ahead”和“a head”很容易搞错",
+        "tag": "phonic"
+    },
+    {
+        "index": 108,
+        "text": "son block",
+        "task2": "son谐音sun",
+        "task3": "son block 用儿子挡 sun block 挡太阳",
+        "task4": "小孩儿被当作防晒霜用，可能用于调侃某些恶搞孩子的行为",
+        "tag": "phonic"
+    },
+    {
+        "index": 109,
+        "text": "I KEEP ALL MY DAD JOKES IN A DAD-A-BASE",
+        "task2": "DAD-A-BASE谐音DATABASE",
+        "task3": "我把所有老爸式笑话放在老爸数据库里了。",
+        "task4": "单词data里隐含着“dad”；通过幽默的方式表达了对父亲笑话的喜爱。",
+        "tag": "phonic"
+    },
+    {
+        "index": 110,
+        "text": "Ass me anything. Your mother tongue?",
+        "task2": "Mother tongue既可以指母语，也可以字面意思理解成妈妈的舌头",
+        "task3": "Mother tongue既可以指母语，也可以字面意思理解成妈妈的舌头",
+        "task4": "看人家妈妈的舌头是个奇怪的要求；可能用于调侃某些人只从字面意思理解phrases而造成误会。",
+        "tag": "graphic"
+    },
+    {
+        "index": 111,
+        "text": "BEAR, BOUTH, BOSE, BEYE",
+        "task2": "熊的耳朵BEAR, 熊的嘴BOUTH,熊的鼻子 BOSE, 熊的眼睛BEYE",
+        "task3": "熊的耳朵BEAR, 熊的嘴BOUTH,熊的鼻子 BOSE, 熊的眼睛BEYE",
+        "task4": "熊的牙、鼻子、眼睛有了独一无二的名字，可能用于自造“复合词”。",
+        "tag": "graphic"
+    },
+    {
+        "index": 112,
+        "text": "When I drink alcohol, everyone says I'm a alcoholic. But when I drink Fanta, no one says I'm Fantastic.",
+        "task2": "fantastic，fantaholic",
+        "task3": "holic做词尾指 对xx上瘾的 喜欢喝酒所以被人说alcoholic，喜欢芬达却没有人说fantaholic/fantasitic",
+        "task4": "“-ic” 是一个常见的形容词后缀，通常表示 “与…… 有关的”“具有…… 性质的”“属于…… 的” 等意思；可能用于自嘲。",
+        "tag": "graphic"
+    },
+    {
+        "index": 113,
+        "text": "Name this plant please. -George. -Iguess I got what I asked for.",
+        "task2": "name 指出（植物的）名字/起名",
+        "task3": "name 指出（植物的）名字/起名 po主要大家告诉他植物的名字，但是网友给植物起了名字。.",
+        "task4": "在西方文化中，George 是一个非常常见且普通的名字；可能用于调侃“George”这个名字太low了。",
+        "tag": "graphic"
+    },
+    {
+        "index": 114,
+        "text": "Man who hid fake moustache under water value waits five months to finish terrible pun. You found it! My secret 'stache'! he said.",
+        "task2": "stash通(mou)stache",
+        "task3": "secret stash，原指秘密小仓库，小宝藏",
+        "task4": "一个人把假胡子藏在水阀下，等了五个月就是为了说出一个双关语；可能用于吐槽某些很无聊的人/调侃有趣的语言现象",
+        "tag": "graphic"
+    },
+    {
+        "index": 115,
+        "text": "-ANYTHING YOU SAY WILL BE HELD AGAINST YOU. -TITS!",
+        "task2": "BE HELD AGAINST YOU成为控告你的证据 / 拿到你面前",
+        "task3": "-  你说的每一句话都会成为控告你的证据 / 拿到你面前 - 山雀 / 乳房！",
+        "task4": "根据 “米兰达警告”（Miranda Warning），警方在讯问前必须告知嫌疑人他们有保持沉默的权利，并且他们所说的一切都可能被用作法庭上对他们不利的证据；可能用于调侃某些人只从字面意思理解phrases而造成误会。",
+        "tag": "graphic"
+    },
+    {
+        "index": 116,
+        "text": "I USED TO BE COOL.",
+        "task2": "cool冷的；酷的",
+        "task3": "我之前很冷/酷",
+        "task4": "现在的冰箱可一点都不酷；可能用于自嘲自己落魄的状态，表示前后待遇天差地别。",
+        "tag": "graphic"
+    },
+    {
+        "index": 117,
+        "text": "-That's all 40 sheep. -What? We should only have 37!? -I know, I rounded them up.",
+        "task2": "round up：聚拢/四舍五入",
+        "task3": "狗狗：齐了 40只羊  爷：不对啊这不37只吗 狗狗：对啊，我把他们凑齐了",
+        "task4": "牧羊犬通过听从牧羊人的指令，利用其天生的驱赶和围拢能力，将羊群集中、引导移动，确保羊群在牧场内有序活动；可能用于说明“四舍五入”不能随便用。",
+        "tag": "graphic"
+    },
+    {
+        "index": 118,
+        "text": "What a lovely bird it would be weird if you replaced the b with we.",
+        "task2": "把bird的b换成we会变成weird",
+        "task3": "把bird的b换成we会变成weird",
+        "task4": "bird和weird在拼写上有关联，意思上却无关；可能用于机械但幽默地使用“构词法”。",
+        "tag": "graphic"
+    },
+    {
+        "index": 119,
+        "text": "Man Runs Out of Gas on Interstate, Sets Up Drum Kit to Kill Time. abasnail: that's what I call a traffic jam.",
+        "task2": "traffic jam公路音乐/交通堵塞",
+        "task3": "一位男子的车在州际公路上没油了，然后开始整点架子鼓打发时间【评论：这是真正的公路音乐/交通堵塞】",
+        "task4": "网友重新定义了“traffic jam”；可能用于幽默地表达一种对交通堵塞或意外事件的调侃。",
+        "tag": "graphic"
+    },
+    {
+        "index": 120,
+        "text": "IN CASE OF FIRE DO NOT USE ELEVATOR, USE WATER. IN CASE OF FIRE, USE STAIRS.",
+        "task2": "起火时请不要用电梯（指的是逃生方式） 要用水（指的是灭火方式）",
+        "task3": "起火时请不要乘电梯，要用水扑灭火",
+        "task4": "事实上，我们没法拿着“电梯/楼梯”去扑灭火苗；可能用于调侃某些人只从字面意思理解多义词而造成误会。",
+        "tag": "graphic"
+    },
+    {
+        "index": 121,
+        "text": "-SO, YOU ADMIT TO BEING INVOLVED IN A MURDER?! -I'M A CROW! I TRY TO BE SOCIAL.",
+        "task2": "crowbar撬棍；乌鸦酒吧",
+        "task3": "乌鸦（crow）说自己想整点社交活动（搞社交经常要去酒吧），但是乌鸦（crow）说自己想整点社交活动（搞社交经常要去酒吧），但是crowbar指的是撬棍，因此法官表示乌鸦卷入了一起谋杀案，因此法官表示乌鸦卷入了一起谋杀案.",
+        "task4": "crow去bar社交/而crowbar是一凶器；可能用于调侃某些人只从字面意思理解多义词而造成误会。",
+        "tag": "graphic"
+    },
+    {
+        "index": 122,
+        "text": "Googled cool gaming mouse and I found this",
+        "task2": "mouse：老鼠，或者鼠标",
+        "task3": "谷歌搜索：很炫酷的游戏鼠标",
+        "task4": "事实上，老鼠不能打游戏；可能用于吐槽搜索引擎有时会误解用户的意思，闹出笑话。",
+        "tag": "graphic"
+    },
+    {
+        "index": 123,
+        "text": "-A \"Freudian slip\" is when you say  one thing,... but mean your mother. I mean \"another\".",
+        "task2": "mother和another发音相似",
+        "task3": "“弗洛伊德式错误”的意思是指，当你聊一个东西的时候，你说你是妈妈生的（弗洛伊德式错误：说漏嘴，或者说了其他不相干的东西）",
+        "task4": "“Freudian slip”（弗洛伊德式口误）是指无意识地暴露出内心真实想法，而这里故意将 “another”（另一个）说成了 “mother”（母亲），暗示了弗洛伊德心理学中著名的 “俄狄浦斯情结”（恋母情结）；当讨论弗洛伊德的理论、潜意识心理或口误现象时，可以用这张图来轻松地引入话题或作为幽默的例子。",
+        "tag": "phonic"
+    },
+    {
+        "index": 124,
+        "text": "DO NOT EAT ALUMINUM OR YOU'LL SHEET METAL.",
+        "task2": "sheet和shit谐音",
+        "task3": "别再吃铝了，不然会排出来/变成金属板",
+        "task4": "根据句子结构，sheet这里只能用作动词；可能用于提醒人们不要误食一些非食品物品。",
+        "tag": "phonic"
+    },
+    {
+        "index": 125,
+        "text": "(literal coolest thingever) (-273.15℃) It sucks, actually.",
+        "task2": "coolest-最冷的/最酷的 It sucks-它有吸力/它很糟",
+        "task3": "字面上最冷的/最酷的 (-273.15℃) It sucks-它有吸力/它很糟",
+        "task4": "黑洞是宇宙中温度极低且引力极强的天体；可能用于科普黑洞的特征，用这张图可以让复杂的科学概念变得有趣。",
+        "tag": "graphic"
+    },
+    {
+        "index": 126,
+        "text": "夏HA 趙CHIU BLESS YOU",
+        "task2": "ha chiu和打喷嚏的声音谐音",
+        "task3": "ha chiu听起来像打喷嚏 西方人遇到别人打喷嚏都会说 bless you",
+        "task4": "“Bless you” 通常是在别人打喷嚏时说的祝福语",
+        "tag": "phonic"
+    },
+    {
+        "index": 127,
+        "text": "-Can I help, sir? -Just leave me alone. -Fine. Suit yourself.",
+        "task2": "suit yourself ph.您请便 suit vt.（尤指为特定的活动）穿衣",
+        "task3": "- 我能帮你吗？ - 别来打扰我。-好吧，随你自己/随便你穿",
+        "task4": "这个店员即礼貌又表达了自己的不耐烦；可以用于轻松幽默地表达一种对店员过度热情或顾客想要独自购物的调侃。",
+        "tag": "graphic"
+    },
+    {
+        "index": 128,
+        "text": "\"What's the matter, Bill? Bored?\"",
+        "task2": "Bill Bored和billboard谐音",
+        "task3": "“怎么了比尔？无聊了吗？”",
+        "task4": "Bill在刷“billboard“，而且他很”bored“；轻松幽默地表达一种对工作无聊或等待状态的调侃。",
+        "tag": "phonic"
+    },
+    {
+        "index": 129,
+        "text": "-Has anyone any last words for your old boss. -Yeah, who is thinking outside the box now, Gary",
+        "task2": "box n.(非正式）棺材 think out of the box ph.打破陈规",
+        "task3": "“还有人对老板有什么想说的吗”“当然！现在是谁在棺材外面思考啊？”",
+        "task4": "在葬礼的情境下，“outside the box” 字面意思是在棺材外，而 “thinking outside the box” 通常是指创新、不拘泥于传统的思维方式；可以表达对前老板或上司的不满或讽刺。",
+        "tag": "graphic"
+    },
+    {
+        "index": 130,
+        "text": "SOON IT WILL BE THE ALPACALYPSE. Surely you mean Llamageddon.",
+        "task2": "apocalypse n.末世 alpaca.羊驼 llama n.美洲驼 armageddom.末日之战",
+        "task3": "羊驼即将来临。当然你的意思是末日即将来临",
+        "task4": "用两组同义词造出来一组同义词；可能用于机械但幽默地使用“构词法”。",
+        "tag": "graphic"
+    },
+    {
+        "index": 131,
+        "text": "Guy Walked Into A Bar... He Was Disqualified From The Limbo Contest.",
+        "task2": "bar n.棍子/酒吧  walk into 走进/撞上 一个男子 走进一个酒吧/撞到一个棍子",
+        "task3": "小伙计走进一个酒吧/撞到一个棍子，他没有通过林波舞测试(西印度群岛舞蹈，舞者向后弯腰钻过一次比一次降低的横杆)",
+        "task4": "“limbo contest”（凌波舞比赛）需要参赛者从很低的横杆下通过。可能用于幽默地科普“凌波舞比赛”。",
+        "tag": "graphic"
+    },
+    {
+        "index": 132,
+        "text": "If Queen Elizabeth accidentally farts during dinner, the other guests are supposed to pretend like nothing happened. Noble gases should have no reaction.",
+        "task2": "nobel adj.贵族的 nobel gases ph.稀有气体",
+        "task3": "稀有气体应该不会反应/贵族放屁（宾客）应该不会有什么反应",
+        "task4": "“noble gases” 在化学中指的是 “惰性气体”，这类气体在化学反应中通常不发生反应；可能用来调侃王室轶事、贵族文化等。",
+        "tag": "graphic"
+    },
+    {
+        "index": 133,
+        "text": "i have stability! (the ability to stab)",
+        "task2": "我性格稳定（stability），我很能捅（ability to stab）",
+        "task3": "我性格稳定，我很能捅",
+        "task4": "我很能“stab”说明我情绪一点也不稳定；可能用于表达自己的愤怒、崩溃等情绪。",
+        "tag": "graphic"
+    },
+    {
+        "index": 134,
+        "text": "-This car can fit a whole family without any problems. -Damn, my wife and I have a lot of problems.",
+        "task2": "fit a whole familly without any problem可以容纳一家人也没问题/可以容纳没问题的一家人",
+        "task3": "这辆车可以容纳一家人也没问题/可以容纳没问题的一家人",
+        "task4": "销售员指的是空间上的容纳问题，而顾客指的是夫妻关系上的问题；可能用于轻松幽默地表达夫妻关系中的问题或者调侃家庭生活。",
+        "tag": "graphic"
+    },
+    {
+        "index": 135,
+        "text": "what would happen if a piano fell on you? you'd b-flat.",
+        "task2": "be flat谐音b-flat",
+        "task3": "be flat（被砸扁）--b-flat（降b调）",
+        "task4": "在音乐术语中，“b - flat”（降 B 调）是一个音高；可能用于幽默地科普钢琴/表达愤怒、讨厌等情绪。",
+        "tag": "phonic"
+    },
+    {
+        "index": 136,
+        "text": "Mountains aren't just funny, they are hill areas.",
+        "task2": "hill areas(山地)谐音hilarious adj.幽默的",
+        "task3": "山脉不仅有趣，它们非常幽默",
+        "task4": "funny和“hill areas”意思上没什么关系，反而和“hilarious”是同义词；在讨论自然风光、旅游等话题时，用这张图可以带来幽默效果。",
+        "tag": "phonic"
+    },
+    {
+        "index": 137,
+        "text": "Looks like someone lost their tuba. That's tubad.",
+        "task2": "tuba n.大号，tubad谐音too bad",
+        "task3": "有人弄丢了他的大号。太糟糕了。",
+        "task4": "tubad这个词即和“tuba”又和“too bad”有关；和用于轻松幽默地表达对丢失物品的调侃。",
+        "tag": "phonic"
+    },
+    {
+        "index": 138,
+        "text": "-Hey dad, I got the job. What? -Holy cow that's outta this world. -Never mind.",
+        "task2": "holy cow that’s out of this world天呐这真不可思议",
+        "task3": "爸爸，我找到工作了。什么？天呐这真不可思议。没事儿。",
+        "task4": "奶牛一般不会到外太空，很荒谬；可能用于表达惊讶、惊喜等情绪。",
+        "tag": "graphic"
+    },
+    {
+        "index": 139,
+        "text": "WHOLE BEAN COFFEE: YOU'RE GROUNDED! GROUND COFFEE: DUH.",
+        "task2": "ground 研磨；禁足",
+        "task3": "ground coffee 研磨咖啡-grounded adj.被禁足的",
+        "task4": "“Ground Coffee”指的是磨碎的咖啡；用于轻松幽默地表达对咖啡的喜爱/讨论双关语、幽默笑话。",
+        "tag": "graphic"
+    },
+    {
+        "index": 140,
+        "text": "-I need space. -I love you. -I need more space. -I   love   you.",
+        "task2": "space空间；空格",
+        "task3": "我需要空间（私人空间，心理距离）--我需要空格",
+        "task4": "这里的 “space” 有两种含义，一种是物理空间，另一种是抽象的空间；可能用于等被拒绝时幽默地表达爱意。",
+        "tag": "graphic"
+    },
+    {
+        "index": 141,
+        "text": "-Call me an ambulance! -You're an ambulance. -How long will the ambulance be? -Nineteen feet, six inches.",
+        "task2": "-Call me an ambulance!  给我叫一辆救护车（称呼我为“救护车”）long时间长和物体的长度",
+        "task3": "给我叫一辆救护车（称呼我为“救护车”），救护车多久才到？（救护车有多长？）",
+        "task4": "一般遇到危险的人不会让别人叫自己“救护车”，很荒谬；可能用于调侃某些人只从字面意思理解多义词而造成误会。",
+        "tag": "graphic"
+    },
+    {
+        "index": 142,
+        "text": "-Hi, I'm your copolit. -I don't need a coplit. I pilot just fine. Only landing gives me trouble. I just need an assistant lander. -Hi, I'm your colander.",
+        "task2": "colander n.过滤容器（同co-lander，协同降落者）",
+        "task3": "-你好，我是你的副驾驶。-我不需要副驾驶。我水平不错。只有降落的时候有些麻烦，我需要一位协同降落者。-你好，我是你的协同降落者/滤网。",
+        "task4": "副驾驶头戴“滤锅”，很荒谬，co-前缀表示“共同、合作”；可能用于机械但幽默地使用“构词法”。",
+        "tag": "graphic"
+    },
+    {
+        "index": 143,
+        "text": "Sponge Boob hello kitey",
+        "task2": "bob和boob谐音",
+        "task3": "sponge Bob（海绵宝宝）→sponge boob（海绵大胸）",
+        "task4": "“SpongeBob”（海绵宝宝）是美国著名的卡通形象，用于恶搞海绵宝宝的形象",
+        "tag": "phonic"
+    },
+    {
+        "index": 144,
+        "text": "ALL MEN ARE CREMATED EQUAL.",
+        "task2": "created equal（生而平等）→cremated equal（平等地被火化）",
+        "task3": "ALL MEN ARE CREMATED EQUAL.",
+        "task4": "“created equal”（人人生而平等）出自美国《独立宣言》，原句是“We hold these truths to be self - evident, that all men are created equal”（我们认为这些真理是不言而喻的：人人生而平等）。这一理念在西方政治和社会思想中具有重要地位；讨论哲学、人权、死亡等较为严肃的话题时，用这张图可以带来一种黑色幽默的效果。",
+        "tag": "phonic"
+    },
+    {
+        "index": 145,
+        "text": "\"Hey, it's me- Pandora. Welcome to my new unboxing video.\"",
+        "task2": "潘多拉的魔盒/开箱视频",
+        "task3": "我是潘多拉，欢迎观看潘多拉的魔盒/开箱视频",
+        "task4": "在希腊神话中，潘多拉（Pandora）打开了一个盒子（box），释放出了世间的所有邪恶；用于轻松幽默地分享开箱视频。",
+        "tag": "graphic"
+    },
+    {
+        "index": 146,
+        "text": "It's a Graduated Cylinder.",
+        "task2": "graduated 和gradual谐音",
+        "task3": "刻度量筒/毕业的量筒",
+        "task4": "在化学实验中，“Graduated Cylinder”（量筒）是一种用于测量液体体积的工具；可以用于以一种轻松的方式庆祝毕业。",
+        "tag": "phonic"
+    },
+    {
+        "index": 147,
+        "text": "Yellow Alert OH ALERT! OH ALERT! OH ALERT! OH ALERT!",
+        "task2": "Yellow Alert 谐音yell oh alert",
+        "task3": "yellow alert（黄警报）＝yell oh alert（嗷警报）",
+        "task4": "“Yellow alert”是一种预警级别，通常用于表示一种潜在的危险或紧急情况即将发生，但还没有达到最严重的程度，常见于灾害预警系统或军事戒备状态中；用于轻松幽默地表达对某种警报或紧急情况的调侃。",
+        "tag": "phonic"
+    },
+    {
+        "index": 148,
+        "text": "They met on line.",
+        "task2": "on line谐音online",
+        "task3": "meet on line对齐，meet online在网上认识",
+        "task4": "on line是画面内容，而online是创作者真正想表达的意思；可能用于轻松幽默地分享关于网恋的笑话或双关语。",
+        "tag": "phonic"
+    },
+    {
+        "index": 149,
+        "text": "-How did you find your steak sir? -Ijust looked next to the potatoes and there it was.",
+        "task2": "How did you find 如何看待/怎么找到",
+        "task3": "How did you find your steak 你觉得牛排怎么样？/你怎么找到你的牛排的？",
+        "task4": "服务员一般会问顾客吃的怎么样；在讨论餐厅服务、菜品等话题时，用这张图可以带来轻松的氛围。",
+        "tag": "graphic"
+    },
+    {
+        "index": 150,
+        "text": "System: *Enter Password* Me: *Password must contain capital* Me: washingtondc123 System:",
+        "task2": "capital首都/大写字母",
+        "task3": "密码包含大写/首都",
+        "task4": "在密码领域，capital一般翻译成“大写”；在讨论网络安全、密码设置等话题时，用这张图可以带来幽默效果。",
+        "tag": "graphic"
+    },
+    {
+        "index": 151,
+        "text": "Second hand store",
+        "task2": "Second hand二手；第二只手",
+        "task3": "二“手”商店",
+        "task4": "专门卖假手的店很奇怪；可能用于调侃某些人只从字面意思理解多义词而造成误会。",
+        "tag": "graphic"
+    },
+    {
+        "index": 152,
+        "text": "DIRB",
+        "task2": "DIRB BIRD",
+        "task3": "DIRB BD位置错了",
+        "task4": "图中的“DIRB”是“bird”的误写；可能用于表达单词写错了。",
+        "tag": "graphic"
+    },
+    {
+        "index": 153,
+        "text": "-I wish I didn't exist. -Granted. (POOF!) -Nothng Changed. -Look Agan.",
+        "task2": "I字母；我",
+        "task3": "我希望我(I)不存在。-好的，达成了. -怎么没区别。-你再看看。后两个方格中的字母I都消失了",
+        "task4": "灯神（Genie）是《阿拉丁》故事中拥有强大魔力、能实现持有者愿望的精灵；可能用于用“i”的双关讲笑话。",
+        "tag": "graphic"
+    },
+    {
+        "index": 154,
+        "text": "LANDSCAPE OPEN NOW SPRING IS HERE IM SO EXCITED I WET MY PLANTS",
+        "task2": "plants和pants形似",
+        "task3": "春天来了，我激动得料了一地。",
+        "task4": "给植物浇水一般用“water”而不是“wet”；可能用来说明用词不当容易闹出笑话。",
+        "tag": "graphic"
+    },
+    {
+        "index": 155,
+        "text": "-No word starts and ends with I, prove me wrong. -Illegal.",
+        "task2": "Il区分小",
+        "task3": "没什么单词的开头结尾都是\"I\". 评论：Illegal",
+        "task4": "网友把“i”的大写字母看成了字母l；可能用于调侃i的打印体。",
+        "tag": "graphic"
+    },
+    {
+        "index": 156,
+        "text": "-Psst, your fly is down. Yeah, I know. His team lost the big game.",
+        "task2": "fly is down拉链开了；苍蝇心情不好",
+        "task3": "喂，你的拉链开了(fly is down). - 是的，这只苍蝇(fly)最喜欢的球队刚输球了，它确实心情很down。",
+        "task4": "your fly is down通常翻译为“你的拉链没拉”；可能用于调侃某些人只从字面意思理解idioms而造成误会/在实际生活中，如果有人不小心遇到裤子拉链没拉的尴尬情况，用这张图可以幽默地化解这种尴尬，",
+        "tag": "graphic"
+    },
+    {
+        "index": 157,
+        "text": "Bart Bartender",
+        "task2": "Bartender（Bart-ender）",
+        "task3": "巴特Bart的一生之敌是酒保Bartender，因为他们都是Bart-Ender 巴特终结者",
+        "task4": "“-er”这个后缀表示“职业、身份”，而“end+er”可以表示“终结者”，隐晦地表示“killer”；可能用于幽默地使用“构词法”。",
+        "tag": "graphic"
+    },
+    {
+        "index": 158,
+        "text": "-can you come out? -yeah gimme a minute. mom, i'm a gay. --i know that silly. come out to the car. -car, i'm gay.",
+        "task2": "come out出门；出柜",
+        "task3": "你能出来不(come out ，也有出柜的含义)? -妈，我是gay。-我当然知道，傻孩子，我是说出来车这里。-车，我是gay。",
+        "task4": "“come out” 有 “出来” 和 “公开自己是同性恋” 两种意思，孩子在对话中故意将母亲让他 “出来到车边” 理解为让他 “公开自己是同性恋到车边”，从而产生了幽默效果；可能用于轻松幽默地分享关于语言双关和同性恋话题的笑话。",
+        "tag": "graphic"
+    },
+    {
+        "index": 159,
+        "text": "Username: unavailable. *This username is unavailable.",
+        "task2": "*This username is unavailable.用户名已被注册/用户名是unavailable",
+        "task3": "用户名叫\"已被注册\"。提示用户名已被注册。",
+        "task4": "图片下方男子的名字是 Walter White（老白），他是美剧《绝命毒师》（Breaking Bad）中的主角。在剧中，老白有一个化名 “Heisenberg”，这个名字在网络用语中常被用来表示一种不确定、不可预测的状态，类似于 “unavailable”（不可用的，不确定的）；可能用于轻松幽默地表达某个用户名或账号不可用的情况。",
+        "tag": "graphic"
+    },
+    {
+        "index": 160,
+        "text": "It's hard to trust people on April 1st because they",
+        "task2": "bee lion谐音be lying",
+        "task3": "愚人节很难去相信别人，因为大家 bee lion = be lying, 谎话连篇",
+        "task4": "April 1st这一天是愚人节，图片中有一个长着蜜蜂翅膀的狮子头，这种不寻常的组合本身就很滑稽；可能用于提醒对愚人节玩笑的警惕。",
+        "tag": "phonic"
+    },
+    {
+        "index": 161,
+        "text": "Expecting some magic out of this land.",
+        "task2": "tada 魔术师揭晓谜底时会说的俚语",
+        "task3": "tada 魔术师揭晓谜底时会说的俚语",
+        "task4": "“Tada” 在日语中是 “太棒了” 或 “惊喜” 的意思，类似于魔术表演成功时人们会说的感叹词。所以图中的运动员名字 “Tada” 与 “magic” 形成了一种幽默的联系，好像在说因为他叫 “Tada”，所以人们期待他能带来惊喜；可能用于调侃运动会上这名叫“Tada”的日本运动员或者表达对他的不看好。",
+        "tag": "graphic"
+    },
+    {
+        "index": 162,
+        "text": "Dead Batteries Free of Charge!",
+        "task2": "Free of Charge 免费/没有电荷了",
+        "task3": "没电的电池免费/没有电荷了",
+        "task4": "没电的电池是免费的，也是“没有电荷的”；在讨论电池回收、环保意识等话题时，用这张图可以带来轻松的氛围。",
+        "tag": "graphic"
+    },
+    {
+        "index": 163,
+        "text": "be there or",
+        "task2": "到这来否则蜜蜂来",
+        "task3": "be和bee谐音",
+        "task4": "可以用于威胁某人或发出邀请。",
+        "tag": "graphic"
+    },
+    {
+        "index": 164,
+        "text": "-It says here you're supposed to be wearing glasses? -I have contacts. -I don't give a damn who you know.",
+        "task2": "contacts：联系人（我上面有人）/隐形眼镜",
+        "task3": "contacts：联系人（我上面有人）/隐形眼镜",
+        "task4": "“I don't give a damn who you know.”（我不在乎你认识谁。）这表明警察误解了司机的意思，以为他在说自己有什么人脉关系；可以用来调侃司机和警察在交通检查时的交流，或者讨论交通规则、驾驶规范等话题。",
+        "tag": "graphic"
+    },
+    {
+        "index": 165,
+        "text": "-Date. -No.",
+        "task2": "-Date.日期/约会 -No.第几/不。",
+        "task3": "date：日期/约会 no：编号/不",
+        "task4": "用笔记本上的两个单词形成一组对话；可以用于拒绝他人的约会邀请。",
+        "tag": "graphic"
+    },
+    {
+        "index": 166,
+        "text": "My crow hard. Microsoft",
+        "task2": "My crow soft谐音Microsoft",
+        "task3": "My crow hard谐音Microsoft",
+        "task4": "将“Microsoft”断章取义出“soft”，有点离谱；这张图可以用来幽默地反映微软（Microsoft）相关的话题，或者在讨论软件、硬件等科技产品时，用这张图可以带来轻松的氛围。",
+        "tag": "phonic"
+    },
+    {
+        "index": 167,
+        "text": "-I have your test results. -Did I pass? Haha. -You will soon.",
+        "task2": "pass通过/去世",
+        "task3": "测试结果出来了。我通过（pass）了吗？你将要死（pass away）了",
+        "task4": "事实上，检查结果没有“pass”，而病人快“pass”了；可能用于表达厌恶、生气等情绪。",
+        "tag": "graphic"
+    },
+    {
+        "index": 168,
+        "text": "PRYALEFT PEYAMID PRYARIGHT",
+        "task2": "PYRAMID (PYRA-MID)",
+        "task3": "如果中间的金字塔叫pyra\"mid\"，那么左边的和右边可以叫pyra\"left\"和pyra\"right\"",
+        "task4": "“PYRALEFT” 和 “PYRARIGHT” 是对 “left”（左）和 “right”（右）的改编，结合了 “pyramid”（金字塔）这个词，形成了 “左边的金字塔” 和 “右边的金字塔” 的幽默说法；用于轻松幽默地分享关于金字塔的笑话或双关语，特别是在讨论埃及旅游、历史遗迹等话题时，用这张图可以带来幽默效果。",
+        "tag": "graphic"
+    },
+    {
+        "index": 169,
+        "text": "MARCH 4TH. IT'S NOT JUST A DAY, IT'S AN ORDER.",
+        "task2": "MARCH 4TH 与 march forth谐音",
+        "task3": "图片上MARCH 4TH 与 march forth谐音，所以“IT'S NOT JUST A DAY, IT'S AN ORDER.”",
+        "task4": "图片上因为鱼的记忆只有七秒；多用来吐槽记忆力差",
+        "tag": "phonic"
+    },
+    {
+        "index": 170,
+        "text": "-What's the opposite of isolate? -Yousoearly.",
+        "task2": "isolate可以拆解为i so late,反义词则分别为You so early,组成Yousoearly",
+        "task3": "isolate可以拆解为i so late,反义词则分别为You so early,组成Yousoearly,每个部分的反义词组合在一起即isolate的反义词为Yousoearly",
+        "task4": "狗狗很可爱；多用于可爱调皮",
+        "tag": "graphic"
+    },
+    {
+        "index": 171,
+        "text": "Pre internet chat room using An old version of windows...",
+        "task2": "Windows既指窗户，也指电脑系统",
+        "task3": "图中人们在隔着窗户交流，也点明人们在网上交流也通过Windows系统，Windows既指窗户，也指电脑系统",
+        "task4": "黑白图片中人们在隔着windows交流；多用于体现Windows的媒介作用",
+        "tag": "graphic"
+    },
+    {
+        "index": 172,
+        "text": "\"HE BRINGS HOME SIX FIGURES A MONTH\"",
+        "task2": "FIGURES既指人物，也指模型人像",
+        "task3": "图中有很多手办模型， FIGURES既指人物，也指模型人像",
+        "task4": "男人喜欢figures，两个女生在窃窃私语；多用于八卦场景",
+        "tag": "graphic"
+    },
+    {
+        "index": 173,
+        "text": "-I WROTE THE HOBBIT AND THE LORD OF THE RINGS. -OH NO, HE'S TOLKIEN IN HIS SLEEP AGAIN!",
+        "task2": "Tolkien是著名作家，与talk in谐音",
+        "task3": "图中男人在说梦话，在梦中自称是Tolkien，他妻子说他是在说梦话，即talk in his sleep",
+        "task4": "女人对于男人说梦话而吵到她睡觉表达不满，用来吐槽一个人做白日梦，做梦成为一个作家",
+        "tag": "phonic"
+    },
+    {
+        "index": 174,
+        "text": "A tennis court on top of a Dubai tower. It takes a lot of balls to play tennis on that.",
+        "task2": "ball既有球，也有胆量和勇气的意思",
+        "task3": "ball既有球，也有胆量和勇气的意思,在塔顶建球场，球员需要很大的勇气，同时球很可能掉下去，因而需要很多球",
+        "task4": "两个人在塔顶建的球场上打球，球员需要很大的勇气，同时球很可能掉下去，因而需要很多球；用于调侃一件事很荒谬",
+        "tag": "graphic"
+    },
+    {
+        "index": 175,
+        "text": "-Officer, a storm just blew away 25% of my roof. -Oof.",
+        "task2": "roof这个单词的25%被吹走，意味着被吹跑了一个字母，剩下oof",
+        "task3": "一个男人报警说他的房顶的25%被吹走了，接线员认为是roof这个单词的25%被吹走，意味着被吹跑了一个字母，剩下oof",
+        "task4": "一个男人报警说他的房顶的25%被吹走了，剩下oof；多用于冷笑话",
+        "tag": "graphic"
+    },
+    {
+        "index": 176,
+        "text": "This brings back memories.",
+        "task2": "回旋镖上粘胶片，胶片象征着回忆",
+        "task3": "四个胶片被粘在回旋镖上，胶片象征着回忆，回旋镖最终会回到自己手里，因而说它会带回记忆",
+        "task4": "回旋镖上贴着四个胶片，因而说它会带回记忆；多用于荒诞搞笑",
+        "tag": "graphic"
+    },
+    {
+        "index": 177,
+        "text": "MORGAN FREMEN",
+        "task2": "'Morgan Freeman' 和 'Morgan Fremen' 的拼写发音相似。",
+        "task3": "图中是一位人物的头像，通过后期处理加上了蓝色的眼睛、特殊的装扮和沙漠背景，这与小说《沙丘》(Dune) 中的'Fremen'沙漠民族的形象相呼应。双关通过将演员名字'Morgan Freeman'改为'Morgan Fremen'来实现，结合了名字的谐音和Fremen的文化设定。",
+        "task4": "涉及的文化背景包括演员摩根·弗里曼（Morgan Freeman）的知名度以及《沙丘》(Dune)小说和影视改编中的Fremen族群，他们生活在沙漠，拥有标志性的蓝色眼睛和独特文化。这样的梗图适用于幽默化的科幻迷圈层交流，或影迷的轻松话题讨论场景。",
+        "tag": "phonic"
+    },
+    {
+        "index": 178,
+        "text": "-how is he not catching on fire? - maybe it's cause... he's already... Ash.",
+        "task2": "马的鬓毛像fire",
+        "task3": "图中男孩在骑马，马的鬓毛像fire，因而看起来像他在火中，就有人问男孩为什么不着火？",
+        "task4": "该图来源于宝可梦，其中的马叫做小火马，其外形也酷似火；多用于描述这批小马的形态",
+        "tag": "graphic"
+    },
+    {
+        "index": 179,
+        "text": "FUCK HAPPY LAST NEW YEAR",
+        "task2": "FUCK LAST HAPPY NEW YEAR可以读成FUCK HAPPY LAST NEW YEAR",
+        "task3": "盒子上的单词排列没有固定的规则，因而FUCK LAST HAPPY NEW YEAR可以读成FUCK HAPPY LAST NEW YEAR",
+        "task4": "盒子上单词乱序排列易表达出多种意思；多用于戏谑地表达对一年的不满",
+        "tag": "phonic"
+    },
+    {
+        "index": 180,
+        "text": "To the person who stole my Microsoft Office License. I'm gonna find you. You have my Word.",
+        "task2": "You have my Word. 可译为向你保证，或者是你拿了我的Word办公软件",
+        "task3": "一个人的微软办公软件许可证被偷了，You have my Word. 可译为向你保证他会找到小偷，或者说是小偷拿了他的Word办公软件",
+        "task4": "Microsoft Office License和Word都是打工人常用的办公软件；多用于幽默地表达会找到小偷的决心",
+        "tag": "graphic"
+    },
+    {
+        "index": 181,
+        "text": "Every naked person I see turns me on.",
+        "task2": "turn on既有打开，也有使兴奋的意思",
+        "task3": "图中是一个摄像头，turn on既有打开，也有使兴奋的意思，每个裸体的人都会使它兴奋，赋予了感情",
+        "task4": "摄像头通常会拍摄到人的各种隐私，赋予了其感情；多用于警告人们注意隐私",
+        "tag": "graphic"
+    },
+    {
+        "index": 182,
+        "text": "I'm Buzz Aldrin. Second person to step on the moon. NEIL BEFORE ME.",
+        "task2": "“NEIL BEFORE ME”和 “kneel before me”（在我面前跪下）谐音",
+        "task3": "图中是第二个登上月球的人，第一个登上月球的是Neil,因而说“NEIL BEFORE ME”，与“kneel before me”（在我面前跪下）谐音",
+        "task4": "第一个登上月球的人是Neil,第二个登上月球的人则是图中的Buzz Aldrin；多用于冷幽默",
+        "tag": "phonic"
+    },
+    {
+        "index": 183,
+        "text": "-What's that? -Transport Proteins. because it's a cell wall.",
+        "task2": "Transport Porteins 是转运蛋白，cell wall既指细胞壁，又指小牢房的墙壁",
+        "task3": "两个人在监狱里，一个人从盒子里拿出Transport Porteins （转运蛋白），穿过了cell wall细胞壁，同时又指小牢房的墙壁",
+        "task4": "涉及到生物学的知识，转运蛋白是一类生物体内的蛋白质，主要功能是在细胞膜上或细胞内运输物质，借用犯人越狱；用于通俗讲解转运蛋白的作用",
+        "tag": "graphic"
+    },
+    {
+        "index": 184,
+        "text": "She/Her They/Them Hee/Hee",
+        "task2": "'Hee/Hee' 是对 Michael Jackson 标志性唱腔的模仿，与英语代词 'He/He' 发音相似。",
+        "task3": "图中分为三部分：第一部分是普通女性代表 'She/Her'；第二部分是普通男性代表 'They/Them'；第三部分是一张迈克尔·杰克逊的经典照片，对应 'Hee/Hee'，用他的标志性唱腔作为双关，幽默化地处理了性别代词的选择问题。",
+        "task4": "涉及的文化背景包括对现代性别代词（She/Her, They/Them）的理解，以及迈克尔·杰克逊的文化符号地位，尤其是他的标志性唱腔 'Hee-Hee'。这种梗图适用于互联网幽默分享，尤其是在讨论性别表达或流行文化相关话题时。",
+        "tag": "phonic"
+    },
+    {
+        "index": 185,
+        "text": "You better switch up that attitude! Are wii gonna have a problem? You're playing a dangerous game boy.",
+        "task2": "wii 同时也是任天堂推出的一款著名家用游戏机的名字",
+        "task3": "游戏机手柄上带有刀，Are （we）wii gonna have a problem?既是在问游戏玩家自己，也在问任天堂这个游戏开发者",
+        "task4": "Wii游戏机是市面上非常火的一款游戏机，由任天堂公司研发；该图多用于轻松幽默的传达游戏的坏处",
+        "tag": "graphic"
+    },
+    {
+        "index": 186,
+        "text": "-I just don't get this whole cloning thing. -That makes two of us.",
+        "task2": "That makes two of us.是指我们两个一样，make也有制造的意思",
+        "task3": "一对双胞胎，That makes two of us.既指两个人一样，也指其中一个人说的克隆制造的她们",
+        "task4": "克隆技术是一种无性繁殖方式，通过人工遗传操作动、植物的繁殖过程，可来复刻两个一样的；该图则多用于吐槽克隆技术",
+        "tag": "graphic"
+    },
+    {
+        "index": 187,
+        "text": "-I see your glass is empty sir, would you like another? -Why would I want two empty glasses?",
+        "task2": "服务员的another是指再来一杯，而顾客理解的another是指再来一个空杯子",
+        "task3": "服务员问那位男士是否要再来一杯，而顾客理解的another是指再来一个空杯子",
+        "task4": "在餐厅服务的场景下，服务员多会在看到顾客杯子里没水后主动询问是否续杯，顾客误解；用于冷幽默",
+        "tag": "graphic"
+    },
+    {
+        "index": 188,
+        "text": "Someone rubbed one off in the elevator.",
+        "task2": "one既指数字一，也指被蹭掉的一个电梯按键",
+        "task3": "图中的电梯按键1消失了，one既指数字一，也指被蹭掉的一个电梯按键",
+        "task4": "电梯中的按键一般从一楼开始，图中表示一楼数字消失；多用于谐音梗",
+        "tag": "graphic"
+    },
+    {
+        "index": 189,
+        "text": "That's the spirit. Alcohol is not in my vodkabulary. However, I looked it up on whiskeypedia and learned if you drink too much of it, it's likely tequilya.",
+        "task2": "这里把likely和 tequila（龙舌兰酒）结合在一起，自创了tequilya这个词，表达一种晕乎乎的状态",
+        "task3": "这里把likely和 tequila（龙舌兰酒）结合在一起，自创了tequilya这个词，表达一种晕乎乎的状态",
+        "task4": "在全球烈酒排行榜中，威士忌在大部分情况下酒精度数高于龙舌兰；多用于戏谑的表达酒精的作用",
+        "tag": "graphic"
+    },
+    {
+        "index": 190,
+        "text": "This mug uses pretty salty language. I WANTED TO TELL A JOKE ABOUT SODIUM  BUT THEN I WAS LIKE NA, PEOPLE WON'T UNDERSTAND.",
+        "task2": "salty既指有趣而略显粗俗的，也指咸的",
+        "task3": "杯子上写道BUT THEN I WAS LIKE Na （钠是盐的化学组成部分），因而说这个马克杯在讲（salty）有趣而略显粗俗的语言，也指咸的",
+        "task4": "生活中的食盐中含有钠，其化学表达式为Na，英文为Sodium；多用于冷笑话",
+        "tag": "graphic"
+    },
+    {
+        "index": 191,
+        "text": "When you're running low on space but your pup gives your computer a megabite.",
+        "task2": "megabit与megabite读音相似",
+        "task3": "图中一只小狗在咬电脑的一角，因而是bit，与megabite（兆字节）读音相似",
+        "task4": "megabit是计算机专用语言，指兆位、百万位；该图用于小狗调皮可爱啃电脑的场景",
+        "tag": "phonic"
+    },
+    {
+        "index": 192,
+        "text": "When you die, which body part dies last? The Pupils, they dilate.",
+        "task2": "dilate与 die late谐音",
+        "task3": "图中问When you die, which body part dies last?回答是瞳孔，因为它会dilate，与 die late谐音",
+        "task4": "人在死亡的过程中，先是心脏死亡，最后是脑死亡，这时，人的瞳孔会变成看上去像玻璃晶体一样的物质，因而在外表上看来瞳孔是最后一个死亡的；多用于谐音梗冷笑话",
+        "tag": "phonic"
+    },
+    {
+        "index": 193,
+        "text": "I asked for a DARK coffee, not a Depressed one. You just ordered a depresso.",
+        "task2": "depresso 是一个新造的词，模仿了“espresso”",
+        "task3": "图中杯子里的饮品呈现一个悲伤的表情，因而是depressed one，depresso 是一个新造的词，模仿了“espresso”",
+        "task4": "咖啡杯中的泡沫在空气分子的作用下会聚集或分散，从而会组成不同形状，例如图中的悲伤表情；多用于悲伤的场景",
+        "tag": "graphic"
+    },
+    {
+        "index": 194,
+        "text": "Therapist: German Bread isn't real, it can't hurt you. German Bread: Gluten tag.",
+        "task2": "Guten tag是德语中你好的意思",
+        "task3": "图中是德国面包，带着Gluten的标签，同时Gluten tag 与Guten tag谐音，而后者是德语中你好的意思",
+        "task4": "德国面包中带着Gluten的标签，与德语中你好相似；用于宣传德国面包",
+        "tag": "graphic"
+    },
+    {
+        "index": 195,
+        "text": "Don't know what to eat. Just eat the little girl.",
+        "task2": "the little girl在这里是指“小女当家”这个饭店",
+        "task3": "图中是一个饭店的宣传标语，因为翻译有误，所以the little girl在这里是指“小女当家”这个饭店",
+        "task4": "中国部分饭店为了起到宣传的作用通常会将饭店名用“中式英语”翻译出来，会和英语母语者的认识产生误差；多用于戏谑地反向宣传一个饭店",
+        "tag": "graphic"
+    },
+    {
+        "index": 196,
+        "text": "-Who is he? - the soupervisor.",
+        "task2": "soupervisor与supervisor谐音",
+        "task3": "图中一个人在看着像汤锅里工作，所以是soupervisor，与supervisor谐音",
+        "task4": "在一个饭店里，为了突出该饭店的特色从而将前台设计成了汤锅的样式；多用于戏谑地描绘一个人的工作",
+        "tag": "phonic"
+    },
+    {
+        "index": 197,
+        "text": "I feel like there is some sort of untoad story behind this.",
+        "task2": "untoad与untold谐音",
+        "task3": "图中一个人在沙滩上看到一个toad的印记，而untoad与untold谐音，所以说是untold story",
+        "task4": "在地面的水泥还没干的过程中，一只青蛙留下了它的身体形状；用于讨论印迹背后不为人知的故事",
+        "tag": "phonic"
+    },
+    {
+        "index": 198,
+        "text": "My wife told me to take the spider out instead of killing him. Went out. Had a few drinks. Nice guy. He's a web desinger.",
+        "task2": "web designer既指蜘蛛织网，也指网页设计师",
+        "task3": "描述了一个男人按照妻子的要求把蜘蛛带出去而不是杀死它，然后出去喝了几杯酒，后面说蜘蛛是 “web desinger” 并形容它是 “Nice guy”，将蜘蛛拟人化得如此友好和具有职业身份",
+        "task4": "一个男人在酒吧里喝酒，并于与一只蜘蛛交谈，将蜘蛛拟人化得如此友好和具有职业身份；用于表示人与蜘蛛之间的友好关系",
+        "tag": "graphic"
+    },
+    {
+        "index": 199,
+        "text": "The rarest shoes in the world.",
+        "task2": "rarest既指极为罕见的也指生的",
+        "task3": "图中是用生肉切割成运动鞋的形状，所以是指极为罕见的鞋，也指生的鞋",
+        "task4": "猪肉可以在刀的作用下切割成任意形状，图中为鞋的形状，在鞋子的品类里确实是极为罕见的；用于谐音梗冷笑话",
+        "tag": "graphic"
+    },
+    {
+        "index": 200,
+        "text": "SISYPUSS",
+        "task2": "SISYPUSS  Sisyphus（西西弗斯）",
+        "task3": "SISYPUSS看起来是对Sisyphus（西西弗斯）这个名字进行了一种改编或玩笑式的创造，给人一种可爱、俏皮的感觉",
+        "task4": "SISYPUSS是一款手游，有节奏的点击，将石头推到山上，图中小猫费力推一团开口的毛线，则会越推越少；多用于一种可爱、俏皮的场景",
+        "tag": "graphic"
+    },
+    {
+        "index": 201,
+        "text": "Sam didn't want to sing but SAMSUNG.",
+        "task2": "SAMSUNG既指三星这个品牌，也指Sam sung.",
+        "task3": "图中Sam与SAMSUNG关联，SAMSUNG既指三星这个品牌，也指Sam sung.",
+        "task4": "SAMSUNG是一个数码产品品牌，图中Sam唱歌；用于宣传三星这个品牌",
+        "tag": "graphic"
+    },
+    {
+        "index": 202,
+        "text": "IF IRON MAN AND SILVER SURFER TEAM UP... THEY WOULD BE ALLOYS.",
+        "task2": "IRON加SILVER是合金",
+        "task3": "图中指钢铁侠和银影侠的结合，就会组成合金，而IRON加SILVER是合金",
+        "task4": "钢铁侠和银影侠都是漫威系列电影里的角色，合金（alloys）则是指由两种以上金属合成的具有金属特性的混合物；用于调侃漫威英雄人物的材质组成",
+        "tag": "graphic"
+    },
+    {
+        "index": 203,
+        "text": "-WE DID IT. WE HIT THE EDGE OF THE UNIVERSE! -YEAH. - AREN'T YOU EXCITED? -YEAH. IT'S JUST- THERE'S NOTHING TO LOOK FORWARD TO. -YOU... DEDICATED YOUR ENTIRE LIFE TO... A PUN? -YEAH. -BUT THAT'S ALL BEHIND ME NOW.",
+        "task2": "‘look forward to’既指‘期待’又指‘向前看’，‘behind me’既指‘在身后’又隐喻‘看开了’，结合空间与情感双关构成幽默。",
+        "task3": "漫画讲述两个角色到达了宇宙的边缘，一个角色兴奋地庆祝，而另一个角色则感慨‘There's nothing to look forward to’（没有什么可以期待了），随后揭示他的真实感悟：‘that's all behind me now’（这一切都在我身后了）。这句话不仅指他们穿越了宇宙的边界，也是对人生旅程释然的一种隐喻，表达了放下过去、‘看开了’的哲理含义。语言双关让空间上的‘在我身后’和心理上的‘释然’形成巧妙连接。",
+        "task4": "漫画的文化背景涉及对宇宙探险的科幻想象，以及对人类存在意义的哲学探讨。‘look forward to’与‘behind me’的双关不仅带来幽默，还隐含深刻的人生感悟，适合喜欢科幻、哲学或语言游戏的观众。这类梗常用于幽默中带有哲理思考的场景，或者轻松但深刻的交流中。",
+        "tag": "graphic"
+    },
+    {
+        "index": 204,
+        "text": "a worm hole?",
+        "task2": "worm hole既指虫洞，也指时空隧道",
+        "task3": "图中是一个恐龙从洞里漏出头像一条虫，与worm hole关联",
+        "task4": "恐龙早已在大约6600万年前灭绝，虫洞则是指一种连接时空中不同点的理论结构；该图用于调侃恐龙对于现代的遥远",
+        "tag": "graphic"
+    },
+    {
+        "index": 205,
+        "text": "WATCH FOR CHILDREN. Best trade I've ever made.",
+        "task2": "WATCH FOR CHILDREN既指注意儿童，也指为儿童设计的表",
+        "task3": "图中是一个指示牌旁边放着一块表，与WATCH FOR CHILDREN中的watch相关联",
+        "task4": "当代有很多专门为儿童设计的手表，路上也有很多标识提醒家长看好孩子；多用于以一种幽默的方式起到对手表的宣传作用",
+        "tag": "graphic"
+    },
+    {
+        "index": 206,
+        "text": "FREE ONE NIGHTSTAND",
+        "task2": "one night stand 有一夜的停留和一夜情的意思",
+        "task3": "免费的一晚住宿/免费的一夜情",
+        "task4": "on night stand有一夜住宿和一夜情的意思，可能用于隐藏的色情含义",
+        "tag": "graphic"
+    },
+    {
+        "index": 207,
+        "text": "-I found my ex gfs body in the morgue I work at. it was very awkward. -Still giving you the silent treatment? -The cold shoulder? -Did she ghost you?",
+        "task2": "body是指尸体",
+        "task3": "图中写I found my ex gfs body in the morgue I work at. 指我在资料室遇见了我的前任，同时body也指尸体，与下文中ghost等相关联",
+        "task4": "一般情况下人们对于前任可能抱有仇恨的态度或者再次相遇非常尴尬；多用于调侃一个人和前任之间的尴尬氛围",
+        "tag": "graphic"
+    },
+    {
+        "index": 208,
+        "text": "The castle's collapsing! Call the Archmage! -Stand aside! Inky Rickshaw by Ricky Hawkins. ARCHMAGE! ARCHMAGE! ARCHMAGE!",
+        "task2": "'Archmage' 双关于字面意义和发音意义：作为高阶法师的称谓，以及物理结构中拱形门的字面含义。",
+        "task3": "漫画讲述了一座城堡正在坍塌，旁边的小丑喊道‘快叫大法师（Archmage）！’，随后高阶法师自信登场，用魔法修复城堡。然而最后并不是修复了整个城堡，而是直接生成了一个‘拱门（arch）’和‘大法师（mage）’谐音的效果，形成幽默反转。",
+        "task4": "漫画的文化背景结合了奇幻题材中常见的大法师角色和魔法施展场景，同时双关语利用‘archmage’在发音上与建筑结构‘arch’（拱门）的相似。这样的梗适合奇幻题材爱好者或喜欢语言双关幽默的读者场景分享，用于轻松娱乐的表达方式。",
+        "tag": "graphic"
+    },
+    {
+        "index": 209,
+        "text": "Google assistant thinks it's funny. -Hi, how can I help? -how many seconds are there in one year. -12 of them: January 2nd, February 2nd, March 2nd, April 2nd, May 2nd, June 2nd, July 2nd, August 2nd, September 2nd, October 2nd, November 2nd, and December 2nd.",
+        "task2": "seconds指秒，也指2号",
+        "task3": "图中有个人问谷歌助手，how many seconds are there in one year. seconds指秒，也指2号，与下文中回答每个月的二号相关联",
+        "task4": "谷歌助手是人工智能的产物，部分功能不够完善，对人们抛出的问题理解有误差；多用于吐槽人工智能的残缺",
+        "tag": "graphic"
+    },
+    {
+        "index": 210,
+        "text": "Coffee Americano (Hot/Iced) Low Cocaine (Hot/Iced)",
+        "task2": "英文翻译错误将‘低因咖啡’（Decaf Coffee）错误地翻译为‘Low Cocaine’。",
+        "task3": "图中是一个咖啡店的菜单，‘低因咖啡’被翻译为‘Low Cocaine’，误将‘因’（咖啡因）对应的英语词‘Caffeine’拼写为‘Cocaine’（可卡因），形成滑稽的错译效果。错误的翻译让人误以为菜单在售卖非法物质，而非低咖啡因的饮品。",
+        "task4": "该梗涉及翻译错误的文化背景，特别是中英翻译中的常见问题（尤其在商业菜单和标识中）。这种场景经常出现在互联网幽默或翻译笑话的讨论中，用于讽刺不专业的翻译工作，也适合分享给语言学习者或翻译从业者，制造轻松幽默的交流氛围。",
+        "tag": "phonic"
+    },
+    {
+        "index": 211,
+        "text": "-why do people like feet? not kink shaming, just wondering what zbout feet makes them so attractive to some people. -That must be something from the US, here in Europe we're more into meters.",
+        "task2": "feet既指英尺，也指脚",
+        "task3": "feet既指英尺，也指脚，英尺多用于英国，与meters多用于美国相关联",
+        "task4": "英式英语和美式英语在部分单词的使用上存在差异，因而在理解上可能存在误差；用于冷笑话",
+        "tag": "graphic"
+    },
+    {
+        "index": 212,
+        "text": "Caps Lock",
+        "task2": "电脑键盘同一位置为大写锁定键Caps",
+        "task3": "图中电脑键盘上有一张锁喉的图片，与电脑键盘同一位置为大写锁定键Caps相关联",
+        "task4": "蝙蝠侠和美国队长分别是DC和漫威两大美漫巨头，处于对抗状态；多用于幽默的表达两者之间对抗的状态，锁死",
+        "tag": "graphic"
+    },
+    {
+        "index": 213,
+        "text": "-I can cut a log in half just by looking at it. -That's impossible. -I know it's hard to believe, but I saw it with my own two eyes.",
+        "task2": "‘saw’既指‘看见’也指‘锯’，通过双关制造幽默。",
+        "task3": "图中一人声称他能通过‘看着木头’就将其锯成两半，另一人质疑其可能性。随后他回应‘I saw it with my own two eyes’，这句话字面上是‘我亲眼看到的’，但‘saw’也暗指‘用锯子锯’，暗示他实际上用锯完成了切割，形成幽默。",
+        "task4": "涉及的文化背景是英语中‘saw’的双重含义（看见和锯木工具），适合用在轻松的语言幽默场景或双关梗的交流中，体现智慧和诙谐。",
+        "tag": "phonic"
+    },
+    {
+        "index": 214,
+        "text": "Me: I have an impeccable sense of humor. The type of things I laugh at: Le come.",
+        "task2": "LEGO是品牌名称也是Le come的相反方向",
+        "task3": "图中一个乐高小人背对着我们走来，与Le come的相关联",
+        "task4": "LEGO是一个著名的积木品牌，设计有自己特色的积木小人；多用于谐音梗冷笑话",
+        "tag": "phonic"
+    },
+    {
+        "index": 215,
+        "text": "HIRING A NEW ITALIAN CHEF OUR OLD ONE PASTA WAY.",
+        "task2": "PASTA WAY与Pass away谐音",
+        "task3": "图中牌子写HIRING A NEW ITALIAN CHEF，要会PASTA WAY，上一个与Pass away关联",
+        "task4": "英语中经常连读，导致有时两个单词连读后与另一个读音一样，会产生误解；用于招聘广告",
+        "tag": "phonic"
+    },
+    {
+        "index": 216,
+        "text": "akane-owari: flyawaymax: she converses.",
+        "task2": "Converse 既指匡威这个品牌，也指交谈",
+        "task3": "图中converse是指鞋的品牌，也指与鞋交流",
+        "task4": "Converse是一个鞋的品牌，图中一个女孩于鞋交流也用converse；多用于幽默地为品牌做宣传",
+        "tag": "graphic"
+    },
+    {
+        "index": 217,
+        "text": "-I want another baby. -That's a relief. I didn't like this one either.",
+        "task2": "another有另一个和再一个的意思",
+        "task3": "一对夫妇在谈论再要一个孩子，丈夫以为不要这个了，与another关联",
+        "task4": "也许是男女思维之间存在差异，对于孩子的态度也不一样；用于吐槽男子对于孩子的不关心",
+        "tag": "graphic"
+    },
+    {
+        "index": 218,
+        "text": "IN CASE OF FIRE, TAKE STAIRS.",
+        "task2": "TAKE STAIRS是走楼梯，图中指搬楼梯",
+        "task3": "图中一个男子从着火了的房子里搬着楼梯出来了，与TAKE STAIRS是走楼梯相关联",
+        "task4": "根据消防常识，着火了不能坐电梯，要走楼梯；用于在幽默中普及消防救援知识",
+        "tag": "graphic"
+    },
+    {
+        "index": 219,
+        "text": "Optimistic about children.",
+        "task2": "Optimistic about children可以在某个情境下被理解为对孩子们当前的状态、未来发展等方面持乐观态度，也指看好儿童",
+        "task3": "图中标识是指看好儿童，与Optimistic about children相关联，也可以在某个情境下被理解为对孩子们当前的状态、未来发展等方面持乐观态度",
+        "task4": "公众场合一般会有看好儿童的标识来提醒家长，用多种语言来提醒各个国家的家长，但“中式英文”有独特的表达；用于吐槽中式英语的不规范",
+        "tag": "graphic"
+    },
+    {
+        "index": 220,
+        "text": "-Who Can Use The World Gruesome In A Sentence? -I Used To Be Shorter, Then I Gruesome?",
+        "task2": "Gruesome与grew some谐音",
+        "task3": "图中要求用Gruesome造句，小男孩说I Used To Be Shorter, Then I Gruesome.与grew some关联",
+        "task4": "小学课堂上，小孩子思维比较发散，且对于老师的问题理解不到位；多用于刻画儿童的调皮可爱",
+        "tag": "graphic"
+    },
+    {
+        "index": 221,
+        "text": "YEAH I'M A PACIFIST. I'M ABOUT TO PASS A FIST ACROSS YOUR FACE NOW.",
+        "task2": "PACIFIST与PASS A FIRST谐音",
+        "task3": "图中说I'm a pacifist. 后面又说I'M ABOUT TO PASS A FIST ACROSS YOUR FACE NOW.",
+        "task4": "小猫疑惑的表情；用于表示对内容的质疑",
+        "tag": "phonic"
+    },
+    {
+        "index": 222,
+        "text": "When your milk has a date on Valentines Day and you don't.",
+        "task2": "has a date on是指有约会，也指到期",
+        "task3": "图中牛奶瓶上的保质期是FEB.14，是情人节，因而与has a date on相关联",
+        "task4": "2月14日是情人节，在西方极为重视，男女在这一天共度来表达对对方的爱意；用于调侃单身人士",
+        "tag": "graphic"
+    },
+    {
+        "index": 223,
+        "text": "Classic pun that I was too young to understand. - HEN-GRENADES",
+        "task2": "'Hen-grenades' 将 'hand grenades'（手榴弹）和 'hen'（母鸡）结合成双关。",
+        "task3": "图中是经典动画《猫和老鼠》的场景，杰瑞（Jerry）从盒子里拿出一个鸡蛋，这个盒子上写着‘Hen-grenades’，幽默地暗示这些鸡蛋是‘母鸡榴弹’",
+        "task4": "这是一个《猫和老鼠》这部夸张幽默动画的经典情节。‘hand grenades’指手榴弹，‘hen’指母鸡，结合在一起形成荒诞效果。这样的梗多用于怀旧情感分享，或者讨论动画中的隐藏成人幽默时使用，特别适合语言爱好者或经典动画迷的场景。",
+        "tag": "phonic"
+    },
+    {
+        "index": 224,
+        "text": "PLEASE CHECK IF YOU FLUSHED THANK YOU!",
+        "task2": "CHECK有检查也有打钩的意思",
+        "task3": "图中那张纸上用笔打满了对钩，与 CHECK相关联",
+        "task4": "这是贴在厕所里提醒人们检查是否冲水的标语，而被幽默地理解为冲水后在纸上打勾",
+        "tag": "graphic"
+    },
+    {
+        "index": 225,
+        "text": "WOULD YOU LIKE A BOX FOR THE REST OF YOUR MEAL? THAT WOULD BE GREAT.",
+        "task2": "BOX有打包盒和箱子的意思；for the rest of your meal既可以指剩下的餐，也可以指剩下的用餐时间",
+        "task3": "图中两只猫在后续用餐过程中坐到了箱子里，与BOX和for the rest of your meal相关联",
+        "task4": "用餐结束后，服务员会问人们是否需要把剩下的餐食打包；用于谐音梗冷笑话",
+        "tag": "graphic"
+    },
+    {
+        "index": 226,
+        "text": "Klean Strip Premium Stripper",
+        "task2": "Stripper既有剥离剂又有脱衣舞演员的意思",
+        "task3": "图中摆放着两瓶剥离剂，中间夹着一张纸币，与Stripper脱衣舞演员相关联",
+        "task4": "脱衣舞娘在西方是需要给钱的；用于隐晦的表达",
+        "tag": "graphic"
+    },
+    {
+        "index": 227,
+        "text": "ALIEN ITALIEN",
+        "task2": "ITALIEN在德语里是意大利的意思",
+        "task3": "图中两张照片一张是没有手的外星人，一张是有手的，与ITALIEN相关联",
+        "task4": "IT是指信息技术，现如今科技的快速发展很有可能为人类带来威胁；多用于表达对未来科技发展对人类带来的威胁的担忧",
+        "tag": "graphic"
+    },
+    {
+        "index": 228,
+        "text": "Once you've read the dictionary, every other book you read is just a remix.",
+        "task2": "每一本你读的其他书都只是一种 remix”，是把阅读其他书籍类比成了对已经从字典中获取的知识的一种重新组合或改编",
+        "task3": "图中文字是指每一本你读的其他书都只是一种 remix”，是把阅读其他书籍类比成了对已经从字典中获取的知识的一种重新组合或改编",
+        "task4": "一个人把所有的单词都记住了，那么其他的书对他来说就只是各个单词的组合；用于调侃背词典的人",
+        "tag": "graphic"
+    },
+    {
+        "index": 229,
+        "text": "fruit that do not live up to their names: passionfruit, grapefruit, honeydew, dragonfruit. fruits that do live up to their names: orange.",
+        "task2": "对比大多数水果名字（如“passionfruit”并不充满激情，“grapefruit”不是葡萄，“dragonfruit”与龙无关）与“orange”这个词，因其既表示水果名称又恰好描述其橙色，字面与实际完全一致",
+        "task3": "图中用各种词与orange对比，与双关相关联",
+        "task4": "调侃了英文中水果起名的随意性",
+        "tag": "graphic"
+    },
+    {
+        "index": 230,
+        "text": "-I was on edge for most of this video. -I was on Firefox. To each their own.",
+        "task2": "on edge既可以理解为紧张，也可以理解为浏览器",
+        "task3": "图中是评论区的两条评论，网络评论与浏览器相关联",
+        "task4": "Edge和Firefox都是常用的两款浏览器；用于表达语言带给人们的误解",
+        "tag": "phonic"
+    },
+    {
+        "index": 231,
+        "text": "-How often do people die during the procedure? -Just once.",
+        "task2": "How often do people die during the procedure? 既可理解为有多少人在手术过程中死亡？也可理解为人们会死多少次？",
+        "task3": "一位病人在问一个医生How often do people die during the procedure? 与医生的回答Just once相关联",
+        "task4": "病人与医生的对话；用于缓解紧张的气氛",
+        "tag": "graphic"
+    },
+    {
+        "index": 232,
+        "text": "Study finds atheists are more likely to own cats than Christians. Robert Noble This article is stupid. Besides not knowing how to feed and care for them, it's illegal to own a Christian, let alone buy and sell them.",
+        "task2": "own cats than Christians 与 Atheists are more likely toown cats than Christians to own cats. 有理解偏差",
+        "task3": "own cats than Christians 与 Atheists are more likely toown cats than Christians to own cats. 有理解偏差",
+        "task4": "猫是一种宠物，受到人们的喜爱；用于表达对小猫的喜爱",
+        "tag": "graphic"
+    },
+    {
+        "index": 233,
+        "text": "Me: Can you curve my grade. My professor: f.",
+        "task2": "Can you curve my grade? 译为你能计算我的成绩吗？ 或者你能使我的成绩弯曲吗？",
+        "task3": "Can you curve my grade? 译为你能计算我的成绩吗？ 或者你能使我的成绩弯曲吗？与图中弯曲的成绩F相关联",
+        "task4": "F是成绩等级的一种表达，代表不及格；用于表达学生恳求老师给自己考试过关",
+        "tag": "graphic"
+    },
+    {
+        "index": 234,
+        "text": "When relationships haven't been working out for you. HOW TO DATE BUILDINGS. An Easy Reference Guide.",
+        "task2": "DATE既有约会也有确定日期的意思",
+        "task3": "图中问When relationships haven't been working out for you. 与图中的书的标题中的DATE相关联",
+        "task4": "对于确定房子的年代是有书籍来教授的；用于调侃某些不会与别人相处的人",
+        "tag": "graphic"
+    },
+    {
+        "index": 235,
+        "text": "HOLD YOUR HORSES.",
+        "task2": "HOLD YOUR HORSES.既可译为耐心等待，也可译为举起你的马",
+        "task3": "图中一个人在举着一匹马，与HOLD YOUR HORSES.既可译为耐心等待，也可译为举起你的马相关联",
+        "task4": "倒举起马很荒谬；用于幽默的表达使人耐心",
+        "tag": "graphic"
+    },
+    {
+        "index": 236,
+        "text": "Emotional Outlet",
+        "task2": "Outlet 既有插座也有发泄方式的意思",
+        "task3": "图中插座像是在发疯，与Outlet 有发泄方式的意思相关联",
+        "task4": "图中油画是蒙克的《呐喊》，体现出恐惧和痛苦；用于表达一个人的崩溃",
+        "tag": "graphic"
+    },
+    {
+        "index": 237,
+        "text": "Ieat chocolate periodically.",
+        "task2": "periodically既有定期地也有周期性地的意思",
+        "task3": "图中是由巧克力组成的元素周期表，与periodically相关联",
+        "task4": "化学元素周期表；用于规律性的做一件事",
+        "tag": "graphic"
+    },
+    {
+        "index": 238,
+        "text": "-Give me all your money. Otherwise you are chemistry! -Don't you mean history? -Don't change the subject!",
+        "task2": "chemistry意思是如果不把所有钱交出来，那么对方就会面临一种如同化学反应般激烈、糟糕的情况，也就是会遭受不好的对待；history是指否则你就会成为历史（即被干掉、消失）",
+        "task3": "图中一个人遭遇到了打劫，劫匪吓唬他chemistry意思是如果不把所有钱交出来，那么对方就会面临一种如同化学反应般激烈、糟糕的情况，也就是会遭受不好的对待；history是指否则你就会成为历史（即被干掉、消失）与subject相关联",
+        "task4": "历史和化学分别是一门学科，历史代表着过去，化学则通常与化学实验相关联；用于幽默地表达劫匪的残酷",
+        "tag": "graphic"
+    },
+    {
+        "index": 239,
+        "text": "I JUST BOUGHT A BOOK FROM IKEA.",
+        "task2": "book有书的意思，也有预定的意思",
+        "task3": "图中是指在宜家中，book有书的意思，也有预定的意思",
+        "task4": "IKEA中的家具多为木质，一堆小木块；用于对宜家起到宣传作用",
+        "tag": "graphic"
+    },
+    {
+        "index": 240,
+        "text": "offspring",
+        "task2": "offspring既有后代的意思，也有弹簧没有弹性的意思",
+        "task3": "图中是两个弹簧牵着一个小弹簧，与offspring相关联，其既有后代的意思，也有弹簧没有弹性的意思",
+        "task4": "人类社会有繁衍后代的重任；用于展示一家三口的美好画面",
+        "tag": "graphic"
+    },
+    {
+        "index": 241,
+        "text": "onins CTRL+X",
+        "task2": "'CTRL+X' 的功能含义（剪切）被赋予了情感化的解释。",
+        "task3": "漫画中，一个人在整理购物清单，看到‘onions’（洋葱）后，按下了‘CTRL+X’（剪切）的快捷键。最后一格显示他流下了眼泪，幽默地暗示‘CTRL+X’不仅剪切了文本，也剪切了他的情感，联想到洋葱让人流泪的效果。",
+        "task4": "漫画结合了电脑快捷键（CTRL+X 剪切）的功能和洋葱让人流泪的文化常识，用来表达幽默化的情绪波动。这种梗常用于程序员或熟悉电脑快捷键的人群中，也适合语言幽默和现代生活场景的分享，具有轻松搞笑的效果。",
+        "tag": "graphic"
+    },
+    {
+        "index": 242,
+        "text": "Cellfie",
+        "task2": "Cellfie与Selfie谐音",
+        "task3": "图中一个细胞拿着显微镜，像是在自拍，与Cellfie与Selfie谐音相关联",
+        "task4": "在生物科学中，显微镜是用来观察细胞的；多用于展示显微镜于细胞间的关系",
+        "tag": "phonic"
+    },
+    {
+        "index": 243,
+        "text": "Please colour: Danish flag, Swadish flag, Finnish flag",
+        "task2": "Finnish与Finish谐音",
+        "task3": "图中画的Finnish flag是比赛终点的旗帜， 与Finish相关联",
+        "task4": "赛车比赛终点的旗帜是黑白方格的；多用于谐音冷笑话",
+        "tag": "phonic"
+    },
+    {
+        "index": 244,
+        "text": "If you think taming raptors is hard... IMAGINE DRAGONS",
+        "task2": "Imagine Dragons既指想象一下龙，同时也是一支非常受欢迎的美国摇滚乐队的名字",
+        "task3": "图上一个人对抗三只恐龙是困难的，Imagine Dragons既指想象一下龙，同时也是一支非常受欢迎的美国摇滚乐队的名字",
+        "task4": "Imagine Dragons是一支非常受欢迎的美国摇滚乐队，图片上半部分为侏罗纪公园中与恐龙共舞的场景；多用于调侃驯服猛兽",
+        "tag": "graphic"
+    },
+    {
+        "index": 245,
+        "text": "Chair, Chwater, Chfire, Chearth",
+        "task2": "Chair是在空中的，Chwater是在水上的，Chfire是在火上的，Chearth是在泥土上的",
+        "task3": "图中是椅子在不同的物质上，因而与Chwater是在水上的，Chfire是在火上的，Chearth是在泥土上的相关联",
+        "task4": "椅子处于不同的材质中；多用于幽默的造词",
+        "tag": "phonic"
+    },
+    {
+        "index": 246,
+        "text": "He's getting the F out of there.",
+        "task2": "在口语表达习惯中，人们常用 “F”来代替fuck",
+        "task3": "图中是远处有个人拿着F离开，与在口语表达习惯中，人们常用 “F”来代替fuck相关联",
+        "task4": "FUCK OUT是一句粗俗的话；用于朋友间的互损",
+        "tag": "graphic"
+    },
+    {
+        "index": 247,
+        "text": "-TAXI! -HANG ON... I GOTTA TAKE A LEEK FIRST.",
+        "task2": "take a leek与take a leak谐音",
+        "task3": "一个出租车拒绝了carrot，选择先载leek，与take a leak相关联",
+        "task4": "在蔬菜的世界里，将其拟人化；用于表达出租车司机的不易",
+        "tag": "phonic"
+    },
+    {
+        "index": 248,
+        "text": "My hotkeys",
+        "task2": "hotkeys既指快捷键，也指热键",
+        "task3": "图中是一个空格键处着火了，与hotkeys相关联",
+        "task4": "空格键在电脑键盘中属于热键，也就是快速键，可以通过和其他键来搭配，从而能够快速完成一个操作；用于表示空格键的广泛的应用",
+        "tag": "graphic"
+    },
+    {
+        "index": 249,
+        "text": "INCORGNITO",
+        "task2": "NCORGNITO 可能是想表达其处于一种匿名、不被人知晓真实身份或情况的状态",
+        "task3": "两只狗戴着墨镜，与NCORGNITO 可能是想表达其处于一种匿名、不被人知晓真实身份或情况的状态相关联",
+        "task4": "酷酷的两只小狗；多用于高冷，冷酷",
+        "tag": "graphic"
+    },
+    {
+        "index": 250,
+        "text": "-Say aye or you're gay. -you're gay. Davi Amaral removed you.",
+        "task2": "or既有或者又有否则的意思",
+        "task3": "or既有或者又有否则的意思",
+        "task4": "在网络交流中因为缺乏语境而容易产生误解；多用于调侃对方",
+        "tag": "graphic"
+    },
+    {
+        "index": 251,
+        "text": "To-Do List -To do. -To do. -To do, to do, to do, to do, to doooo, dododododo.",
+        "task2": "'To do, to do, to do...' 是对粉红豹主题曲（Pink Panther Theme）的旋律模仿。",
+        "task3": "漫画左侧显示一张‘待办清单’（To-Do List），其中的任务列出‘To do’重复多次，甚至延伸为‘To dooo dododododo’，这模仿了粉红豹主题曲的旋律。右侧的粉红豹表情得意，暗示这是它的风格化幽默。",
+        "task4": "涉及的文化背景是粉红豹主题曲的经典旋律，这是一首没有歌词的标志性配乐，主要靠‘哼唱式’的旋律被人熟知。漫画通过将任务清单和音乐结合，用于粉红豹迷或喜欢音乐梗的人群中，适合怀旧和幽默场景分享。",
+        "tag": "phonic"
+    },
+    {
+        "index": 252,
+        "text": "Carefully fall",
+        "task2": "Carefully fall既指小心地坠落，也指小心坠落",
+        "task3": "图中一个小心坠落的标识，与Carefully fall相关联",
+        "task4": "“中式英语”出现在标识中容易引起误解；多用来吐槽中式英语",
+        "tag": "graphic"
+    },
+    {
+        "index": 253,
+        "text": "A Surgeon. A Plastic Surgeon.",
+        "task2": "a plastic surgeon既指整形外科医生，也指塑料玩具医生",
+        "task3": "图中一个塑料玩具医生，与a plastic surgeon整形外科医生相关联",
+        "task4": "在整形手术中多用塑料假体来填充，与塑料密切相关；多用于幽默的表述整容医生",
+        "tag": "graphic"
+    },
+    {
+        "index": 254,
+        "text": "they're waterfelons. Two men in VA wore watermelons on their heads to shoplift alcohol from a gas station-yes, watermelons.",
+        "task2": "felon是指重罪犯，点明了他们的犯罪行为（偷酒），又突出了他们用西瓜作为掩护（戴西瓜在头上）这个奇特的手段",
+        "task3": "图中报道两个人带着西瓜头套盗窃，felon是指重罪犯，点明了他们的犯罪行为（偷酒），又突出了他们用西瓜作为掩护（戴西瓜在头上）这个奇特的手段，与waterfelons相关联",
+        "task4": "两个小偷戴西瓜皮实施犯罪；用于调侃小偷的蠢笨",
+        "tag": "graphic"
+    },
+    {
+        "index": 255,
+        "text": "-My son has been eating electrical cords. What do I do? -Ground him until he conducts himself properly.",
+        "task2": "ground既有禁足的意思，也有接地线的意思",
+        "task3": "图中问eating electrical cords怎么办，与ground相关联，其既有禁足的意思，也有接地线的意思",
+        "task4": "接地线的主要作用就是保护人身安全和设备安全；多用于简单通俗的传播电力知识",
+        "tag": "graphic"
+    },
+    {
+        "index": 256,
+        "text": "IF YOU LOOK REALLY CLOSELY, YOU'LL SEE 2 CLOWNS. STARING AT EACH OTHER.",
+        "task2": "2 CLOWNS. STARING AT EACH OTHER两个小丑，彼此对视着",
+        "task3": "图中仔细看会有两张小丑的脸，与2 CLOWNS. STARING AT EACH OTHER两个小丑，彼此对视着相关联",
+        "task4": "人类的眼睛容易在图画的偏差下得到不同的图案；多用于表示眼睛的欺骗性",
+        "tag": "graphic"
+    },
+    {
+        "index": 257,
+        "text": "Oh, sure grab a de fenseless fish while he isn't looking. Big, tough guy! TO MOCK A KILLINGBIRD.",
+        "task2": "de fenseless明显是defenseless（无防御能力的；无助的）的错误拼写从，双关角度看，这种错误拼写本身就有点像一种调侃式的弱化",
+        "task3": "图中是一只鹰捕到一条鱼，de fenseless明显是defenseless（无防御能力的；无助的）的错误拼写从，",
+        "task4": "《杀死一只知更鸟》讲述的是白人律师为黑人汤姆辩护的故事；用于戏谑的表述",
+        "tag": "graphic"
+    },
+    {
+        "index": 258,
+        "text": "-Waht do you call a priest that becomes a lawyer? -A father in law.",
+        "task2": "father in law与priast becomes a lawyer. 谐音双关",
+        "task3": "图中的对话，father in law与priast becomes a lawyer. 相关联",
+        "task4": "两只大猩猩在交流；用于谐音梗幽默",
+        "tag": "phonic"
+    },
+    {
+        "index": 259,
+        "text": "JUSTICE SERVED",
+        "task2": "JUSTICE SERVED.既有伸张正义，又有冰块供应的意思",
+        "task3": "图中是一张盘子上摆满了冰块，与 JUSTICE SERVED.即JUST ICE SERVED.相关联",
+        "task4": "冰块被当做菜品呈现在盘子中；用于调侃菜品的奇特",
+        "tag": "graphic"
+    },
+    {
+        "index": 260,
+        "text": "-what is 5Q plus 5Q? -10Q. -you're welcome.",
+        "task2": "‘10Q’发音类似‘Thank you’，通过数学问题引出答谢双关。",
+        "task3": "图中第一个人问‘5Q + 5Q 等于多少？’，回答者说‘10Q’，听起来像‘Thank you’（谢谢），随后另一个人幽默地回应‘You’re welcome’（不客气），这种刻意的双关引发场景中的搞笑冲突。",
+        "task4": "梗的文化背景是基于英语发音的谐音双关，将简单的数学问题转化为礼貌对话。适用于轻松幽默的场景，尤其在语言学习者或喜欢谐音笑话的人群中传播。",
+        "tag": "phonic"
+    },
+    {
+        "index": 261,
+        "text": "WARNING!! Tresspassers will Be Prost it uded.",
+        "task2": "prost it ueded与prosecuted谐音",
+        "task3": "警告牌上prost it ueded与prosecuted谐音",
+        "task4": "路边荒凉处有一块告示牌；用于对闯入禁地的警告",
+        "tag": "phonic"
+    },
+    {
+        "index": 262,
+        "text": "Me: What can I do to get healthier, doctor? Doctor: Use a bicycle and cut the carbs.",
+        "task2": "cut the carbs 就是指减少碳水化合物的摄入，也指把碳水化合物 “切割” 掉",
+        "task3": "图中拿着一个自行车样式的切割刀在切割披萨，与cut the carbs 相关联，其就是指减少碳水化合物的摄入，也指把碳水化合物 “切割” 掉",
+        "task4": "碳水化合物（carbs）是为人体提供能量的，但对于减肥的人来说要控制其摄入量，披萨属于劣质碳水，更要控制；用于幽默的表示减肥之人对自身的控制",
+        "tag": "graphic"
+    },
+    {
+        "index": 263,
+        "text": "I am not a big fan of bike helmets but this one does have appeal.",
+        "task2": "appeal有吸引力也有申诉的意思",
+        "task3": "图中一个人将香蕉当头盔，与appeal相关联，其有吸引力也有申诉的意思",
+        "task4": "香蕉的形状很适合扣在头上当头盔；用于调侃自行车头盔的形状",
+        "tag": "graphic"
+    },
+    {
+        "index": 264,
+        "text": "1+4=; 1+4=2",
+        "task2": "手势二是罗马数字的V",
+        "task3": "图中一个罗马人告诉台上的同学1+4的答案，比了罗马数字V的手势，与手势二相关联",
+        "task4": "罗马数字与阿拉伯数字的形态不一样；用于表示两种数字表达方式之间的差异",
+        "tag": "graphic"
+    },
+    {
+        "index": 265,
+        "text": "Donald, Duck!",
+        "task2": "Donald Duck是唐老鸭的意思,, Duck也有下蹲的意思",
+        "task3": "背景中有一个人在下蹲，与Donald Duck相关联，其既是唐老鸭的意思,, Duck也有下蹲的意思",
+        "task4": "背景图为特朗普在竞选总统宣讲时遭遇枪击的场面，他下意识下蹲；用于调侃这一离谱事件",
+        "tag": "graphic"
+    },
+    {
+        "index": 266,
+        "text": "Isn't it cute when you find a cat resting on the roof of your car?",
+        "task2": "Cat 是指猫，也指有CAT商标的挖掘机",
+        "task3": "图中有三张图片是关于猫在车顶上，另一张是一辆CAT牌的挖掘机在车顶上，与 Isn't it cute when you find a cat resting on the roof of your car?相关联",
+        "task4": "小猫躺在不同的车顶上，并且还有一个CAT品牌的挖掘机在车顶上；用于戏谑的表示挖掘机在车顶上这一离谱的场面",
+        "tag": "graphic"
+    },
+    {
+        "index": 267,
+        "text": "LIQUOR STORE ASSISTANT: HEY, DO YOU NEED HELP? ME: YES, BUT I DECIDED TO COME HERE INSTEAD.",
+        "task2": "将‘help’既解读为‘帮助’（精神支持）又指代寻求酒精的安慰，形成双关。",
+        "task3": "图中酒品店店员问顾客‘需要帮助吗？’，顾客回答‘是的，但我决定来这里’，暗示他原本需要心理上的帮助（help），但转而通过酒精寻找安慰，以此形成幽默的反差效果。",
+        "task4": "梗的文化背景涉及‘酒精作为心理慰藉’的通俗隐喻，结合日常生活中‘帮助’的双重含义，适用于幽默化表达压力或情绪的社交场景，轻松调侃但也带有一定的讽刺意味。",
+        "tag": "graphic"
+    },
+    {
+        "index": 268,
+        "text": "-MY APOLOGIES. IT WAS SO QUITE, I THOUGHT THIS RESTROOM WAS UNOCCUPIED. -HAPPENS ALL THE TIME. PROBABLY BECAUSE THE \"P\" IS SILENT.",
+        "task2": "quiet与quite混淆，the 'P' is silent是指单词 “quite” 中的字母 “p” 是不发音的",
+        "task3": "图中一个龙不知道洗手间在使用，太安静了，与the 'P' is silent相关联",
+        "task4": "两只恐龙被拟人化；用于幽默的表达厕所偶遇的尴尬",
+        "tag": "graphic"
+    },
+    {
+        "index": 269,
+        "text": "-What sort of music should we play when we fish? -Something catchy.",
+        "task2": "catchy是易使人上当的意思，也有好钓鱼的意思",
+        "task3": "两个人在讨论钓鱼时放什么音乐，与catchy相关联，其是易使人上当的意思，也有好钓鱼的意思",
+        "task4": "钓鱼时由于太过无聊，钓鱼的人可能会选择听歌来消磨时间；用于调侃钓鱼要对鱼有吸引力",
+        "tag": "graphic"
+    },
+    {
+        "index": 270,
+        "text": "juice, ju",
+        "task2": "ju加了ice就是juice",
+        "task3": "图中上面的果汁里加了冰块，与juice相关联",
+        "task4": "果汁中是否加冰是果汁的两种不同的形态；用于表示加了冰的果汁可能更好喝",
+        "tag": "graphic"
+    },
+    {
+        "index": 271,
+        "text": "-Coffee or tea? -Coffee. -Wrong. It's tea.",
+        "task2": "乘客错理解成要选择Coffee or tea",
+        "task3": "空姐问乘客猜一下是什么，乘客错理解成要选择Coffee or tea",
+        "task4": "空姐在飞机上会询问乘客对于饮品的选择；用于调侃空姐与乘客之间的理解误差",
+        "tag": "graphic"
+    },
+    {
+        "index": 272,
+        "text": "How do you say ban deng in English? abandon",
+        "task2": "abandon与中文的一个板凳谐音",
+        "task3": "图中问How do you say ban deng in English?与abandon相关联",
+        "task4": "中文的某些读音在英语中有相对应的；用于调侃中英混杂",
+        "tag": "phonic"
+    },
+    {
+        "index": 273,
+        "text": "White",
+        "task2": "W hit e.就是White",
+        "task3": "图中一个带有W标识的人在打一个带有e标识的人，与 White相关联",
+        "task4": "英文中某些单词可以拆解出更有趣的含义便于记忆；用于英语单词的趣味记忆",
+        "tag": "graphic"
+    },
+    {
+        "index": 274,
+        "text": "Bears, B",
+        "task2": "Bears没有了耳朵就是B",
+        "task3": "上图中的熊没有了耳朵，与Bears没有了耳朵就是B相关联",
+        "task4": "两组熊的对照；用于调侃部分构词",
+        "tag": "graphic"
+    },
+    {
+        "index": 275,
+        "text": "painful knee, dirty knee, bleeding knee, wo ai knee.",
+        "task2": "wo ai knee与我爱你谐音",
+        "task3": "图中各种有关膝盖的问题，到最后 wo ai knee与我爱你相关联",
+        "task4": "类似土味情话；用于表达对一个人的爱意",
+        "tag": "phonic"
+    },
+    {
+        "index": 276,
+        "text": "-Babe. -Hi. -I Think You're... -A.... Mexican....?",
+        "task2": "'Adorable' 和 'A Dora bowl' 发音相似。",
+        "task3": "对话中，发送者通过文字游戏表达了‘I think you’re adorable’，但用‘A Dora bowl’的形式表现出来，其中发送了一张带有朵拉（Dora）的碗的图片，以碗（bowl）与‘adorable’（可爱）进行谐音双关。收信人却没有领会其中的双关，误以为是在说‘Mexican’，导致了幽默的效果。",
+        "task4": "涉及文化背景包括‘Dora the Explorer’这部动画片以及她的墨西哥裔背景。同时，‘adorable’作为日常形容词，加上‘bowl’的谐音，使这个梗在熟悉英语的人群中形成幽默，适合朋友间调侃或轻松的社交互动场景。",
+        "tag": "phonic"
+    },
+    {
+        "index": 277,
+        "text": "I am on the seafood diet. I see food, and I eat it.",
+        "task2": "seafood与see food谐音",
+        "task3": "图中一个人说最近在靠海鲜减肥，与I see food, and I eat it.相关联",
+        "task4": "一个老爷爷有自己的减肥方法；用来调侃减肥没有自制力的人",
+        "tag": "phonic"
+    },
+    {
+        "index": 278,
+        "text": "Australia. Agstralia. Festralia.",
+        "task2": "Au, Ag 和 Fe都是不同的化学元素",
+        "task3": "图中是不同物质的澳大利亚地图，与Au, Ag 和 Fe相关联，其都是不同的化学元素",
+        "task4": "Au、Ag、Fe在化学表达式中分别代表铜、银、铁；用于幽默的表达澳大利亚",
+        "tag": "graphic"
+    },
+    {
+        "index": 279,
+        "text": "-Can you type quickly? -Yes, that and many other words...",
+        "task2": "words” 除了有字词的常规含义外，还可以指代话语，言辞",
+        "task3": "面试官问Can you type quickly? 与回答中的many other words相关联，其 除了有字词的常规含义外，还可以指代话语，言辞",
+        "task4": "在面试中与面试官交谈存在理解偏差；用于吐槽某些理解能力差的人",
+        "tag": "graphic"
+    },
+    {
+        "index": 280,
+        "text": "CONE; CTWO",
+        "task2": "cone是路障的意思，两个路障就是ctwo",
+        "task3": "图中一个路障是cone，两个路障就是ctwo",
+        "task4": "不同数量的路障有不同的表达方式；用于调侃路障的构词",
+        "tag": "graphic"
+    },
+    {
+        "index": 281,
+        "text": "William; Pear; William Shakespeare",
+        "task2": "William 作为一个普通人在摇梨就组成William Shakespeare",
+        "task3": "图中莎士比亚William 作为一个普通人在摇梨就组成William Shakespeare",
+        "task4": "莎士比亚摇晃一个梨；用于调侃其名字",
+        "tag": "phonic"
+    },
+    {
+        "index": 282,
+        "text": "Woman stand; Woman go; Man stand; Mango",
+        "task2": "man go就是mango",
+        "task3": "图中一个人走就是man go与mango相关联",
+        "task4": "mango与man stand相反；用于幽默的表达壹个人的状态",
+        "tag": "phonic"
+    },
+    {
+        "index": 283,
+        "text": "LONDON; LONDOFF",
+        "task2": "灯打开是LONDON,灯关上是LANDOFF",
+        "task3": "图中灯打开是LONDON,灯关上是LANDOFF",
+        "task4": "London是美国的一个城市；用于调侃城市熄灯后的场景",
+        "tag": "graphic"
+    },
+    {
+        "index": 284,
+        "text": "person; persoff",
+        "task2": "person是指一个正常人，persoff则指一个人没有了力量，非常疲惫",
+        "task3": "图中person是指一个正常人，persoff则指一个人没有了力量，非常疲惫",
+        "task4": "两个人状态产生鲜明的对比；用于表示一个人的疲惫",
+        "tag": "graphic"
+    },
+    {
+        "index": 285,
+        "text": "My friends: Stop your algebra jokes we don't get em. Me: I don't care about your opinion.",
+        "task2": "π与p谐音",
+        "task3": "图中onion中间夹了一个π，与opinion相关联",
+        "task4": "洋葱（onion）比较形象；用于两人间的互怼",
+        "tag": "phonic"
+    },
+    {
+        "index": 286,
+        "text": "-Call me an ambulance. -You're an ambulance.",
+        "task2": "Call me an ambulance.既可以理解为叫一辆救护车，也可以理解为叫我救护车",
+        "task3": "一个男人在与一个出事故的人交流，与Call me an ambulance.相关联，既可以理解为叫一辆救护车，也可以理解为叫我救护车",
+        "task4": "在生命遭遇威胁时，紧急情况下应该拨打救护车电话；用于吐槽一个人的愚笨",
+        "tag": "graphic"
+    },
+    {
+        "index": 287,
+        "text": "-Comfortable sir? -No, no... -Comeforfood.",
+        "task2": "comefortable与come for table同字不同义",
+        "task3": "图中服务员问Comfortable sir?与come for table同字不同义，与顾客回答的come for food 相关联",
+        "task4": "在餐馆中服务员会悉心照顾顾客的感受，并询问；用于调侃前后不搭的对话场景",
+        "tag": "graphic"
+    },
+    {
+        "index": 288,
+        "text": "-Can I take a picture? -Sure. -Thanks.",
+        "task2": "take a picture 既指拍照，也指带走一幅画",
+        "task3": "图中男子问保安 Can I take a picture? 与男子搬走一幅画相关联",
+        "task4": "在艺术展览馆中对拍照的要求很高，不允许拍照或不允许使用闪光灯；用于表达一个人卡bug",
+        "tag": "graphic"
+    },
+    {
+        "index": 289,
+        "text": "-Sorry about leaving you waiting. -No problem, I'm patient.",
+        "task2": "patient既有病人的意思，也有耐心的意思",
+        "task3": "图中医生让病人等一会儿，病人的回答与patient相关联，其既有病人的意思，也有耐心的意思",
+        "task4": "医生与病人对话；用于刻画双方之间的关系",
+        "tag": "graphic"
+    },
+    {
+        "index": 290,
+        "text": "-I am terrified of heights, I've been avoiding tall buildings and libraries. -Why libraries? -Because they have the most stories.",
+        "task2": "stories既有故事，也有楼层的意思",
+        "task3": "图中男子说他恐高，包括图书馆在内，Because they have the most stories. 与stories相呼应，其既有故事，也有楼层的意思",
+        "task4": "恐高症是一种心理病症，并且图书馆一般作为藏书的地方楼层较多，同时记载的故事也很多；用于将图书馆幽默的表述",
+        "tag": "graphic"
+    },
+    {
+        "index": 291,
+        "text": "-I'd like to make a reservation. -This is a library sir. -We are fully booked.",
+        "task2": "book既有书，也有预定的意思",
+        "task3": "一男子询问想要预约，店员的回答与book相呼应，其既有书，也有预定的意思",
+        "task4": "部分地方的空间、座位需要提前预约；用于描述图书馆书本多",
+        "tag": "graphic"
+    },
+    {
+        "index": 292,
+        "text": "-I can't take anymore shit jokes, just call me a taxi. -You're a taxi.",
+        "task2": "call me a taxi.既可以理解为帮我叫一辆出租车，也可以理解为叫我出租车",
+        "task3": "图中女生说call me a taxi.既可以理解为帮我叫一辆出租车，也可以理解为叫我出租车",
+        "task4": "两人约会的对话；用于吐槽男方的情商低",
+        "tag": "graphic"
+    },
+    {
+        "index": 293,
+        "text": "-Did you eat the pizza I was saving in the fridge? -No, I ate it in the living room.",
+        "task2": "I ate it in the living room.可以理解为在客厅吃的，也可指吃的是客厅的而不是冰箱里的",
+        "task3": "图中两人的交流有理解偏差，I ate it in the living room.可以理解为在客厅吃的，也可指吃的是客厅的而不是冰箱里的",
+        "task4": "夫妻二人对于披萨的争执；用于避免两人之间的矛盾激发",
+        "tag": "graphic"
+    },
+    {
+        "index": 294,
+        "text": "-Why don't you write a book instead of just making these stupid puns and memes. -Well, that's a novel idea.",
+        "task2": "novel既有小说的意思，又有新颖的意思",
+        "task3": "图中妻子说的话中write a book 与回答中的novel相关联，其既有小说的意思，又有新颖的意思",
+        "task4": "两人似乎要吵起来；用于",
+        "tag": "graphic"
+    },
+    {
+        "index": 295,
+        "text": "-Did you want children? -No. -Me neither. -Kids, we need to talk.",
+        "task2": "kids既指孩子，还可以被理解为是一种对彼此的昵称或戏称",
+        "task3": "kids既指孩子，还可以被理解为是一种对彼此的昵称或戏称",
+        "task4": "夫妻二人感情深厚，孩子反而影响了二人世界；用于调侃孩子在父母心中的地位",
+        "tag": "graphic"
+    },
+    {
+        "index": 296,
+        "text": "-Can I have a bookmark? -6 Years old and he still doesn't know my name is Brian.",
+        "task2": "Can I have a bookmark?与Can I have a book, Mark?",
+        "task3": "图中父亲与孩子的对话中Can I have a bookmark?与Can I have a book, Mark?相关联",
+        "task4": "小孩子可能对于父母的名字没有什么意识，只知道要叫爸爸妈妈；用于调侃大人与孩子之间的交流差距",
+        "tag": "graphic"
+    },
+    {
+        "index": 297,
+        "text": "sirius black; serious sirius black; serious sirius black with a backpack; syrian serious sirius black with a black backpack.",
+        "task2": "使用角色名字 'Sirius Black' 和 'Serious' 以及叠加的语义变化进行双关。",
+        "task3": "图中分别展示了《哈利·波特》中的角色 Sirius Black 的不同版本：第一格是普通的 Sirius Black；第二格加了表情严肃，称为 ‘Serious Sirius Black’（严肃的天狼星布莱克）；第三格加了背包，称为 ‘Serious Sirius Black with a Backpack’（带背包的严肃天狼星布莱克）；第四格加入叙利亚国旗，称为 ‘Syrian Serious Sirius Black with a Black Backpack’（叙利亚的严肃天狼星布莱克带黑背包）。通过多层次的谐音和语义累积形成逐渐升级的幽默效果。",
+        "task4": "涉及的文化背景包括哈利·波特系列中的天狼星布莱克（Sirius Black）这个角色名字，‘Sirius’本身来源于天狼星（夜空中最亮的恒星），与‘Serious’（严肃的）发音相同。图中还利用了叙利亚（Syrian）和视觉标志叙利亚国旗，再加上文字堆叠的喜剧效果。这种梗常用于流行文化爱好者之间，用来调侃角色名字或多层语言双关的幽默场景。",
+        "tag": "phonic"
+    },
+    {
+        "index": 298,
+        "text": "-Thanks, mailman. -You're welcome, female woman.",
+        "task2": "mailman与male man谐音",
+        "task3": "图中女人说mailman与快递员所说的male man相关联",
+        "task4": "人们对于送货上门的快递员会表示感谢，对方也会回答；用于调侃听力误差",
+        "tag": "phonic"
+    },
+    {
+        "index": 299,
+        "text": "William Shookspeare; William With a spear; William Shakeyspear; Shooky Shakespear.",
+        "task2": "William Shakespear是莎士比亚原名，也可以理解为William 拿着一个spear摇",
+        "task3": "图中William 与spear的各种相处状态与William Shakespear相关联，其即是莎士比亚原名，也可以理解为William 拿着一个spear摇",
+        "task4": "莎士比亚的不同状态形成不同的名字；用于幽默的表达莎士比亚",
+        "tag": "phonic"
+    },
+    {
+        "index": 300,
+        "text": "William Shakespeare; William Steadyspeare; William With a spear; William Disappear.",
+        "task2": "William Shakespear是莎士比亚原名，那么William Steadyspear可以理解为莎士比亚很稳定，没有在摇晃",
+        "task3": "图中William 与spear的各种相处状态与William Shakespear相关联，那么William Steadyspear可以理解为莎士比亚很稳定，没有在摇晃",
+        "task4": "莎士比亚的不同状态形成不同的名字；用于幽默的表达莎士比亚",
+        "tag": "phonic"
+    },
+    {
+        "index": 301,
+        "text": "I think you are fantastic.",
+        "task2": "Fanta stick与Fantastic谐音",
+        "task3": "图中一罐芬达和一根棍子与Fanta stick和Fantastic相关联",
+        "task4": "Fanta与棍子相连读会产生另一种意思；用于委婉的表达对一个人的评价",
+        "tag": "phonic"
+    },
+    {
+        "index": 302,
+        "text": "Is this real life, or is this just Fanta Sea?",
+        "task2": "Fanta sea与Fantasy谐音",
+        "task3": "图中的Fanta sea与Fantasy相关联",
+        "task4": "一艘船行驶在全是芬达的海中；用于幽默的表达一个人分不清现实和幻想",
+        "tag": "phonic"
+    },
+    {
+        "index": 303,
+        "text": "-Which runs faster, hot or cold? -Hot, Because we all can catch a cold.",
+        "task2": "catch a cold可译为赶上cold，也可译为感冒",
+        "task3": "图中问Which runs faster, hot or cold? 回答中catch a cold与感冒相关联",
+        "task4": "图上的文字多用于讲述冷笑话",
+        "tag": "graphic"
+    },
+    {
+        "index": 304,
+        "text": "-My wife is going into labour what should I do? -Is this her first child? -No, this is her husband.",
+        "task2": "this 指即将出生的婴儿，也指这个男人",
+        "task3": "在与护士的交流中，this 指即将出生的婴儿，也指这个男人",
+        "task4": "妻子到了要生孩子的时候，要叫救护车；用于调侃两人之间的认识误差",
+        "tag": "graphic"
+    },
+    {
+        "index": 305,
+        "text": "-Oh No! our neighbour died! -Who, Ray? -I don't think cheering is appropriate, Karen.",
+        "task2": "Ray意味着欢呼",
+        "task3": "图中夫妇俩的邻居名字与Ray相关联，其意味着欢呼",
+        "task4": "对于邻居去世的事应该抱有悲伤的情绪；用于谐音梗",
+        "tag": "graphic"
+    },
+    {
+        "index": 306,
+        "text": "-Do you have any books on turtles? -Hard back? -Yeah, with little heads.",
+        "task2": "with little head 可指海龟头小小的特征，也指书籍小巧的特点",
+        "task3": "图中男士询问是否有有关海龟的书，与with little head相关联，即可指海龟头小小的特征，也指书籍小巧的特点",
+        "task4": "男人与书店店员的对话；多用于调侃双方之间的表达和理解都存在误解",
+        "tag": "graphic"
+    },
+    {
+        "index": 307,
+        "text": "-You wanna box for those, sir? -Nah, I hate violence. Is it cool if i just pay with my card.",
+        "task2": "box既有盒子的意思，也有拳击的意思",
+        "task3": "图中在结账过程中收银员问You wanna box for those, sir? 中box既有盒子的意思，也有拳击的意思",
+        "task4": "超市的场景，通常会问顾客要不要盒子或袋子",
+        "tag": "graphic"
+    },
+    {
+        "index": 308,
+        "text": "-My name is Juatin. -I didn't ask? -Justin Case.",
+        "task2": "Justin case与Just in case谐音",
+        "task3": "图中两个人在交谈过程中，男士说出他的名字Justin与Just in case相关联",
+        "task4": "两个陌生人开始交谈一般会以自我介绍开始",
+        "tag": "phonic"
+    },
+    {
+        "index": 309,
+        "text": "take this, just in case.",
+        "task2": "Just 在箱子里译为Just in case",
+        "task3": "图中Just 在箱子里与Just in case相关联",
+        "task4": "箱子里仅有一张写着JUST的纸条，拿着轻而易举",
+        "tag": "graphic"
+    },
+    {
+        "index": 310,
+        "text": "Everything is under control.",
+        "task2": "写着Everything的纸条在CTRL键下面",
+        "task3": "图中写着Everything的纸条在CTRL键下面，与Everything in control.相关联",
+        "task4": "电脑键盘中control键是一个快捷键，可以和其他键搭配来完成快捷操作；用于幽默的表示一切事情都在控制之中",
+        "tag": "graphic"
+    },
+    {
+        "index": 311,
+        "text": "-How do you think we keep the cars here so shiny?",
+        "task2": "Polish大写语言，小写抛光剂",
+        "task3": "图中销售译为顾客是波兰人，与Polish相关联，其大写指波兰语语言，小写抛光剂",
+        "task4": "汽车销售面对顾客的要求一般会尽量满足",
+        "tag": "graphic"
+    },
+    {
+        "index": 312,
+        "text": "EVERYONE WILL BE COVERED.",
+        "task2": "cover既有覆盖，也有照顾的意思",
+        "task3": "病人在医院里被用床单盖上，与cover相关联，其既有覆盖，也有照顾的意思",
+        "task4": "特朗普就任期间的社会福利政策会覆盖到每一个人身上",
+        "tag": "graphic"
+    },
+    {
+        "index": 313,
+        "text": "How much money do you have in your wallet right now? Me:",
+        "task2": "nun与none谐音",
+        "task3": "图中询问How much money do you have in your wallet right now?钱包里有一张修女的图片，其nun与none相关联",
+        "task4": "修女代表对婚姻的贞洁、干净；用于调侃一个人没钱",
+        "tag": "phonic"
+    },
+    {
+        "index": 314,
+        "text": "Amin Abed",
+        "task2": "Abed是人名，也指在床上",
+        "task3": "图中一个叫Amid Abed的人躺在床上，与Abed相关联，其是人名，也指在床上",
+        "task4": "一个人躺在床上其形态与名字相近",
+        "tag": "graphic"
+    },
+    {
+        "index": 315,
+        "text": "Incredible customer service. Don't touch yourself. Ask the staff. Thank you.",
+        "task2": "Don't touch yourself. 既可译为不要碰你自己，也可译为不要自己碰",
+        "task3": "图中一台机器的标签上写道Don't touch yourself. 有双层意思，既可译为不要碰你自己，也可译为不要自己碰",
+        "task4": "一台机器上会写维修指南；调侃这个维修指南比较奇葩",
+        "tag": "graphic"
+    },
+    {
+        "index": 316,
+        "text": "-A rare photo of a crocodile calling for help. -GATOR OFF OF ME!!!!!",
+        "task2": "GATOR 与get out 谐音",
+        "task3": "图中一个人骑在鳄鱼身上，GATOR 与get out相关联",
+        "task4": "鳄鱼无法承受一个肥胖的人的重量，会产生痛苦的叫喊和表情",
+        "tag": "phonic"
+    },
+    {
+        "index": 317,
+        "text": "DID YOU KNOW? Sirius, the dog star, is moving closer to Earth at a rate of nine miles per second. This means someday, we could be in Sirius trouble.",
+        "task2": "Sirius 与serious谐音",
+        "task3": "We could be in Sirius trouble.中Sirius 与serious相关联",
+        "task4": "Sirius是指小天狼星，是夜空中最亮的恒星之一，正在向地球袭来；用于指问题严重",
+        "tag": "phonic"
+    },
+    {
+        "index": 318,
+        "text": "AUTOPSY CLUB MEETING SATURDAY OPEN MIKE NIGHT.",
+        "task2": "AUTOPSY是尸体解剖，与OPEN MIKE(开放麦克风）形成反差",
+        "task3": "尸体解剖与开放麦克风的一夜",
+        "task4": "一块告示牌将验尸和开放麦放在一起，具有反差感",
+        "tag": "graphic"
+    },
+    {
+        "index": 319,
+        "text": "spiders are the only web developers in the world that enjoy finding bugs.",
+        "task2": "web developers指网络开发者，bugs既指程序中的错误，也指虫子",
+        "task3": "图中对spider的解释暗含网络开发者的意思，与 web developers相关联，其指网络开发者，bugs既指程序中的错误，也指虫子",
+        "task4": "蜘蛛和网络工程师性质相似，都是在维修bug",
+        "tag": "graphic"
+    },
+    {
+        "index": 320,
+        "text": "-I recently switched all of the labels on my wife's spice rack. -Has she realized what you've done? -Not yet but the thyme is cumin.",
+        "task2": "‘thyme is cumin’ 将‘thyme’（百里香）和‘time’（时间）、‘cumin’（孜然）和‘coming’（到来）的谐音结合，形成双关。",
+        "task3": "角色说他偷偷更换了妻子的香料架标签，当被问‘她发现了吗？’时，他回答‘Not yet, but the thyme is cumin’，表面意思是‘百里香和孜然’，实际双关为‘time is coming’（时间快到了），幽默地暗示妻子迟早会发现他的小动作。",
+        "task4": "梗利用英语中‘thyme’和‘time’、‘cumin’和‘coming’的谐音，结合了烹饪和语言双关幽默，适用于语言爱好者或喜欢轻松家庭幽默的场景，尤其在对烹饪术语熟悉的圈层中传播效果更佳。",
+        "tag": "phonic"
+    },
+    {
+        "index": 321,
+        "text": "Chefs, what do you make when you're drunk? About $12.50 an hour.",
+        "task2": "make 既指制作，烹饪，也指挣钱",
+        "task3": "图中问Chefs, what do you make when you're drunk?回答的是时薪，与make 相关联，其既指制作，烹饪，也指挣钱",
+        "task4": "答非所问，存在误解",
+        "tag": "graphic"
+    },
+    {
+        "index": 322,
+        "text": "I poured root beer into a squared glass. Now I just have beer.",
+        "task2": "squared 有方形的意思，也有广场的意思",
+        "task3": "图中一个方形的杯子里装了啤酒，与squared相关联，有方形的意思，也有广场的意思",
+        "task4": "啤酒杯倒在方形的杯子中；用于作为冷笑话",
+        "tag": "graphic"
+    },
+    {
+        "index": 323,
+        "text": "The animals are offensive.",
+        "task2": "offensive既可以表示冒犯的，也可以理解为令人不快的，讨厌的",
+        "task3": "提示牌中写道动物伤人，与offensive相关联，既可以表示冒犯的，也可以理解为令人不快的，讨厌的",
+        "task4": "动物园通常会摆放告示牌提示动物会伤人；用于趣味提醒",
+        "tag": "graphic"
+    },
+    {
+        "index": 324,
+        "text": "I KNOW ITS CHEESY. BUT I FEEL GRATE.",
+        "task2": "grate与 great 谐音",
+        "task3": "图中是一个擦丝器，上面的孔像是虚伪的笑脸，与grate相关联，其与 great 谐音",
+        "task4": "插丝器孔的形状组成一个虚伪的笑脸；用于委婉的表示自己的不满",
+        "tag": "phonic"
+    },
+    {
+        "index": 325,
+        "text": "-I ONCE PULLED A MUSCLE AS I WAS DIGGING FOR GOLD. -MUST HAVE BEEN JUST A MINER INJURY.",
+        "task2": "miner与minor谐音",
+        "task3": "图中提到是因为gold拉伤，对话中与miner injury相关联，其与minor谐音",
+        "task4": "当一个人说他受伤了人们会象征性的关心一下；用于调侃受伤的伤口之小或受伤之轻",
+        "tag": "phonic"
+    },
+    {
+        "index": 326,
+        "text": "SUBLIME",
+        "task2": "SUBLIME与submarine lemon谐音",
+        "task3": "图中是一个柠檬做的潜艇与submarine lemon相关联",
+        "task4": "柠檬样式的潜水艇；用于",
+        "tag": "phonic"
+    },
+    {
+        "index": 327,
+        "text": "-SMOKING BARE FEET PETS PROHIBITED IN BUILDING. -I ALWAYS put socks on my pets before I smoke them.",
+        "task2": "禁止吸烟，禁止光脚，禁止宠物；禁止光脚宠物吸烟",
+        "task3": "图中提示牌禁止吸烟，禁止光脚，禁止宠物被错解为禁止光脚宠物吸烟",
+        "task4": "一个区域内往往有很多规矩和约束写在告示牌上；用于调侃理解能力差的人",
+        "tag": "graphic"
+    },
+    {
+        "index": 328,
+        "text": "MOMMA, JUST GIRLLED A HAM.",
+        "task2": "‘Just grilled a ham’（刚烤了一块火腿）谐音模仿《波西米亚狂想曲》歌词‘Mama, just killed a man’（妈妈，我刚杀了一个人）。",
+        "task3": "图片是一个人在烤火腿，他的脸被P成了皇后乐队主唱Freddie Mercury的样子。标题写着‘Momma... Just grilled a ham’，通过谐音模仿《波西米亚狂想曲》的歌词‘Mama, just killed a man’，将一首严肃的经典歌曲幽默化，与烤火腿的画面形成反差。",
+        "task4": "梗的文化背景是皇后乐队的经典歌曲《波西米亚狂想曲》，尤其是其标志性的开头歌词。通过将‘killed a man’改为‘grilled a ham’，将严肃转为日常幽默，适合音乐迷或熟悉经典摇滚文化的圈层，用于轻松娱乐分享。",
+        "tag": "phonic"
+    },
+    {
+        "index": 329,
+        "text": "I once tried greeting everyone. I met by saying \"titanic\"...... It turns out that it wasn't a very good ice breaker.",
+        "task2": "titanic 是指泰坦尼克号，撞了冰山",
+        "task3": "ice breaker 与titanic 相关联，其是指泰坦尼克号，撞了冰山",
+        "task4": "泰坦尼克号是一艘巨大的邮轮，因为撞到了冰山而造成了悲剧；用来调侃两人之间关系并不亲密",
+        "tag": "graphic"
+    },
+    {
+        "index": 330,
+        "text": "-Dad, are you gay? -No, I'm bi son.",
+        "task2": "‘bi son’（双性恋儿子）和‘bison’（野牛）的发音相同，形成双关。",
+        "task3": "图中小野牛问父亲‘Dad, are you gay?’（爸，你是同性恋吗？），父亲回答‘No, I’m bi son’（不，我是野牛）。‘bi son’既可以解读为‘我是双性恋的, 儿子’，也通过谐音指代‘bison’，即野牛的种类，结合动物形象制造幽默。",
+        "task4": "梗的文化背景利用了英语中‘bi’（双性恋）和‘bison’（野牛）的谐音双关，同时戏谑地结合性别身份讨论和动物科普，适用于幽默分享或语言双关的轻松场景。",
+        "tag": "phonic"
+    },
+    {
+        "index": 331,
+        "text": "THE WORD \"INCORRECTLY\" IS SPELLED INCORRECTLY IN EVERY DICTIONARY.",
+        "task2": "incorrectly 就是不正确地",
+        "task3": "在字典中incorrectly的本意就是不正确地",
+        "task4": "字典中的单词的含义是固定的",
+        "tag": "graphic"
+    },
+    {
+        "index": 332,
+        "text": "SELF CHECK-OUT",
+        "task2": "self check-out译为结账，也可译为照镜子，检查自己的外貌",
+        "task3": "图中顾客都在拿着镜子在自助结账处照镜子，与self check-out相关联，既译为结账，也可译为照镜子，检查自己的外貌",
+        "task4": "超市场景中一般会设置自助结账区方面顾客结账",
+        "tag": "graphic"
+    },
+    {
+        "index": 333,
+        "text": "You seem like you're the type of person who likes feet.",
+        "task2": "feet既指脚，也指英尺",
+        "task3": "你像是喜欢脚/英尺单位的一类人",
+        "task4": "英式英语和美式英语中对长度单词的使用是不同的，分别对应是feets和meters",
+        "tag": "graphic"
+    },
+    {
+        "index": 334,
+        "text": "-Olympain apologises to wife after losing wedding ring in River Seine. -That's in seine.",
+        "task2": "seine与seen谐音",
+        "task3": "图中一个奥运冠军将婚戒弄丢在了塞纳河中，有人回复看到了，与seine相关联，其与seen谐音",
+        "task4": "Seine是法国一条河的名称，叫塞纳河",
+        "tag": "phonic"
+    },
+    {
+        "index": 335,
+        "text": "-Since everyone else is doing it, how do i look? -With your eyes.",
+        "task2": "how do i look?既指我长得怎么样？也可译为我怎么看？",
+        "task3": "图中how do i look?有人回复说With your eyes.既指我长得怎么样？也可译为我怎么看？",
+        "task4": "一个自恋的人对镜自拍想展示自己的帅气；用于吐槽有自恋情结的人",
+        "tag": "graphic"
+    },
+    {
+        "index": 336,
+        "text": "Dad: I couldn't ask for a better son. Son: Thanks dad. Dad: I really tried but people kept telling me I couldn't do that.",
+        "task2": "I couldn't ask for a better son.可以理解为父亲在夸儿子，也可以理解为他想再要一个更好的儿子",
+        "task3": "在这对父子交谈的过程中，I couldn't ask for a better son.可以理解为父亲在夸儿子，也可以理解为他想再要一个更好的儿子",
+        "task4": "一对父子愉快的交谈；用于调侃父子间的谈话存在误解",
+        "tag": "graphic"
+    },
+    {
+        "index": 337,
+        "text": "Time travel: *Moves a chair* The timeline: Gates",
+        "task2": "Gates有“人名盖茨”和“大门”的意思",
+        "task3": "图为比尔盖茨、微软的Windows计算机、一扇大门；time travel是通过时光机（a chair）来实现的；“Microsoft Gates xp” 和 “Bill Windows” 这样错误的组合，展现了时光旅行带来的混乱感；正确搭配是Microsoft Windows XP（视窗操作系统）和Bill Gates",
+        "task4": "Bill Gates是美国著名企业家、软件工程师、慈善家，微软公司联合创始人，曾长期位居全球富豪榜前列，后专注于慈善事业；可能用于调侃“Gates”的拼写",
+        "tag": "graphic"
+    },
+    {
+        "index": 338,
+        "text": "Everything is relative.– Albert Einstein Everyone’s a relative. – Charles Darwin",
+        "task2": "relative有“相当的”和“亲戚”两个意思",
+        "task3": "图为爱因斯坦和达尔文；爱因斯坦以其著名的相对论而闻名，达尔文则以提出进化论著称。用“relative”这一单词的不同意思表示两人的名言，“Everything is relative.” 体现了爱因斯坦的相对论思想；“Everyone's a relative.” 则以一种幽默的方式调侃了生物之间的关系。",
+        "task4": "爱因斯坦以相对论著称，达尔文以进化论著称；可能用于调侃“relative”的广泛性",
+        "tag": "graphic"
+    },
+    {
+        "index": 339,
+        "text": "Will I be OK Doc-I doubt it, Mercury is in Uranus right now. -I don’t do that Astrology stuff. -Me neither, my thermometer just broke.",
+        "task2": "Mercury有“水星”和“水银”两个意思；“Uranus”谐音“ur anus”",
+        "task3": "图为医生为病人检查身体；“水银在你的肛门里”与“温度计破了”有关，“水星在天王星里”与“Astrology stuff”有关",
+        "task4": "Mercury和Uranus都属于“Astrology”的范畴，与治病关系不大；可能用于调侃某些技术差的医生",
+        "tag": "phonic"
+    },
+    {
+        "index": 340,
+        "text": "A new customer: *walks in* My coworker at the sperm bank: Please don’t say it... Me: Get a load of this guy.",
+        "task2": "“Get a load of this guy”谐音“Get a loan of this guy”",
+        "task3": "在精子银行这个特定的场景中，“Me: Get a load of this guy.” 原本只是一种对新顾客的调侃或惊讶的表达，但由于其谐音 “Get a loan of this guy”，让顾客误以为银行想让自己贷款",
+        "task4": "在银行里说“给这个人贷款”不礼貌；可能用于调侃从字面上理解短语“Get a load of this guy”的现象",
+        "tag": "phonic"
+    },
+    {
+        "index": 341,
+        "text": "Please have ticket or ass ready.",
+        "task2": "如果没有门票将会被惩罚",
+        "task3": "图为提示牌子；keep ticket ready很常见，但keep ass ready不常见，这样的用法新奇，同时有幽默感",
+        "task4": "以幽默的方式说明“没有票不可以进入”；可能用于调侃“跳票”现象",
+        "tag": "graphic"
+    },
+    {
+        "index": 342,
+        "text": "What TV show had a perfect pilot? I’ll start: Lost. A perfect pilot would land the plane.",
+        "task2": "pilot有“飞行员”和“（电视）试播节目”两个意思",
+        "task3": "图片是电影《LOST》的画面；电影画面与“试播节目”这个意思相关，“plane”和“飞行员”这个意思相关",
+        "task4": "《Lost》（《迷失》）是一部美剧，它讲述了一架客机坠毁在神秘热带小岛上后，幸存者们在岛上求生且不断遭遇各种离奇事件、神秘生物和复杂人性考验的故事；可能用于“pilot”的一词多义",
+        "tag": "graphic"
+    },
+    {
+        "index": 343,
+        "text": "-Sorry sir, we have no rooms available. -But, my name is Improvement... -So what? -There is always room for improvement.",
+        "task2": "room有“房间”和“空间”两个意思；improvement有“提升”和“人名”两个意思",
+        "task3": "图为酒店接待处，一位先生要订房间；“There is always room for improvement.”有“总有房间给Improvement”和“总有提升空间”两个意思",
+        "task4": "“There is always room for improvement”是人们常说的一句话；可能用于“room”的一词多义",
+        "tag": "graphic"
+    },
+    {
+        "index": 344,
+        "text": "This is just plane silly: Hehe Hahaha Hahahaha Hahahahaha",
+        "task2": "plane谐音plain",
+        "task3": "图为四个不同开口程度的飞机，分别对应hehe、hahaha、hahahaha、hahahahaha；This is just plain silly，这简直太傻了与plane的傻笑形象有联系",
+        "task4": "飞机机头的打开程度酷似笑脸；可能用于形象化表示不同程度的“笑”",
+        "tag": "phonic"
+    },
+    {
+        "index": 345,
+        "text": "Is it really August? Or did July to me",
+        "task2": "to谐音“tomb”",
+        "task3": "“Did July to me”表示“七月对我做了什么吗”；“Did July tomb me”表示“七月埋葬了我吗”",
+        "task4": "七月结束后就是八月；可能用于调侃时间过得飞快",
+        "tag": "phonic"
+    },
+    {
+        "index": 346,
+        "text": "Whoever came up with the word “dentures” really missed the opportunity to call them “substitooths”?",
+        "task2": "substitooths谐音substitutes",
+        "task3": "图为一副假牙；substitooths在这里是“替换的牙”，和“dentures”同义，它借助了“substitutes”的意思",
+        "task4": "假牙解释一下就是用来替换的牙齿；可能用于调侃“构词法”",
+        "tag": "phonic"
+    },
+    {
+        "index": 347,
+        "text": "Normal cone,Sili-cone",
+        "task2": "silicone本义指硅树脂，这里“sili-cone”谐音“silly-cone”",
+        "task3": "图为一个红色锥形路标和一个带着小丑帽子的绿色锥形路标；小丑帽子与“silly”有联系，“silicone”是“cone”的材质",
+        "task4": "带着小丑帽子的绿色锥形路标模仿了小丑的形象；可能用于调侃“silicone”的发音和拼写",
+        "tag": "phonic"
+    },
+    {
+        "index": 348,
+        "text": "Is an argument between two vegans still called “a Beef”?",
+        "task2": "beef有“牛肉”和“争吵，抱怨”两个意思",
+        "task3": "图片上的文字调侃了纯素食者与 “牛肉beef” 这个词之间的反差。通常，beef表示 “牛肉”，而在日常用语中也可以表示人与人之间的 “争吵”。当提到纯素食者时，他们是不会与 “牛肉” 有任何关联的，但这里巧妙地利用 “beef” 的双关含义将二者联系起来。",
+        "task4": "素食主义者不会吃肉类；可能用于调侃素食主义者之间的争论",
+        "tag": "graphic"
+    },
+    {
+        "index": 349,
+        "text": "Blasfemurs: There is no god. I agree.",
+        "task2": "blasfemurs谐音blasphemer",
+        "task3": "图为两根大腿骨；两根“femurs”都认为没有“God”，与亵渎神明有联系",
+        "task4": "骨头是不会说话；",
+        "tag": "phonic"
+    },
+    {
+        "index": 350,
+        "text": "Trying to stay active. I decided to take up fencing. But my neighbor told me to put it back.",
+        "task2": "fence有“篱笆，栅栏”和“击剑”两个意思；take up有“从事”和“拿起”两个意思",
+        "task3": "stay active和“击剑”有关，而put it back和“拿起篱笆”有关",
+        "task4": "take up fencing在这样是一个抽象的意思；可能用于泼冷水或者讲冷笑话",
+        "tag": "graphic"
+    },
+    {
+        "index": 351,
+        "text": "This caused a leek in the boat. “ICEBERG, ICEBERG!” I’m so done. Lettuce have a moment of silence.",
+        "task2": "leek谐音leak；lettuce谐音let us",
+        "task3": "图为用插着韭菜的黄瓜船撞上了生菜；“let us have a moment of silence”是“让我们默哀片刻”，与“leak”有关；“lettuce have a moment of silence”是“生菜沉默了”，与“leek”有关",
+        "task4": "将蔬菜与真实的船联系起来；可能用于调侃单词的一词多义现象",
+        "tag": "phonic"
+    },
+    {
+        "index": 352,
+        "text": "I’d like to order a room for two knights please.",
+        "task2": "room谐音“Rome”",
+        "task3": "图为两名其实在酒店的房间；“Rome”与“knights”有关，“room”与酒店这一场景有关",
+        "task4": "罗马骑士出现在现代酒店里是很奇怪的；可能用于调侃某些奇葩的事",
+        "tag": "phonic"
+    },
+    {
+        "index": 353,
+        "text": "My wife called to tell me she saw a fox on the way to work. I asked her how she knew it was on it’ s way to work. She hung up on me.",
+        "task2": "on the way to work有“on my wife’s way to work”和“on the fox’s way to work”两种解释；“on it’s way to work”谐音“on its way to work”",
+        "task3": "图为一只狐狸；“on it’s way to”中it指的是狐狸，而wife说的是在自己去上班的路上",
+        "task4": "狐狸不用上班；可能用于讲冷笑话或者调侃偷换主语的现象",
+        "tag": "phonic"
+    },
+    {
+        "index": 354,
+        "text": "A clown held the door for me. Such a nice jester.",
+        "task2": "小丑可以翻译为“clown”和“jester”",
+        "task3": "图为小丑开门；前后用了“clown”和“jester”两种不同的方法形容小丑",
+        "task4": "jester和clown是同义词；可能用于通过前后不一致的表达创造幽默感",
+        "tag": "graphic"
+    },
+    {
+        "index": 355,
+        "text": "BREAKING NEWS: A man was admitted to the hospital today with 25 plastic toy horses inserted in his rectum. Doctors have described his condition as stable.",
+        "task2": "stable有“马厩”和“稳定的”两个意思",
+        "task3": "“马厩”与“25 plastic toy horses” 有关；“稳定的”与医生描述病人病情有关",
+        "task4": "stable的不同词性代表不同意思；可能用于调侃某些奇葩的医疗事件",
+        "tag": "graphic"
+    },
+    {
+        "index": 356,
+        "text": "-What are your dogs’ names? -Calvin and Klein. -But isn’t that a brand of underwear? -Exactly, they’re boxers.",
+        "task2": "boxer有“拳师犬”和“四角裤”两个意思",
+        "task3": "图为两只拳师犬；“dogs”和“拳师犬”这一意思对应，“underwear”和“四角裤”这一意思对应",
+        "task4": "Calvin Klein是美国时尚品牌，主营高级成衣、牛仔时装、内衣等；可能用于“boxer”的一词多义现象",
+        "tag": "graphic"
+    },
+    {
+        "index": 357,
+        "text": "MAN TO DIVORCE HIS WIFE After she smeared glue on his firearms. He told Daily Dafty reporters: “She denied it, but I’m sticking to my guns.”",
+        "task2": "stick to my guns字面意思是 “我被我的枪黏住了”，在这里是 “坚持我的立场”",
+        "task3": "图为一个男人抱着一杆枪；“glue”和“黏住了”这一意思对应，而“我坚持我的立场”这一意思回应了“妻子denied”",
+        "task4": "“stick to my guns”两种就是方式都说得通；可能用于调侃一词多义现象",
+        "tag": "graphic"
+    },
+    {
+        "index": 358,
+        "text": "All bark, no bite. Beware of log.",
+        "task2": "bark有“犬吠”和“树皮”两个意思",
+        "task3": "图为用链子栓住的原木；拿log伪装成看门狗，只有树皮，不会咬人",
+        "task4": "用木头当狗很奇葩；可能用于调侃用木头做的看门狗无意义",
+        "tag": "graphic"
+    },
+    {
+        "index": 359,
+        "text": "My friend David got his ID stolen last night. Now I just call him Dav.",
+        "task2": "David有“人名”和“Dav+id(ID)”两种解释",
+        "task3": "ID既可以表示身份证，又可以表示David名字中的“id”两个字母",
+        "task4": "ID是身份证（Identity Document）的缩写，用于证明个人身份；可能用于调侃“David”的拼写",
+        "tag": "graphic"
+    },
+    {
+        "index": 360,
+        "text": "-How is your food sir? -My fish is very dry. -Yes, we had to take him out of the water.",
+        "task2": "dry有“身上干干的，不湿”和“食物干巴，口味不佳”两个意思",
+        "task3": "图为餐厅里，服务员问顾客食物怎么样；“食物很干”是说鱼口味不佳，而“不是湿的”则与“take the fish out of water”对应",
+        "task4": "在餐厅一般讨论食物的口感；可能用于对“dry”的不同理解",
+        "tag": "graphic"
+    },
+    {
+        "index": 361,
+        "text": "-What is your favourite month? -July. -Why July? -I didn’t lie.",
+        "task2": "“Why July?”谐音“Why do you lie?”",
+        "task3": "图为讨论最喜欢的月份；一方把July误听为Why do you lie?",
+        "task4": "答非所问；可能用于调侃生活中的听错现象",
+        "tag": "phonic"
+    },
+    {
+        "index": 362,
+        "text": "-Oh No! Our neighbour died! -Who, Ray? -I don’t think cheering is appropriate, Karen.",
+        "task2": "“Who, Ray”谐音“hooray”",
+        "task3": "图为夫妻发现邻居去世了；丈夫误以为妻子在喊万岁",
+        "task4": "“Hooray”表示欢呼、喝彩时喊出的“万岁；可能用于调侃生活中的听错现象",
+        "tag": "phonic"
+    },
+    {
+        "index": 363,
+        "text": "skills",
+        "task2": "skills有“技能”和“s+kill+s”两种解释",
+        "task3": "图为一个男孩拿枪指着另一个男孩；其中，两个男孩都是“s”，而枪代表“kill”",
+        "task4": "自己杀自己的场面很荒诞；可能用于调侃机械地运用“构词法”的现象",
+        "tag": "graphic"
+    },
+    {
+        "index": 364,
+        "text": "Stu(dying) Stu(died)",
+        "task2": "studying有“学习”和“stu+dying”两种解释；studied有“学习”和“stu+died”两种解释",
+        "task3": "图为疲惫的学习者；dying和died都能表示了学习本身就是一件让人窒息的事情",
+        "task4": "正向的词里面隐含着负能量的词，形成反差；可能用于调侃学生学习时很痛苦",
+        "tag": "phonic"
+    },
+    {
+        "index": 365,
+        "text": "-Would you like a bite of my sandwich? -No thanks, I’m stuffed.",
+        "task2": "stuffed有“吃饱了”和“倍填充满了的”两种解释",
+        "task3": "图为小女孩问玩具熊要不要吃三明治；stuffed即表示小熊吃饱了，又表示小熊是被棉花填充满了的",
+        "task4": "玩具熊不会说话，也没法吃东西；可能用于调侃“stuffed”的一词多义",
+        "tag": "graphic"
+    },
+    {
+        "index": 366,
+        "text": "fork threek twok onek zerok",
+        "task2": "fork谐音“four k”",
+        "task3": "图为四齿叉子、三齿叉、二齿叉、小刀和勺子；“齿”数分别对应不同的数字",
+        "task4": "不同的叉子有数量不同的齿；可能用于调侃机械地运用“构词法”的现象",
+        "tag": "phonic"
+    },
+    {
+        "index": 367,
+        "text": "-What’s upstairs? -Unfortunately, the stairs don’t talk.",
+        "task2": "What’s upstairs? 谐音 What’s up, stairs?",
+        "task3": "图为楼梯；男士说“stairs 不会说话”，他误认为女士在问候楼梯",
+        "task4": "楼梯确实不会讲话；可能用于调侃生活中的听错现象",
+        "tag": "phonic"
+    },
+    {
+        "index": 368,
+        "text": "Father 与Farther: Who is closer to you, your mom or your dad? Mom is close because dad is farther.",
+        "task2": "father与farther谐音",
+        "task3": "图为一家三口；father是farther的，所以妈妈更亲近",
+        "task4": "利用同义词（dad和father）和同音词（farther和father）证明“爸爸更远”；可能用于调侃“father”与“father”的读音相似",
+        "tag": "phonic"
+    },
+    {
+        "index": 369,
+        "text": "Let It Go: Why shouldn’t we give Elsa a balloon? Because she will Let It Go.",
+        "task2": "let it go有“歌名”和“放手”两个意思",
+        "task3": "图为一撮气球；Elsa唱的《Let It Go》",
+        "task4": "《Let It Go》是电影《Frozen》的主题曲；可能用于调侃“let it go”的一词多义",
+        "tag": "graphic"
+    },
+    {
+        "index": 370,
+        "text": "Calculator: How do we count cows? With a Cowculator (calculator).",
+        "task2": "calculator谐音“cowculator”",
+        "task3": "cow+culator，数牛器，借用单词“calculator”的意思",
+        "task4": "机械地使用构词法；可能用来调侃“calculator”的读音",
+        "tag": "phonic"
+    },
+    {
+        "index": 371,
+        "text": "Y 与why: -I only know 25 letters of the alphabet. -Why? -I don’t know Y(why).",
+        "task2": "Y和why谐音",
+        "task3": "图为一个问号；I don’t know Y(why)我不认识Y/我不知道为什么",
+        "task4": "“I don’t know Y”与“I don’t know why” 都解释的通；可能用于讲冷笑话",
+        "tag": "phonic"
+    },
+    {
+        "index": 372,
+        "text": "THATS EMUSING",
+        "task2": "emu-sing与amusing谐音",
+        "task3": "图中是一只笑着的鸸鹋（emu），与emu和amusing相关联",
+        "task4": "鸸鹋是澳洲常见鸟类，可能用于表达某事好笑",
+        "tag": "phonic"
+    },
+    {
+        "index": 373,
+        "text": " -What do you call a bee from America? -A USB (US bee). -How do we count cows? -With a Cowculator (calculator).",
+        "task2": "USB谐音US bee",
+        "task3": "美国是US，蜜蜂是bee",
+        "task4": "USB是“Universal Serial Bus”（通用串行总线）的缩写，它是一种外部总线标准，用于连接计算机和外部设备；可能用于讲冷笑话",
+        "tag": "phonic"
+    },
+    {
+        "index": 374,
+        "text": "-What do you call a deer with no eye? -No eye deer (No idea). -What did a late tomato say to other tomatoes? -I will ketchup (catch up).",
+        "task2": "ketchup谐音catch up",
+        "task3": "I will ketchup.我能赶上（番茄酱）",
+        "task4": "番茄酱（ketchup）是名词，而catch up是动词短语，但两者都与问题有关；可能用于讲冷笑话",
+        "tag": "phonic"
+    },
+    {
+        "index": 375,
+        "text": "-What is your biggest weakness? -I don’t know when to quit. -That’s great. You’re hired! -I quit.",
+        "task2": "quit有“放弃”和“辞职”两个意思",
+        "task3": "图为面试场景；“不知放弃”与“weakness”对应，“辞职”与“工作，雇佣”对应",
+        "task4": "男人刚被任用就辞职，他显然知道“什么时候放弃”；可能用于戏弄某人",
+        "tag": "graphic"
+    },
+    {
+        "index": 376,
+        "text": "lose control",
+        "task2": "control有“控制”和“control健”两个意思",
+        "task3": "图为键盘上的control健掉落了；lose control有“失控”和“失去control健”两个意思",
+        "task4": "抽象的意义与具体的画面碰撞；可能用于含蓄地表达自己情绪崩溃",
+        "tag": "graphic"
+    },
+    {
+        "index": 377,
+        "text": "PYRAMID PYRARIGHT PYRALEFT",
+        "task2": "pyramid有“金字塔”和“pyra+mid”两个意思",
+        "task3": "图为中、左、右三个不同位置的金字塔；pyrag+right对应“右”，pyra+left对应“左”",
+        "task4": "金字塔的英文单词是“pyramid”；可能用于调侃“pyramid”的拼写",
+        "tag": "phonic"
+    },
+    {
+        "index": 378,
+        "text": "LEGO O",
+        "task2": "Lego有“乐高”和“leg+o”两个意思",
+        "task3": "图为一个完整的乐高和一个没有腿的乐高；没有“leg”的乐高就只剩下“o”了",
+        "task4": "Lego（乐高）是丹麦著名玩具品牌，以色彩丰富的塑料积木为核心产品，积木可以通过各种拼接方式组合，深受全球儿童及成人积木爱好者的喜爱；可能用于调侃“LEGO”的拼写",
+        "tag": "graphic"
+    },
+    {
+        "index": 379,
+        "text": "世界卫生组织关心您WHO Cares",
+        "task2": "WHO有“世界卫生组织”和“who”两个意思",
+        "task3": "图为世界卫生组织的标语和标志；who cares可以理解为“世界卫生组织关心您”或者“谁管呢”",
+        "task4": "“who cares”与“WHO Cares”在态度上完全相反；可能用于调侃世界卫生组织标语的不合理性",
+        "tag": "graphic"
+    },
+    {
+        "index": 380,
+        "text": "Cup Cdown",
+        "task2": "cup有“杯子”和“c+up”两种理解",
+        "task3": "图为一个口朝上的杯子和一个口朝下的杯子；c+down对应c+up",
+        "task4": "杯子的正确英文单词是“cup”；可能用于调侃“cup”的拼写",
+        "tag": "graphic"
+    },
+    {
+        "index": 381,
+        "text": "-I need a doctor’s appointment. -Ok, how about 10 tommorow? -No, I don’t need that many.",
+        "task2": "10有“10点”和“10个”两种理解",
+        "task3": "图为病人预约医生；病人误以为工作人员要帮他约“10个”医生",
+        "task4": "一般预约一个医生就够了；可能用于调侃对话中的省略现象造成的误会",
+        "tag": "graphic"
+    },
+    {
+        "index": 382,
+        "text": "-Do you want jewelry for valentines? -Nothing would please me more.",
+        "task2": "nothing有“否定意义”和“空无一物”两个意思",
+        "task3": "图为男友送了女朋友一个空盒子；这里男友把“nothing”理解为“空无一物”",
+        "task4": "男友把抽象的“nothing”具象化了；可能用于调侃男友的直男思维",
+        "tag": "graphic"
+    },
+    {
+        "index": 383,
+        "text": "-Waiter, will my pizza be long? -No sir, it will be round.",
+        "task2": "long有“时间久”和“形状长”两个意思",
+        "task3": "图为顾客问服务员披萨多久能上；服务员误以为顾客在问披萨的形状",
+        "task4": "pizza一般都是圆的；可能用于调侃“be long”的一词多义",
+        "tag": "graphic"
+    },
+    {
+        "index": 384,
+        "text": "-We need air support! -You’re doing great...",
+        "task2": "air support有“字面意思：空中的应援”和“战场上的空中支援”两个意思",
+        "task3": "图为战场上，飞机拉横幅为展示应援；横幅标语是字面意义上的“air support”",
+        "task4": "在空中拉横幅的支持方式与士兵的期待不符；可能用于调侃表面化理解的现象",
+        "tag": "graphic"
+    },
+    {
+        "index": 385,
+        "text": "-You have high blood pressure and short term memory loss! -Well, at least I don’t have high blood pressure.",
+        "task2": "病人有健忘症，他马上就忘记了自己有高血压这件事",
+        "task3": "图为医生向病人陈述病情；病人记忆能力下降，马上就忘了自己血压高这件事",
+        "task4": "医生前脚刚说的话老人后脚就忘了，与“健忘症”呼应上了；可能用于以幽默的方式说明“健忘症”的危害",
+        "tag": "graphic"
+    },
+    {
+        "index": 386,
+        "text": "-Can you perform Under Pressure? -No, but I can try Bohemian Rhapsody.",
+        "task2": "Under Pressure有“在压力下”和“《压力之下》”两个意思",
+        "task3": "图为面试官问面试者能不能在压力状态下表演；面试者认为是“演奏《压力之下》这个曲目”",
+        "task4": "“Under Pressure”和“Bohemian Rhapsody”都是非常著名的歌曲；可能用于调侃“perform”的一词多义",
+        "tag": "graphic"
+    },
+    {
+        "index": 387,
+        "text": "-I’m going to deliver the baby. -Actually, we’d like him to keep his liver.",
+        "task2": "deliver有“接生”和“de+liver”两种解释",
+        "task3": "图为医生准备接生小孩；这里男人把“deliver”理解为“de+liver”，即去除肝脏",
+        "task4": "de-这个前缀通常表示“去除”；可能用于调侃机械地使用“构词法”",
+        "tag": "graphic"
+    },
+    {
+        "index": 388,
+        "text": "island/wasland",
+        "task2": "island有“岛屿”和“is land”两种解释",
+        "task3": "图为一个岛屿和一片海洋；海洋曾经是岛屿，was是is的过去式",
+        "task4": "was是is的过去式，代表这片海域之前有一个孤岛；可能用于幽默地解读“island”",
+        "tag": "graphic"
+    },
+    {
+        "index": 389,
+        "text": "Cross Cross’nt",
+        "task2": "cross’nt谐音“croissant”",
+        "task3": "图为一个交叉形状的面包和一个可颂；可颂是不交叉的，对应cross的否定形式cross’nt",
+        "task4": "英语中，否定式一般加“’nt”；可能用于调侃机械的使用“否定式”",
+        "tag": "phonic"
+    },
+    {
+        "index": 390,
+        "text": "Handsome ome",
+        "task2": "handsome有“帅气的”和“hands+ome”两个含义",
+        "task3": "图为一个英俊的无臂男人；一个handsome的人没有hand就成了“ome”",
+        "task4": "结构上，handsome一词中包含“hand”；可能用于调侃“handsome”的拼写",
+        "tag": "graphic"
+    },
+    {
+        "index": 391,
+        "text": "-I’m sorry sir, your dad was pronounced dead. -I can’t believe I’ve been pronouncing it wrong all this time.",
+        "task2": "pronounce有“宣布”和“发音”两个意思",
+        "task3": "图为医生告知家属病人的死讯；家属误以为一直以来，自己都把爸爸的名字读错了",
+        "task4": "医生一般是通知家属病人的病情；可能用于将“死讯”这一严肃的话题幽默化",
+        "tag": "graphic"
+    },
+    {
+        "index": 392,
+        "text": "-What is your New Year’s resolution? -Pretty low.",
+        "task2": "“What's your New Year's resolution?” 可以直译为 “你的新年决心是什么？”，也可以根据语境灵活地翻译成 “你的新年决心怎么样？”",
+        "task3": "图为讨论新年决心；本来新年的决心应该是做成什么事，这里“pretty low”直接说决心不坚定，体现了悲观情绪",
+        "task4": "男人直接说自己没什么决心，说明他可能没有“新年目标”；可能用于调侃自己的决心不足",
+        "tag": "graphic"
+    },
+    {
+        "index": 393,
+        "text": "-When is your birthday? -March 1st. -When is your birthday?",
+        "task2": "March有“三月”和“前进”两个意思；“March 1st”谐义“March first”",
+        "task3": "图为男士边走边问“When is your birthday?”；男士误以为女生让他march才能回答他",
+        "task4": "生日和走路没什么关系；可能用于调侃生活中的听错现象",
+        "tag": "graphic"
+    },
+    {
+        "index": 394,
+        "text": "-Sorry sir, your results aren’t great. -Can I see them? -I doubt it.",
+        "task2": "see有“看一看”和“看见”两种理解方式",
+        "task3": "图为医生为老人检查视力；老人想知道检查结果，而医生直接说老人可能看不见（文字）",
+        "task4": "视力不好的病人很可能看不清视力测试报告；可能用于调侃视力很差的人",
+        "tag": "graphic"
+    },
+    {
+        "index": 395,
+        "text": "-Do you want to hear today’s special sir? -Yes. -No problem. Today is special sir.",
+        "task2": "today’s special有“字面意思：今天很特别”和“今天的特色菜”两个意思",
+        "task3": "图为服务员问顾客想不想听听今天的特色菜；服务员最后仅重复了一遍“Today is special”",
+        "task4": "在餐厅，服务员一般要为顾客指出特色菜；可能用于戏弄某人",
+        "tag": "graphic"
+    },
+    {
+        "index": 396,
+        "text": "-So what kind of music are you in to? -I am a huge metal fan.",
+        "task2": "fan有“粉丝”和“风扇”两个意思",
+        "task3": "图为两个金属发电风扇；这里“a huge metal fan”也可以理解为“一个超级金属乐迷”",
+        "task4": "“金属乐粉丝”和“金属风扇”都说得通；可能用于“fan”的一词多义",
+        "tag": "graphic"
+    },
+    {
+        "index": 397,
+        "text": "What treat is never on time? Choco-late.",
+        "task2": "chocolate有“巧克力”和“choco+late组合”两种理解",
+        "task3": "图为一个奔跑的巧克力；chocolate与“treat”有关，而“late”与“never on time”有关",
+        "task4": "chocolate和late意思上没有关系；可能用于调侃“chocolate”的拼写",
+        "tag": "graphic"
+    },
+    {
+        "index": 398,
+        "text": "-Is this Gluten Free? -No, it costs money.",
+        "task2": "free在这有“免费的”和“不含……的”",
+        "task3": "图为顾客询问面包是不是无麸质；店员误以为顾客在问面包是不是免费的",
+        "task4": "来买面包的人通常不会问面包是不是免费的；可能用于调侃“free”的一词多义",
+        "tag": "graphic"
+    },
+    {
+        "index": 399,
+        "text": "-Any idea how my house burned down? -Fireworks. -Yeah, I guess it does.",
+        "task2": "fireworks与“fire works”谐义",
+        "task3": "图为房主让警察猜测自己的房子是怎么被烧毁的；房主误以为警察说“Fire works.”",
+        "task4": "警官实际上没有回答正确；可能用于调侃生活中的听错现象",
+        "tag": "graphic"
+    },
+    {
+        "index": 400,
+        "text": "-Coffee or tea? -Coffee. -Wrong. It’s tea.",
+        "task2": "“Coffee or tea?”有两种理解方式：判断或者选择",
+        "task3": "图为空姐为乘客送茶；通常情况下，空乘应该让顾客选择自己喜欢的饮品",
+        "task4": "空乘小姐一般会问乘客要哪一种饮料；可能用于戏弄某人",
+        "tag": "graphic"
+    },
+    {
+        "index": 401,
+        "text": "-Any doctor here? -I’m a doctor. What’s going on? -A heart attack. -I’m a doctor in mathematics. -He is going to die. -Prove it.",
+        "task2": "doctor有“医生”和“博士”两个意思",
+        "task3": "图为一女士呼叫医生救治病人；数学博士doctor要求女士prove病人病危",
+        "task4": "数学教授擅长公式证明，有严谨的数学逻辑；可能用于吐槽数学教授的死板和苛刻",
+        "tag": "graphic"
+    },
+    {
+        "index": 402,
+        "text": "-There’s only one thing about Halloween that scares me. -Which is? -Exactly",
+        "task2": "which与witch同音",
+        "task3": "图中有一个女巫装扮的小女孩；男人回答的是witch is?",
+        "task4": "有人会在万圣节装扮成女巫；可能用于回答“Which is?”这个问题",
+        "tag": "phonic"
+    },
+    {
+        "index": 403,
+        "text": "Hi in English. Hi in Mandarin.",
+        "task2": "Mandarin有“普通话”和“柑橘”两个意思",
+        "task3": "图为“hi”和由柑橘拼成的单词“Hi”；Mandarin和“柑橘”相对应，“普通话”也和English相对应",
+        "task4": "柑橘是一种水果，和语言无关；可能用调侃英语和中文的不同",
+        "tag": "graphic"
+    },
+    {
+        "index": 404,
+        "text": "-I need a date for new years eve! -December 31st",
+        "task2": "date有“日期”和“约会”两个意思",
+        "task3": "December 31st回答的是“我需要除夕的日子”",
+        "task4": "除夕夜是12月32日；可能用于拒绝他人的约会邀请",
+        "tag": "graphic"
+    },
+    {
+        "index": 405,
+        "text": "-Repeat after me... -After me. -Is he serious? -No, his name is Steve.",
+        "task2": "repeat after me有“跟我读”和“重复after me”两个意思；serious有“严肃的”和“人名”两层意思",
+        "task3": "图为婚礼场景；新郎重复了“after me”，新娘把“serious”理解为人名",
+        "task4": "婚礼上新娘新郎要要宣读誓词；可能用于回答“Repeat sth.”和“Is he...”等问题",
+        "tag": "graphic"
+    },
+    {
+        "index": 406,
+        "text": "-Dad, have you brought my sunglasses? -No, son, I’ve only got my dad glasses.",
+        "task2": "sunglasses谐音“son glasses”",
+        "task3": "图为儿子问爸爸有没有给自己带太阳镜；“son glasses”和“dad glasses”相对应",
+        "task4": "儿子的太阳镜和爸爸的太阳镜尺寸不同；可能用于幽默地化解没有给儿子带太阳镜的窘境",
+        "tag": "phonic"
+    },
+    {
+        "index": 407,
+        "text": "-What are all these buttons for? -Those are to keep your shirt closed.",
+        "task2": "buttons有“按钮”和“纽扣”两个意思",
+        "task3": "图为两名飞行员交流；男士误以为女士在问他衬衫上的纽扣有什么用",
+        "task4": "飞机上的按钮都分别有自己的功能，普通人一般不懂；可能用于回答关于“buttons”的问题",
+        "tag": "graphic"
+    },
+    {
+        "index": 408,
+        "text": "-Sorry, I’m late. I broke down on the way to work. -Oh no, is your car running ok now? -My car?",
+        "task2": "break down有“汽车抛锚”、“崩溃”和“发生故障”等意思",
+        "task3": "图中的员工在讨论迟到的问题；女士误以为男同事的car “broke down”了",
+        "task4": "当break down消逝的主语不同时，意思也不同；可能用于关心他人的车",
+        "tag": "graphic"
+    },
+    {
+        "index": 409,
+        "text": "What’s the best kind of snack to eat during a horror movie? I scream.",
+        "task2": "I scream 和ice cream谐音",
+        "task3": "图为看恐怖电影；I scream表示因害怕而尖叫，也回答了what’s the best snack",
+        "task4": "人们看电影时通常会找些零食吃，而看恐怖电影时会尖叫；可能用于回答看恐怖电影时吃什么零食好",
+        "tag": "phonic"
+    },
+    {
+        "index": 410,
+        "text": "-I’d like to make a reservation. -This is a library sir. -We are fully booked.",
+        "task2": "book有“预定”和“书”两个含义",
+        "task3": "图为图书馆预订场景；图书管理员想表达两个意思，即图书馆以及订满了和图书馆被图书填充满了",
+        "task4": "去图书馆可能需要提前预约；可能用于拒绝顾客的预约请求",
+        "tag": "graphic"
+    },
+    {
+        "index": 411,
+        "text": "-Jesus save me. -jig or PDF?",
+        "task2": "save有“保存”和“拯救”两个意思",
+        "task3": "图为向Jesus求救：Jesus理解为存储文件，因此给出了两种格式GPG和PDF",
+        "task4": "文件保存格式有docx、ppt、pdf、txt、jpg等；耶稣是基督教所信奉的救世主，被认为是上帝之子；可能用于调侃工作的繁忙",
+        "tag": "graphic"
+    },
+    {
+        "index": 412,
+        "text": "-I can’t do this anymore, you’ll have to choose... it’s me or the alcohol, which is it? -It’s you. I can tell by the voice.",
+        "task2": "choose的两个语境：女朋友和酒二选一；猜一猜，女朋友还是酒",
+        "task3": "图为女朋友让男朋友在自己和酒精之间做出选择；男生曲解为猜迷游戏",
+        "task4": "男女朋友之间有时会因一方沉迷于某事而争吵；为可能用于化解二选一的难题",
+        "tag": "graphic"
+    },
+    {
+        "index": 413,
+        "text": "-Do these turkeys get any bigger? -No ma’am, they’re dead.",
+        "task2": "get any bigger的两层含义：还有大一点的火鸡吗；火鸡还会长大吗",
+        "task3": "图为购买火鸡；男士回答火鸡以及死了，不会再变大",
+        "task4": "顾客常常希望以同样的价格买更大的商品；可能用于回答与“get any bigger”有关的问题",
+        "tag": "graphic"
+    },
+    {
+        "index": 414,
+        "text": "-Wait! I’m a talking tree! -And you will dialogue.",
+        "task2": "dialogue谐音“die log”",
+        "task3": "图为伐木场景；会说话的树可以dialogue；谐音die log表达原木马上就会被砍倒",
+        "task4": "会说话的树常被认为是神圣的；可能用于描述被砍伐的树木最终的去向",
+        "tag": "phonic"
+    },
+    {
+        "index": 415,
+        "text": "-Have you done any work with children before? -Yes, I’ve successfully launched 3 books aimed at 6-8 years old. -That must have been rewarding. -Nor really. I spend 3 years in jail. Apparently, you can’t throw books at children.",
+        "task2": "launch有“上市，发行”和“投出，用力扔出”两个意思",
+        "task3": "图为面试场景；女士想表达她用书扔孩子，而不是发表了关于孩子的书",
+        "task4": "用书扔孩子的行为可能会违法；可能用于调侃“do work with children”这件事",
+        "tag": "graphic"
+    },
+    {
+        "index": 416,
+        "text": "DRAW BRIDGE AHEAD",
+        "task2": "draw有“画”的意思；drawbridge是“吊桥”",
+        "task3": "图为含有“吊桥”的路标：由于“draw”和“bridge”被分开了，路人误以为要画桥",
+        "task4": "吊桥路段需谨慎通行，常设路标提醒人们；可能用于调侃路标标语写的不合理",
+        "tag": "graphic"
+    },
+    {
+        "index": 417,
+        "text": "-Can someone tell me what 5Q+5Q equals? -10Q -You’re welcome.",
+        "task2": "10Q，即“Ten Q”，谐音“thank you”",
+        "task3": "图为回答课堂问题；You’re welcome.是在回答“thank you”",
+        "task4": "在数学运算中，Q代表一个数或者一个代数式，“5Q+5Q”表示同类项相加，结果是10Q；可能用于以幽默地方式让别人说出“谢谢”",
+        "tag": "phonic"
+    },
+    {
+        "index": 418,
+        "text": "-Can I please have a bookmark? -For the last time, I’m not buying you a book if you keep calling me Mark.",
+        "task2": "mark这里有“标识，记号”和“人名Mark”两层含义",
+        "task3": "黑人小哥误听为Can I please have a book, Mark?",
+        "task4": "bookmark是一个合成词，有“book（书）”和“mark（标记）”组合而成；可能用于拆解组合词",
+        "tag": "graphic"
+    },
+    {
+        "index": 419,
+        "text": "-Sorry mom, called you by accident. -That’s ok. Had you by accident.",
+        "task2": "by accident的两个语境：意外打错电话；意外生下了你",
+        "task3": "图为母女打电话；女儿说不小心打错电话，妈妈回应 “我也是意外生下了你”，利用了相同的表达 “by accident”，产生幽默效果",
+        "task4": "母亲用同样的“by accident”回答女儿；可能用于调侃男女交往中的不良现象",
+        "tag": "graphic"
+    },
+    {
+        "index": 420,
+        "text": "-You’re so old and still don’t need glasses? -No dear, I drink straight from the bottle.",
+        "task2": "glasses有“眼睛”和“玻璃杯”两层含义",
+        "task3": "图为祖孙对话；奶奶直接对着瓶子喝水，不用玻璃杯“glasses”",
+        "task4": "老人通常会老眼花，需要戴眼镜；可能用于调侃“glass”的单复数形式造成的意思差异",
+        "tag": "graphic"
+    },
+    {
+        "index": 421,
+        "text": "-Grandma, why do you have a big nose and sharp teeth? -Please stop bodyshaming.",
+        "task2": "bodyshaming指“身体羞辱”",
+        "task3": "图为《小红帽》经典情节；小红帽指出狼外婆的奇怪外貌，狼外婆归结为外贸羞辱以化解小红帽的怀疑",
+        "task4": "基于身材的歧视行为就被称为“body shame”，它反映了社会审美标准单一以及不友善的评价氛围等问题；可能用于化解“body shame”的严肃性",
+        "tag": "graphic"
+    },
+    {
+        "index": 422,
+        "text": "My friend: “look at this nice picture of Wales” Me: “actually those are sheep”",
+        "task2": "“Wales”和“whales”同音异义",
+        "task3": "图为威尔士的羊；Me误听为鲸鱼，纠正道，图片上是羊",
+        "task4": "威尔士多山地和丘陵，这种地形以及温带海洋性气候使当地适宜放牧，为养羊提供了良好的自然条件，羊群养殖成为当地重要的畜牧产业；可能用于调侃某些人太现实，不懂艺术",
+        "tag": "phonic"
+    },
+    {
+        "index": 423,
+        "text": "Now class, I’ d like you all to welcome our guest Speaker. And his friend, Mike.",
+        "task2": "speaker有“演讲者”和“扬声器”两个含义；mike有“Mike人名”和“麦克风”两个意思",
+        "task3": "图为主持人、扬声器和麦克风；这里“guest”和“friend”指的是扬声器和麦克风，不是人",
+        "task4": "扩音器和麦克风在演讲等场合是必不可少的；可能用于将某些物品拟人化",
+        "tag": "graphic"
+    },
+    {
+        "index": 424,
+        "text": "Ed has no girlfriend, because Sheeran away.",
+        "task2": "“Sheeran away”谐音“She ran away”",
+        "task3": "图为歌手Ed Sheeran；“Sheeran away”表示：Sheeran这一部分away了；His girlfriend ran away了",
+        "task4": "Ed Sheeran是英国流行乐男歌手、音乐创作人、演员，被称为“情歌界的扛把子”；可能用于调侃Ed Sheeran的名字拼写",
+        "tag": "phonic"
+    },
+    {
+        "index": 425,
+        "text": "Ellen Page/Ellen Book beyonce/beytwice",
+        "task2": "page有“人名Page”和“页”两个意思；Beyonce有“人名”和“bey+once”两层含义",
+        "task3": "图为Ellen Page和美国女歌手Beyoncen；book由多个page组成；两个Beyonce与twice有联系",
+        "task4": "Ellen Page是加拿大演员，曾出演《朱诺》《盗梦空间》等作品；Beyoncé是美国著名流行乐女歌手、词曲作者、舞蹈家，代表作有《Single Ladies》等；可能用于调侃她们的名字拼写",
+        "tag": "graphic"
+    },
+    {
+        "index": 426,
+        "text": "Bone/BMany",
+        "task2": "bone有“骨头”和“b+one”两层含义",
+        "task3": "图为一根骨头和人骨架；人骨架有many骨头组成",
+        "task4": "骨架是由多跟骨头组成的；可能用于调侃“bone”这个单词的拼写",
+        "tag": "graphic"
+    },
+    {
+        "index": 427,
+        "text": "island/isn’t land",
+        "task2": "island有“岛屿”和“is+land”两层意思",
+        "task3": "图为一片海域中间有一座孤岛；海域可以理解为isn't land，是is land的否定形式",
+        "task4": "island（孤岛）是被isn’t land的大海包围的；可能用于调侃“island”的拼写",
+        "tag": "graphic"
+    },
+    {
+        "index": 428,
+        "text": "Mozart/Cinderella",
+        "task2": "Mozzarella有“马苏里拉奶酪”和“mozar+rella”两层含义",
+        "task3": "图为莫扎特、辛德瑞拉和马苏里拉奶酪；Mozart的左半部分+Cinderella的右半部分组成Mozzarella",
+        "task4": "Mozart是奥地利古典主义音乐作曲家，创作众多经典作品，与海顿确立维也纳古典乐派，35岁便英年早逝；Cinderella是童话故事中的经典形象，她是一个美丽善良的女孩，受到继母和姐姐们的虐待，后在仙女的帮助下参加舞会，与王子相遇，最终过上幸福生活；Mozzarella是一种意大利传统奶酪，在制作披萨、意大利面、沙拉以及意式焗饭等美食时经常会用到；可能用于调侃机械地、不合理地使用“构词法”",
+        "tag": "graphic"
+    },
+    {
+        "index": 429,
+        "text": "Today I rewrote history.",
+        "task2": "rewrote有“改写”和“重写”两层含义",
+        "task3": "图为划去“History”，下面重新写一遍；今天我重写了历史history这个单词，仅表面意思",
+        "task4": "改写历史通常是一件很难的事；可能用于自嘲（无法真正的改变历史）",
+        "tag": "graphic"
+    },
+    {
+        "index": 430,
+        "text": "Lemon/Lemoff/Lemin!",
+        "task2": "lemon有“柠檬”和“lem+on”两层含义",
+        "task3": "图为一个没有剥皮的柠檬、一个剥皮柠檬和一个柠檬头人；on是穿上，off是脱下，in是在里面",
+        "task4": "罗文姬是出生于中国北京的韩国女演员，代表作有《搞笑一家人》《我能说》等，她的表情包在网络上非常流行；可能用于调侃“lemon”的拼写",
+        "tag": "graphic"
+    },
+    {
+        "index": 431,
+        "text": "-I’m sorry, there is only a 50% chance of surviving this procedure. -Let’s do it twice then!",
+        "task2": "chance有“机会”和“几率”两层意思",
+        "task3": "图为医生和病人；小男孩说do it twice是想让两次手术加起来的概论等于百分之百",
+        "task4": "手术成功的机率是不可以累加的；可能用于幽默化“手术成功概率很低”这一严肃的话题",
+        "tag": "graphic"
+    },
+    {
+        "index": 432,
+        "text": "-Excuse me sir, is this train running on time? -No, electricity.",
+        "task2": "running on time有“按时开车”和“靠时间驱动”两个意思",
+        "task3": "图为火车乘务人员与乘客；乘务人员回答electricity，是说火车靠电力驱动",
+        "task4": "火车一般靠蒸汽、电力等驱动，不可能靠时间驱动；可能用于调侃介词“on”的不同用法",
+        "tag": "graphic"
+    },
+    {
+        "index": 433,
+        "text": "-I’m looking to buy a 40 watt bulb. -For what? -No, it needs to be 40.",
+        "task2": "for what谐音four watt",
+        "task3": "图为顾客买40瓦特电灯泡；顾客把for what听成了four watt，故回答了it needs to be 40",
+        "task4": "常见的白炽灯泡功率一般在15 - 100瓦之间；可能用于混淆“four”和“for”或者“what”和“watt”",
+        "tag": "phonic"
+    },
+    {
+        "index": 434,
+        "text": "-I am going to deliver your baby. -Ok, our address is 716 Fairway Drive, Texas.",
+        "task2": "deliver这里有“接生”和“运送”两个含义",
+        "task3": "图为医生和孕妇；孕妇把deliver理解成运送，故告诉医生家庭地址",
+        "task4": "“deliver”的宾语不同，意思也不同；可能用于混淆“deliver”的意思",
+        "tag": "graphic"
+    },
+    {
+        "index": 435,
+        "text": "-I’m looking for a man with one eye. -You’d find him a lot quicker if you uses both eyes...",
+        "task2": "with one eye有“独眼的”和“用一只眼睛”两个意思",
+        "task3": "图为警察和路人；路人理解with one eye为用一只眼睛，故建议警察用两只眼睛",
+        "task4": "警察寻找嫌犯是通常会向路人寻求线索；可能用于强调“with”的不同用法",
+        "tag": "graphic"
+    },
+    {
+        "index": 436,
+        "text": "-Your baby has a fever. You need to make sure he is cool. -Thank you! -Sir, he is sick!",
+        "task2": "cool有“凉爽的”和“酷的”两层含义；sick有“生病的”和“极好的”两个意思",
+        "task3": "图为医生为baby看病；爸爸误以为医生要求他把宝宝打扮的酷一点并把he is sick理解为他好极了",
+        "task4": "发烧了需要给人体降温；可能用于调侃某些不负责任的父亲",
+        "tag": "graphic"
+    },
+    {
+        "index": 437,
+        "text": "SPY A/SPY B",
+        "task2": "spicy谐音“SPY C”；spider谐音“SPY D”",
+        "task3": "图为A、B两个间谍、辣椒和蜘蛛侠；辣椒是spicy，蜘蛛侠和spider有关",
+        "task4": "蜘蛛侠是漫威旗下的超级英雄，凭借蛛丝飞荡、攀爬墙壁等能力打击犯罪；可能用于调侃“spicy”、“spider”和“spy”的发音",
+        "tag": "phonic"
+    },
+    {
+        "index": 438,
+        "text": "me: can I give your dog a pet? him: sure me: *places slightly smaller dog next his* dog: thanks",
+        "task2": "pet有“宠物”和“抚摸”两个意思",
+        "task3": "这里me在宠物狗身边放了一个更小的狗，把pet理解为宠物",
+        "task4": "pet的单复数会造成其意思不同；可能用于调侃那些给宠物准备小宠物的奇葩行为",
+        "tag": "graphic"
+    },
+    {
+        "index": 439,
+        "text": "Free Spring Water",
+        "task2": "spring有“泉水”和“弹簧”两个意思",
+        "task3": "图为水龙头和弹簧状的管子；管子的形状和spring相对应",
+        "task4": "水管一般是直的；可能用于调侃“弹簧式水管”的奇葩",
+        "tag": "graphic"
+    },
+    {
+        "index": 440,
+        "text": "this gets me every year: June’s over? Julying.",
+        "task2": "Julying（七月）表示“July+ing”",
+        "task3": "这里June结束了，自然正是July，Julying表示七月正在进行时",
+        "task4": "每年，六月结束之后就是七月；可能用于调侃时间过得很快",
+        "tag": "graphic"
+    },
+    {
+        "index": 441,
+        "text": "Man Runs Out of Gas on Interstate, Sets Up Drum Kit to Kill Time: On Tuesday morning, a man driving on the Baltimore Beltway ran out of gas. So he did what anyone would do: He pulled over to the shoulder of I-695, set up his drum kit, and began to play until help arrived. abasnail: that’s what I call a traffic jam",
+        "task2": "traffic jam一般指交通堵塞，在这里指“即兴演奏的摇滚乐”",
+        "task3": "图为汽车没油的车主在路边敲鼓打发时间；网友评论这是他认为的交通摇滚乐",
+        "task4": "汽车没油时，人们有时用音乐来打发时间；可能用于调侃那些在公路上没油的汽车造成的交通不便",
+        "tag": "graphic"
+    },
+    {
+        "index": 442,
+        "text": "Calling twin brother from prison -Hey bro, remember when we were kids and we would finish each other’s sentences.",
+        "task2": "sentence有“句子”和“判决”两层含义",
+        "task3": "图为在监狱里给双胞胎兄弟打电话；打电话的人希望他的双胞胎兄弟来finish他的判决",
+        "task4": "在监狱里一般会有固定的通话时间安排，而且通话内容可能会被监听；可能用于调侃兄弟之间的塑料情谊",
+        "tag": "graphic"
+    },
+    {
+        "index": 443,
+        "text": "Wanted: a man has been stealing wheels of police cars. Police are working tirelessly to catch him.",
+        "task2": "tire有“疲劳”和“轮胎”两个意思",
+        "task3": "图为一辆没有轮胎的警车；working tirelessly是不知疲倦地工作，而 “tire”还有 轮胎的意思，与前面提到的被偷的警车车轮相呼应，形成一种幽默的表达效果",
+        "task4": "汽车轮子主要由轮毂、轮胎两大部分构成；可能用于幽默化“tirelessly”这一单词",
+        "tag": "graphic"
+    },
+    {
+        "index": 444,
+        "text": "-The attacker seems to have a motive... -Hate crime? -Of course I hate crime, that’s why I’m a cop.",
+        "task2": "“Hate crime?”是在回答“motive”问题，而这里被误解为“你是否仇恨犯罪”",
+        "task3": "图为两个警察谈论罪犯动机问题；第一个警察误以为对方在问自己是不是“hate crime”",
+        "task4": "痛恨犯罪是大部分人当警察的原因之一；可能用于对“疑问句”的不同理解",
+        "tag": "graphic"
+    },
+    {
+        "index": 445,
+        "text": "-As an American citizen, you have the right to bear arms. -Nice.",
+        "task2": "bear arms有“携带武器”和“熊的手臂”两层含义",
+        "task3": "图为两个美国人对话；bear arms和男人的两条熊胳膊有联系",
+        "task4": "美国宪法第二修正案赋予公民持枪的权利；可能用于调侃“bear”和“arms”的一词多义现象",
+        "tag": "graphic"
+    },
+    {
+        "index": 446,
+        "text": "-I am terrified of heights, I’ve been avoiding tall buildings and libraries. -Why libraries? -Because they have the most stories.",
+        "task2": "story有“故事”和“测量单位”两层含义",
+        "task3": "图为讨论因恐高而远离高楼和图书馆；they have the most stories表示图书馆很高",
+        "task4": "图书馆里充满了书籍；可能用于给不爱去图书馆找借口",
+        "tag": "graphic"
+    },
+    {
+        "index": 447,
+        "text": "-Have you done any work with children before? -Yes, I’ve successfully launched 3 books aimed at 6-8 years old. -That must have been rewarding. -Nor really. I spend 3 years in jail. Apparently, you can’t throw books at children.",
+        "task2": "launch有“上市，发行”和“投出，用力扔出”两个意思",
+        "task3": "图为面试场景；女士想表达她用书扔孩子，而不是发表了关于孩子的书",
+        "task4": "用书扔孩子的行为可能会违法；可能用于调侃“do work with children”这件事",
+        "tag": "graphic"
+    },
+    {
+        "index": 448,
+        "text": "-Officer, a storm just blew away 25% of my roof. -oof",
+        "task2": "roof有“屋顶”的意思，这里它仅作为“r+o+o+f”的字母组合",
+        "task3": "图为下属向军官汇报自己的屋顶被风吹毁了25%；军官把roof的25%，即字母r去掉，故回答oof",
+        "task4": "报警的人一般不会开玩笑；可能用于幽默地化解他人的抱怨",
+        "tag": "graphic"
+    },
+    {
+        "index": 449,
+        "text": "-OMG, what do we do now? -I thank we need to see a baby doctor. -Maybe we should see an adult doctor.",
+        "task2": "baby doctor有“儿科医生”和“年幼的医生”两个意思",
+        "task3": "图为夫妻两人发现妻子怀孕了，准备去看医生；adult doctor与年幼的医生这个意思相对",
+        "task4": "怀孕了要看妇产科医生；可能用于“baby”的一词多义",
+        "tag": "graphic"
+    },
+    {
+        "index": 450,
+        "text": "Sofa/Soclose",
+        "task2": "sofa谐音“so far”",
+        "task3": "图为一个放在远处的沙发和一个放在近处的沙发；so close与 so far相对",
+        "task4": "沙发的正确拼写是“sofa”；可能用于调侃“sofa”的单词读音",
+        "tag": "phonic"
+    },
+    {
+        "index": 451,
+        "text": "-You are obese. -Wtf, I want a second opinion. -You stink too.",
+        "task2": "“a second opinion”本应该是关于“weight”的，这里医生给出了一个关于“smell”的观点",
+        "task3": "图为病人询问医生关于自己的肥胖问题；病人本来希望得到关于 “肥胖” 问题的不同看法，结果得到的却是关于 “臭” 的评价，完全偏离了预期。",
+        "task4": "病人一般都想听到好的答案；可能用于调侃某人又胖又臭",
+        "tag": "graphic"
+    },
+    {
+        "index": 452,
+        "text": "-Where’s the milk? -By the eggs. -No, I only want to buy the milk.",
+        "task2": "by谐音“buy”",
+        "task3": "图为售货员为顾客指引牛奶的位置；顾客误以为售货员让他buy鸡蛋，故回答他只想买牛奶",
+        "task4": "售货员一般不会答非所问；可能用于调侃某些销售员的推销行为",
+        "tag": "phonic"
+    },
+    {
+        "index": 453,
+        "text": "-This graveyard looks a little overcrowed. -Yes, people are dying to get in.",
+        "task2": "dying有“迫不及待的”和“奄奄一息的”两层含义",
+        "task3": "图为两人讨论为什么陵园overcrowded；dying to get in字面意思是 “渴望进入”，另一方面 “dying” 又有 “垂死、死亡” 的意思，与墓地的场景相呼应",
+        "task4": "人死后一般会选择墓地安葬；可能用于调侃墓地爆满的现象",
+        "tag": "graphic"
+    },
+    {
+        "index": 454,
+        "text": "-Ok, if A is for Apple and B is for Banana then what is C for? -Plastic explosives.",
+        "task2": "C for谐音“C four”",
+        "task3": "图为老师问C代表什么含义；plastic explosives即C4炸药",
+        "task4": "C4是一种用于军事爆破和部分民用爆破的塑胶炸药；可能用于调侃“for”和“four”的相似读音",
+        "tag": "phonic"
+    },
+    {
+        "index": 455,
+        "text": "-Sorry, your wife didn’t make it. -Ok, but can you bring me the one my wife made.",
+        "task2": "make it 有“生存或度过困难时期”和“生小孩”两层含义",
+        "task3": "图为护士说男人的妻子没有挺过来；男人误认为孩子不是妻子make的",
+        "task4": "医生一般不会给错孩子；make可能用于用一词多义，化解“妻子没能成功活下来”的严肃话题",
+        "tag": "graphic"
+    },
+    {
+        "index": 456,
+        "text": "-You wanna see something NSFW? -haha yeah",
+        "task2": "NSFW原指不适合上班时间浏览的东西，通常内容很极端；这里仅仅是字面意思，站在椅子上确实不适合上班时间干，但情节不严重",
+        "task3": "图为男人站在椅子上；他将“站在椅子上”解释为“NSFW”；",
+        "task4": "NSFW是“Not Safe For Work”的缩写，用于提醒人们内容包含色情、暴力、血腥等不适合在工作或公共场合浏览的因素；可能用于浅层化理解“NSFW”",
+        "tag": "graphic"
+    },
+    {
+        "index": 457,
+        "text": "-I went skydiving at the weekend. -From how many feet? -Just three two.",
+        "task2": "feet有“脚”和“英尺”两层含义",
+        "task3": "图为讨论从多少英尺的高度跳伞；these two指男人用他的两只脚跳伞",
+        "task4": "feet已经是复数形式了；可能用于对“feet”的不同理解",
+        "tag": "graphic"
+    },
+    {
+        "index": 458,
+        "text": "I’m trying, box. I’m trying.",
+        "task2": "break down有“损坏”和“情绪崩溃”两层含义",
+        "task3": "图为写在盒子上面的“请勿损毁”；I’m trying not to break down则是我在努力保持情绪稳定",
+        "task4": "易碎品需要轻拿轻放；可能用于调侃生活不容易",
+        "tag": "graphic"
+    },
+    {
+        "index": 459,
+        "text": "Look how instinctively the mother croc carries the baby in its mouth. Nature is beautiful.",
+        "task2": "baby这里指“baby crocodile”，但事实上是一只鞋子",
+        "task3": "图为鳄鱼叼着一只鞋；洞洞鞋神似baby crocodile",
+        "task4": "鳄鱼会用嘴叼着它的宝宝，这是鳄鱼妈妈保护宝宝的一种方式；可能用于调侃某些喜欢过度解读、喜欢感慨的人",
+        "tag": "graphic"
+    },
+    {
+        "index": 460,
+        "text": "-I need to come over and speak to you about how high your heating bill is. -My door is always open.",
+        "task2": "my door is always open的两层意思：欢迎物业来拜访；门一直开着，所以取暖费高",
+        "task3": "图为物业要来拜访业主以谈论取暖费高的问题； my door is always open表面在说欢迎物业来拜访，但也隐含着门一直开着，所以取暖费高",
+        "task4": "物业来业主家通常是为了提供维修服务、检查设施设备以及沟通相关事务；可能用于调侃一些冬天开着门浪费资源的业主",
+        "tag": "graphic"
+    },
+    {
+        "index": 461,
+        "text": "-What flavor would you like? -Mandarin please. -Oh, sorry, 你想要什么口味？",
+        "task2": "Mandarin有“普通话”和“柑橘口味”两个意思",
+        "task3": "图为店员问顾客要什么口味的冰淇淋；“你想要什么口味”对应“普通话”这个意思",
+        "task4": "冰淇淋有包括柑橘味在内的多种口味；可能用于调侃“Mandarin”的一词多义现象",
+        "tag": "graphic"
+    },
+    {
+        "index": 462,
+        "text": "Apple/Pear/Dis a apple",
+        "task2": "disappear有“消失”和“dis a pear组合”两个意思",
+        "task3": "图为Apple、Pear、Dis a apple和空白；“Dis a pear”对应空白，即消失了",
+        "task4": "苹果和梨都是水果，与单词disappear无关；可能用于调侃“disappear”的单词拼写",
+        "tag": "phonic"
+    },
+    {
+        "index": 463,
+        "text": "Me: Sleeping. A random fly: The next song is called bzzbzz",
+        "task2": "bzz有“不zz”和“苍蝇发出的声音”两层含义",
+        "task3": "图为苍蝇弹钢琴；bzz的声音让我难以入睡，即不能zzzz",
+        "task4": "苍蝇的振翅声常常惹的人睡不着觉；可能用于调侃苍蝇太烦人了",
+        "tag": "phonic"
+    },
+    {
+        "index": 464,
+        "text": "-I’m going to have to draw blood. -Thanks for waiting.",
+        "task2": "draw blood有“抽血”和“画血”两层含义",
+        "task3": "图为医生给病人画了一个血滴；draw blood取画画的意思",
+        "task4": "去医院检查常常需要验血；可能用于调侃某些不负责任的医生",
+        "tag": "graphic"
+    },
+    {
+        "index": 465,
+        "text": "-Hi, I’ve forgotten what room I’m in. -No problem, Sir. -This is called “The Lobby”",
+        "task2": "room有“房间”和“空间”两个意思",
+        "task3": "图为房客询问自己的房间号；大堂经理告诉顾客他现在正在“lobby”这个地方",
+        "task4": "酒店里客人一般会问自己的房间号；可能用于调侃“room”的一词多义",
+        "tag": "graphic"
+    },
+    {
+        "index": 466,
+        "text": "-What seems to be the problem sir? -It hurts when I do this. -Then don’t do that.",
+        "task2": "It hurts when I do this表面意思是：我这样动的时候会疼，但实际上是因为动作牵动了伤口才会痛",
+        "task3": "图为医生询问病人哪里有问题；医生仅从字面上理解“It hurts when I do this.”，故回答“那就不要那样做”，没用解决实际问题",
+        "task4": "医生没有给出治疗方案，而是让病人不要做某一动作；可能用于调侃一些不解决实际问题的医生",
+        "tag": "graphic"
+    },
+    {
+        "index": 467,
+        "text": "-Sorry about your wait. -That’s ok, I’ve always been fat.",
+        "task2": "wait谐音“waist”",
+        "task3": "图为医生对让病人久等这件事感到抱歉；病人误听为“waist”，故回答自己一直很胖",
+        "task4": "病人很胖，她将听到的自动与自己的情况联系起来；可能用于自嘲身材",
+        "tag": "phonic"
+    },
+    {
+        "index": 468,
+        "text": "-Sir, I’m afraid od your DNA is backwards. -AND?",
+        "task2": "DNA有“脱氧核糖核酸”和“字母拼写DNA”两种理解",
+        "task3": "图为医生告知病人他的DNA是反向的；“AND”是“DNA”的倒写方式",
+        "task4": "DNA，即脱氧核糖核酸，是一种存在于生物细胞内的大分子聚合物，是遗传信息的主要载体；可能用于幽默化解“DNA是反向的”这一严肃的问题",
+        "tag": "graphic"
+    },
+    {
+        "index": 469,
+        "text": "What do you call a deer with no eye? No eye deer (No idea).",
+        "task2": "no eye deer谐音“no idea”",
+        "task3": "no eye deer谐音no idea，即“不知道”",
+        "task4": "问答都没有问题，但谐音“No idea”出乎意料；类似于脑筋急转弯",
+        "tag": "phonic"
+    },
+    {
+        "index": 470,
+        "text": "Do you know where I store my dad jokes? In my Dadabase (Date-base)",
+        "task2": "dadabase谐音“database”",
+        "task3": "dadabase谐音database，即“数据库”",
+        "task4": "数据库是用来储存数据的；可能用来讲冷笑话",
+        "tag": "phonic"
+    },
+    {
+        "index": 471,
+        "text": "Why is “dark” is spelled with a “k” not a “c”? Because you can’t “c” in the dark",
+        "task2": "c谐音“see”",
+        "task3": "c谐音see，即看见",
+        "task4": "用谐音梗解答一个科学问题；可能用来讲冷笑话",
+        "tag": "phonic"
+    },
+    {
+        "index": 472,
+        "text": "If your house is cold, just stand in the corner. It’s always 90 degrees there.",
+        "task2": "degree有“温度”和“角度”两个意思",
+        "task3": "图为直角墙角；墙角通常是90度的，从温度上讲，是个很高的度数",
+        "task4": "墙角通常是90度的；可能用来讲冷笑话",
+        "tag": "graphic"
+    },
+    {
+        "index": 473,
+        "text": "Which is faster, hot or cold? Hot. Because you can catch a cold.",
+        "task2": "catch a cold有“感冒”和“抓住cold”两层含义",
+        "task3": "我们能抓住cold，表示“hot”跑的更快",
+        "task4": "hot和cold一般是无法比较哪个更快的；可以用来讲冷笑话",
+        "tag": "graphic"
+    },
+    {
+        "index": 474,
+        "text": "Can February March? No, but April May!",
+        "task2": "March有“三月”和“前进”两个意思；May有“五月”和“可以”两个意思",
+        "task3": "April May March即四月可以前进",
+        "task4": "月份一般是不可以“前进”的；可以用来讲冷笑话",
+        "tag": "graphic"
+    },
+    {
+        "index": 475,
+        "text": "Winter of Rome/Spring of Rome/Summer of Rome",
+        "task2": "fall有“秋季”和“沦陷”两个意思",
+        "task3": "图为罗马的四季；fall of Rome在这里是罗马的沦陷",
+        "task4": "罗马帝国的衰落是一个长期过程，一般认为西罗马帝国在公元476年灭亡是其衰落的重要标志，东罗马帝国于1453年灭亡则标志着罗马帝国彻底结束；可能用于“fall”的一词多义",
+        "tag": "graphic"
+    },
+    {
+        "index": 476,
+        "text": "Is this the real Life? Is this just...",
+        "task2": "fantasy谐音“fanta C”",
+        "task3": "图为芬达汽水拼成的字母“C”；芬达的英文名为“Fanta”",
+        "task4": "芬达（Fanta）是可口可乐公司旗下的一款碳酸饮料，有多种水果口味，深受全球消费者喜爱；用于表达对芬达饮料的喜爱",
+        "tag": "phonic"
+    },
+    {
+        "index": 477,
+        "text": "-I’ve got joint pain, a sore throat and a headache have you got anything? -Nope, I feel fine.",
+        "task2": "got在这有“得到信息”和“得病”两个意思",
+        "task3": "图为病人向医生陈述病情；医生说他很好，说明他把“got anything”理解成得病了",
+        "task4": "病人一般不会问医生的身体状况；可能用于调侃自以为是的医生",
+        "tag": "graphic"
+    },
+    {
+        "index": 478,
+        "text": "-Be careful sir, the plate is really hot. -No worries, I’m not really attracted to plates.",
+        "task2": "hot有“烫的”和“性感的”两个意思",
+        "task3": "图为服务员提醒客人小心盘子烫手；客人说自己被盘子吸引，说明他把“hot”理解成“性感的”了",
+        "task4": "hot在形容食物时一般翻译成“烫的”；可能用于幽默地回答关于“食物很烫”的话题",
+        "tag": "graphic"
+    },
+    {
+        "index": 479,
+        "text": "Everyone told Sam not to sing, but Samsung anyway,",
+        "task2": "Samsung有“三星”和“Sam sung”两个意思",
+        "task3": "Samsung anyway字面意思是“不管怎么样，三星”，这里意为“不管怎么样，Sam还是唱了”",
+        "task4": "Samsung是韩国最大跨国企业集团，业务涉及电子、金融、机械、化学等众多领域，旗下三星电子等子公司在全球市场颇具影响力；可能用于幽默地说明三星的产品很流行",
+        "tag": "graphic"
+    },
+    {
+        "index": 480,
+        "text": "Did you hear about the guy who cut off the left side of his body? He’s all right now.",
+        "task2": "all right有“好了，没事了”和“都是右边了”两个含义",
+        "task3": "图为一个只有右半部分身体的小人；He’s all right now可以理解为他已经没事了，或者他只剩右边的身体了",
+        "task4": "人一般很少出现“cut off the left side of body”和情况；可能用于幽默地回答“cut body”这一严重的事情",
+        "tag": "graphic"
+    },
+    {
+        "index": 481,
+        "text": "“I’m sorry” and “my bad” mean the same thing... Unless you are at a funeral.",
+        "task2": "I’m sorry有“我很抱歉”和“我对此感到很悲伤”两层含义",
+        "task3": "图为一个悲伤的小人；在葬礼上，“I’m sorry”意为“我感到很悲伤”，而“my bad”意为“（ta的死）是我的错”",
+        "task4": "在葬礼上表达悲伤一般说“I‘m sorry”；可能用于说明同意短语有不同的应用场合",
+        "tag": "graphic"
+    },
+    {
+        "index": 482,
+        "text": "-Is this good for wasps? -No, it kills them.",
+        "task2": "“Is this good for wasps?”有“这个杀虫剂好用吗”和“这个对黄蜂有益处吗”两个意思",
+        "task3": "图为顾客问杀虫剂好不好用；售货员回答说“这是用来杀死黄蜂的”，说明她把“good for wasps”理解成“有益于黄蜂”了",
+        "task4": "杀虫剂会杀死黄蜂；可能用于对“good for”的不同理解",
+        "tag": "graphic"
+    },
+    {
+        "index": 483,
+        "text": "Finland/Foutland",
+        "task2": "Finland有“芬兰”和“F in land”两个意思",
+        "task3": "图为字母F分布在芬兰的内部和外部；“F out land”对应“F in land”",
+        "task4": "Finland是位于欧洲北部的国家，是发达的资本主义国家，以高科技产业如通信技术和森林工业等著称；可能用于调侃“Finland”的拼写",
+        "tag": "graphic"
+    },
+    {
+        "index": 484,
+        "text": "Handsome/ome",
+        "task2": "handsome有“帅气的”和“hands+ome”两个含义",
+        "task3": "图为一个英俊的无臂男人；一个handsome的人没有hand就成了“ome”",
+        "task4": "结构上，handsome一词中包含“hand”；可能用于调侃“handsome”的拼写",
+        "tag": "graphic"
+    },
+    {
+        "index": 485,
+        "text": "-I am having problems with my hearing. -Ok, can you describe the symptoms? -Marge has bule hair and Homer is a fat guy.",
+        "task2": "handsome有“帅气的”和“hand+some”两个含义symptoms谐音“Simpsons”",
+        "task3": "图为有听力障碍的病人看医生；病人误听为“描述辛普森一家”，故回答了Marge和Homer的形象",
+        "task4": "《辛普森一家》是美国动画情景喜剧，以辛普森一家五口的生活为主线，对美国社会诸多方面进行讽刺和调侃，是美国最长寿的动画系列剧；可能用于调侃病人的耳背",
+        "tag": "phonic"
+    },
+    {
+        "index": 486,
+        "text": "-I’d like to check my balance please. -It’s not great sir.",
+        "task2": "check my balance有“查询账户余额”和“试试我的平衡性”两个意思",
+        "task3": "图为男人想查帐户余额，服务员却突然攻击他；服务员说“您的平衡性不太好”，说明他误以为男人想试试自己的平衡性好不好",
+        "task4": "去银行一般是查询余额；可能用于“balance”的一词多义",
+        "tag": "graphic"
+    },
+    {
+        "index": 487,
+        "text": "Engineer/Engifar",
+        "task2": "engineer谐音“enginear”",
+        "task3": "图为一个距离近的工程师和一个距离远的工程师；“engi+far”与“engi+near”对应",
+        "task4": "工程师的英文单词正确拼写为“engineer”；可能用于调侃“engineer”的发音",
+        "tag": "phonic"
+    },
+    {
+        "index": 488,
+        "text": "-Hi, my name is Heath. -Hey, nice to meet you. I’m Heather. -This isn’t a competition.",
+        "task2": "Heather有“人名Heather”和“更健康”两个意思",
+        "task3": "图为Heath和Heather互相介绍自己；Heath误解为“Heather是比较级”，故说“这不是比赛”",
+        "task4": "英文中形容词的比较级一般在最后加“er”；可能用于将比较级现象幽默化、情景化",
+        "tag": "graphic"
+    },
+    {
+        "index": 489,
+        "text": "-Can I ask you the menu please? -The men I please are none of your business!",
+        "task2": "menu please谐音“men you please”",
+        "task3": "图为问服务员菜单；服务员误听为“她喜欢什么样的男人”，故很生气",
+        "task4": "在餐厅一般讨论菜单；可能用于说明问女士的理想型是不礼貌的",
+        "tag": "phonic"
+    },
+    {
+        "index": 490,
+        "text": "-Do you need me to sign? -No thanks, my hearing is perfect.",
+        "task2": "sign有“签字”和“打手势”两个意思",
+        "task3": "图为询问是否需要签字；快递员误解为“是否需要打手势”，故回答说自己的听力很好",
+        "task4": "收快递一般要签字；可能用于调侃“sign”的一词多义",
+        "tag": "graphic"
+    },
+    {
+        "index": 491,
+        "text": "-How did you find your steak sir? -I just looked next to the potatoes and there it was.",
+        "task2": "find有“找到”和“感觉怎么样”两个意思",
+        "task3": "图为服务员问顾客牛排吃起来怎么样；顾客误解为“如何找到牛排的”，故回答“next to the potatoes”",
+        "task4": "在餐厅，服务员一般会问顾客食物尝起来怎么样；可能用于调侃“find”的一词多义",
+        "tag": "graphic"
+    },
+    {
+        "index": 492,
+        "text": "-Relax David, it’s just a small surgery, don’t panic. -My name is not David. -I know. I am David.",
+        "task2": "通常情况下医生会让病人冷静，即David通常指病人的名字，但这里是医生自己的名字",
+        "task3": "图为医生给病人做手术前告诉自己要冷静；病人误以为医生再叫自己，故说“My name is not David.”",
+        "task4": "做手术时，医生一般会告诉病人要放松；可能用于调侃新手医生",
+        "tag": "graphic"
+    },
+    {
+        "index": 493,
+        "text": "-This bike is on sale if you’re interested. -What’s the lowest you’ll go on it? -2 Mph. Anything less than that and you’ll tip over.",
+        "task2": "“What’s the lowest you’ll go on it?”有“你最低卖多少”和“自行车最慢的速度是多少”两种解释",
+        "task3": "图为顾客问自行车的最低售价；老板误解为“最低速度”，故回答“2Mph”",
+        "task4": "买自行车是顾客一般问的是价格；可能用于对“go on it”的不同理解",
+        "tag": "graphic"
+    },
+    {
+        "index": 494,
+        "text": "-This work is so tough... -Yes, but in 3,000 years we will still be remembered. -Definitely made by aliens.",
+        "task2": "“made by aliens”是对“we will still be remembered”的否定",
+        "task3": "图为金字塔建造时期和3000年后的对比；三千年后的今天，没有人记得是谁建造了金字塔",
+        "task4": "金字塔是古埃及法老的陵墓，它是用巨大石块修筑而成的角锥体建筑，建筑工艺精湛，内部有墓室结构；可能用于调侃现代人无法得知是谁创造了神圣的金字塔",
+        "tag": "graphic"
+    },
+    {
+        "index": 495,
+        "text": "-911 what’s your emergency? -Someone’s broken into my laboratory and stole Uranium! -Sir. It can’t have been mine. I don’t own an Anium. -Huh?",
+        "task2": "Uranium谐音“ur anium”",
+        "task3": "图为研究人员报警称有人偷走了铀；警员误听为“your Anium”，故回答说自己没有“Anium”",
+        "task4": "Uranium（铀）是一种放射性金属元素，是核能发电和制造核武器的关键原料；可能用于调侃某些不负责任的警官",
+        "tag": "phonic"
+    },
+    {
+        "index": 496,
+        "text": "-Raise a glass to our new yacht. -The “c” is silent. -Yes, you’re right. It’s very peaceful.",
+        "task2": "C谐音“sea”",
+        "task3": "图为两人在海边约会；男人误听为“the sea is silent”，故说peaceful",
+        "task4": "yacht中字母“c”不发音；可能用于调侃某些对“yacht”的错误读音",
+        "tag": "phonic"
+    },
+    {
+        "index": 497,
+        "text": "Let’s raise our glassed.",
+        "task2": "glasses有“眼镜”和“玻璃杯”两个意思",
+        "task3": "图为聚会时大家共同举杯；有人举起了眼镜，说明她理解错了",
+        "task4": "聚会时一般是举杯同庆；可能用于“glass”的一词多义",
+        "tag": "graphic"
+    },
+    {
+        "index": 498,
+        "text": "“You are what you eat” Light eaters:",
+        "task2": "you are what you eat字面意思是“你吃了什么，你就是什么”，深层次的意思是“我们的身体健康和外貌受到饮食的影响”",
+        "task3": "图为发光的人；light eaters吃了“光”，所以会发光",
+        "task4": "“You are what you eat”（人如其食），是一句西方谚语，体现了饮食对人健康和状态的重要性；可能用于调侃表面化理解具有深意的谚语",
+        "tag": "graphic"
+    },
+    {
+        "index": 499,
+        "text": "-Where were you Born? -I was born in Nepal. -Which Part? -What do you mean by Which part? Whole Body was Born in Nepal.",
+        "task2": "part有“身体部位”和“某一区域的一部分”",
+        "task3": "图为讨论出生地；which part被误解为“身体的哪个部位”",
+        "task4": "出生不可能是仅身体某一部位出生；可能用于调侃混淆“part”修饰的主语所带来的误会",
+        "tag": "graphic"
+    },
+    {
+        "index": 500,
+        "text": "Never argue with left-handed people. They are not Right.",
+        "task2": "right有“正确的”和“右边的”两个意思",
+        "task3": "不要和左撇子争论，因为他们是不对的",
+        "task4": "right的不同词性代表不同意思；可能用于“right”的一词多义",
+        "tag": "graphic"
+    },
+    {
+        "index": 501,
+        "text": "Happy Valentine’s! I got you a card and some flours.",
+        "task2": "card有“贺卡”和“硬纸板”两个意思；flour和“flower”谐义",
+        "task3": "图为情人节男朋友给女朋友买了硬纸板和面粉；女朋友听成了“贺卡”和“花”",
+        "task4": "情人节一般送恋人贺卡和花；可能用于调侃男朋友的直男行为",
+        "tag": "graphic"
+    },
+    {
+        "index": 502,
+        "text": "Your lips don’t touch when you say “touch” but they touch when you say “separate”.",
+        "task2": "touch有“接触”和“单词touch”两层含义",
+        "task3": "touch和separate是一组反义词；读“separate”的时候嘴唇才会接触",
+        "task4": "读单词时嘴唇是否接触与单词意思无关；可能用于以幽默地方式探讨发音时我们的舌位",
+        "tag": "graphic"
+    },
+    {
+        "index": 503,
+        "text": "-Ok sir, next can you tell me a little about your background? -Sure, it’s Mount Everest.",
+        "task2": "background有“身份背景”和“背景板”两个意思",
+        "task3": "图为记者询问受采访者的背景；男士背后的背景板上是“Mount Everest”",
+        "task4": "Mount Everest（珠穆朗玛峰）是世界最高峰，海拔约8848米；可能用于调侃“background”的一词多义",
+        "tag": "graphic"
+    },
+    {
+        "index": 504,
+        "text": "Dude, don’t you think you’ve had enough pockets?",
+        "task2": "pockets有“口袋”和“面包店pockets”两个意思",
+        "task3": "图为一个穿着带有很多口袋的衣服的男士站在pockets面包店前；店员说顾客已经有足够多的口袋了",
+        "task4": "pockets是一家面包店的品牌名称；可能用于调侃没人的衣服上有很多口袋的设计",
+        "tag": "graphic"
+    }
+]
