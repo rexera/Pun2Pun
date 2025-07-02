@@ -1,15 +1,15 @@
 # Pun2Pun: Benchmarking LLMs on Textual-Visual Chinese-English Pun Translation via Pragmatics Model and Linguistic Reasoning
 
-## 📝 Overview
+## Overview
 
-Pun2Pun is a novel benchmark for evaluating Large Language Models' capabilities in cross-lingual pun translation between Chinese and English. The project addresses the complex challenge of preserving both linguistic mechanisms and humorous effects in pun translation through:
+Pun2Pun is a novel benchmark for evaluating LLMs' capabilities in cross-lingual pun translation/recreation between Chinese and English. The project addresses the complex challenge of preserving both linguistic mechanisms and humorous effects in pun translation through:
 
 - **Constant-Variable Optimization (CVO) Model**: A systematic approach for pun translation strategy
 - **Progressive Sub-Tasks**: Four interconnected tasks from classification to translation
 - **Comprehensive Evaluation**: Multi-metric assessment including Overlap (Ovl) and Hit metrics
 - **Bilingual Dataset**: 5.5k textual puns and 1k visual puns across Chinese and English
 
-## 📊 Dataset Structure
+## Dataset Structure
 
 ### Textual Puns (`data/textual/`)
 ```
@@ -38,7 +38,7 @@ data/visual/
 └── zh_anno.json           # Chinese annotations
 ```
 
-## 🏗️ Dataset Statistics
+## Dataset Statistics
 
 For textual data, we collected Chinese and English homophonic and homographic puns from multiple sources, with quality assurance and annotations: 
 
@@ -96,7 +96,7 @@ For visual data, since no relevant datasets exist, we manually curated a diverse
 | Visual | Chinese | Image | 426 | 74 |
 | Visual | English | Image | 155 | 349 |
 
-## 🎯 Tasks and Terminology
+## Tasks and Terminology
 
 The benchmark consists of four progressive sub-tasks with different naming conventions for textual and visual puns:
 
@@ -107,20 +107,19 @@ The benchmark consists of four progressive sub-tasks with different naming conve
 | **Task III** | Decomposition (`explanation`) | Appreciation (`task3` + `task4`) | Analyze pun mechanism |
 | **Task IV** | Translation | Translation | Recreate target language pun |
 
-## 🔧 Usage
+## Usage
 
 ### Inference
 
-The project provides three inference strategies:
 
 ```bash
-# Standard inference
+# Standard
 python infer/{task}/openai_infer.py
 
-# Chain-of-Thought inference  
+# Chain-of-Thought
 python infer/{task}/openai_infer_cot.py
 
-# CVO-based inference
+# CVO
 python infer/{task}/openai_infer_cvo.py
 ```
 
@@ -145,7 +144,7 @@ python eval/ovl.py      # Overlap metric
 
 
 
-## 📚 Citation
+## Citation
 
 If you use Pun2Pun in your research, please cite:
 
