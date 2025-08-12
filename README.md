@@ -1,5 +1,7 @@
 # Pun2Pun: Benchmarking LLMs on Textual-Visual Chinese-English Pun Translation via Pragmatics Model and Linguistic Reasoning
 
+[![ACL Anthology](https://img.shields.io/badge/ACL%20Anthology-2025.acl--srw.23-1f6feb.svg)](https://aclanthology.org/2025.acl-srw.23/)
+
 ## Overview
 
 Pun2Pun is a novel benchmark for evaluating LLMs' capabilities in cross-lingual pun translation/recreation between Chinese and English. The project addresses the complex challenge of preserving both linguistic mechanisms and humorous effects in pun translation through:
