@@ -151,10 +151,25 @@ python eval/ovl.py      # Overlap metric
 If you use Pun2Pun in your research, please cite:
 
 ```bibtex
-@article{ma2025pun2pun,
-  title={Pun2Pun: Benchmarking LLMs on Textual-Visual Chinese-English Pun Translation via Pragmatics Model and Linguistic Reasoning},
-  author={Ma, Yiran Rex and Huang, Shan and Xu, Yuting and Zhou, Ziyu and Wei, Yuanxi},
-  journal={WE ARE WORKING ON THIS!},
-  year={2025}
+@inproceedings{ma-etal-2025-pun2pun,
+    title = "{P}un2{P}un: Benchmarking {LLM}s on Textual-Visual {C}hinese-{E}nglish Pun Translation via Pragmatics Model and Linguistic Reasoning",
+    author = "Ma, Yiran Rex  and
+      Huang, Shan  and
+      Xu, Yuting  and
+      Zhou, Ziyu  and
+      Wei, Yuanxi",
+    editor = "Zhao, Jin  and
+      Wang, Mingyang  and
+      Liu, Zhu",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 4: Student Research Workshop)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-srw.23/",
+    doi = "10.18653/v1/2025.acl-srw.23",
+    pages = "331--354",
+    ISBN = "979-8-89176-254-1",
+    abstract = "Puns, as a unique form of linguistic creativity, present significant challenges in cross-lingual translation, particularly between linguistically distant languages like Chinese and English, where it{'}s often considered a ``mission impossible''. We introduce Pun2Pun, a novel benchmark for quantitatively evaluating pun translation between Chinese and English while preserving both linguistic mechanisms and humorous effects. We propose the adaptation of Constant-Variable Optimization (CVO) Model for translation strategy and concomitant Overlap (Ovl) metric for translation quality assessment. Our approach provides a robust quantitative evaluation framework to assess models' complex linguistic and cultural reasoning capabilities in pun translation. Through extensive experiments on both textual and visual puns, we demonstrate that our translation strategy model significantly improves performance, particularly for better-performing models. Our findings reveal exciting potentials and current limitations of LLMs in preserving sophisticated humor across linguistic and cultural boundaries."
 }
 ```
